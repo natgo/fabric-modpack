@@ -21,3 +21,6 @@
 .minecraft/not-enough-crashes/
 .minecraft/mods/meteor-client**
 .minecraft/mods/slight-gui-modifications**
+.minecraft/mods/*.jar
+!.minecraft/mods/SmoothScrollingEverywhere-3.0.3-unstable.jar
+!.minecraft/mods/baritone-api-fabric-1.8.0.jar
