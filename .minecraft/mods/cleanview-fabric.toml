@@ -1,0 +1,13 @@
+name = "CleanView (Fabric)"
+filename = "CleanView-1.18.1-v1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/342/CleanView-1.18.1-v1-fabric.jar"
+hash-format = "murmur2"
+hash = "3565502738"
+
+[update]
+[update.curseforge]
+file-id = 3559342
+project-id = 375465
