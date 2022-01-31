@@ -1,0 +1,90 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = minecraft_cave_animation_fancymenu_21938kf312
+  action = animatebackground
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=376405%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400321%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -64
+}
+
+customization {
+  identifier = %id=400321%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604405%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  x = 380
+  width = 98
+  actionid = decbfbce-3735-4ce3-b78d-cd91191494311633386453002
+  action = addbutton
+  y = 206
+  label = Nakton Servu
+  value = natgo.xyz
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 0
+  actionid = 1980b144-186d-45ef-b859-5dd692504f5b1642614083657
+  action = addtext
+  y = -9
+  scale = 1.0
+  alignment = left
+  value = Fabric API: %version:fabric%
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  vr:showif:oswindows = true
+  x = 0
+  actionid = 36b9062c-ab28-4e9a-9ee6-42d2e529ebee1642614831082
+  action = addtext
+  y = 10
+  scale = 1.0
+  alignment = left
+  value = (Vindows moment)
+}
+

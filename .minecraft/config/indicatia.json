@@ -1,0 +1,18 @@
+{
+    "afkMessageTime": 5,
+    "enableRenderInfo": false,
+    "enableBlockhitAnimation": false,
+    "enableOldArmorRender": false,
+    "enableVersionChecker": false,
+    "enableAFKMessage": false,
+    "enableCustomPlayerList": false,
+    "multiplayerScreenEnhancement": false,
+    "enableConfirmToDisconnect": false,
+    "enableVanillaPotionHUD": false,
+    "enableBossHealthBarRender": false,
+    "enableRenderBossHealthStatus": false,
+    "enableSidebarScoreboardRender": false,
+    "enableHypixelChatMode": false,
+    "enableHypixelDropdownShortcutGame": false,
+    "enableAlternateChatKey": false
+}

@@ -1,0 +1,95 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = minecraft_cave_animation_fancymenu_21938kf312
+  action = animatebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=376405%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376405%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400321%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -64
+}
+
+customization {
+  identifier = %id=400321%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400321%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=604405%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604405%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  x = 380
+  width = 98
+  actionid = decbfbce-3735-4ce3-b78d-cd91191494311633386453002
+  action = addbutton
+  y = 206
+  label = Nakton Servu
+  value = natgo.xyz
+  height = 20
+}
+
+customization {
+  identifier = %id=502405%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400405%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400369%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400345%
+  action = vanilla_button_visibility_requirements
+}
+

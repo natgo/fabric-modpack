@@ -1,0 +1,5 @@
+allowPlace false
+allowBrake true
+assumeWalkOnWater true
+allowParkour true
+maxFallHeightNoWater 4

@@ -1,0 +1,208 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = minecraft_cave_animation_fancymenu_21938kf312
+  action = animatebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=376405%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376405%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=502405%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -38
+}
+
+customization {
+  identifier = %id=502405%
+  seconds = 0.9
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502405%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400405%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -61
+}
+
+customization {
+  identifier = %id=400405%
+  seconds = 0.6
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400405%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=502321%
+  orientation = mid-right
+  x = -98
+  action = movebutton
+  y = -61
+}
+
+customization {
+  identifier = %id=502321%
+  seconds = 0.6
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502321%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400321%
+  orientation = mid-right
+  x = -98
+  action = movebutton
+  y = -84
+}
+
+customization {
+  identifier = %id=400321%
+  seconds = 0.3
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400321%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400369%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -84
+}
+
+customization {
+  identifier = %id=400369%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400369%
+  seconds = 0.3
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400369%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=604405%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604405%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400345%
+  orientation = mid-right
+  x = -98
+  action = movebutton
+  y = -38
+}
+
+customization {
+  identifier = %id=400345%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400345%
+  seconds = 0.9
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400345%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  vr:value:serveronline = natgo.xyz
+  delayappearanceseconds = 1.2
+  buttonaction = joinserver
+  label = Nakton servu
+  loopbackgroundanimations = true
+  vr:showif:serveronline = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 862
+  width = 98
+  actionid = f3844781-b87b-40f6-be4e-8b1bb8754a691633383919785
+  action = addbutton
+  y = 255
+  delayappearance = true
+  value = natgo.xyz
+  delayappearanceeverytime = false
+  height = 20
+}
+
