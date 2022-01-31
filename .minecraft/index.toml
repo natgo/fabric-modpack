@@ -126,7 +126,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "7d8e8b74e3e34e6de9295a33669da55c20d0cb12adeabdf3e579b5d16aae74a0"
+hash = "4e54c686e5d6e54e6044e0fcafb3cfb05f0af70d9dc99a33c313b3bd6ff699ce"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -154,7 +154,7 @@ hash = "310af2157e4c0394ead12437711d5cf87ea36da788bc73cd5f6e288b537ad323"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "5296699567b33f691790adcd4c56c270f3167c515ff83e0912a2183eaf4c6e51"
+hash = "25ce94b32274af689a4031ee78306281364cec31cfd044cbbacc5615b8a2eede"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -182,7 +182,7 @@ hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "e21583522c39664d3bfbcdb8211aba95ff9e01d338df1038913fa31eddd6d2ad"
+hash = "b14653c82582a2bedf7fe0af3709891d6378449f4f09294e2cd44351e85d3ebd"
 
 [[files]]
 file = "config/fancymenu/locals/pl_pl.local"
@@ -194,11 +194,11 @@ hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
 
 [[files]]
 file = "config/fancymenu/locals/zh_cn.local"
-hash = "9cee147fc2141820fbbd1db1d43ea0f14e6a265ba1b8958d2e57e8acadfd06bc"
+hash = "b9c3dfadba74762bfea5837060ca5bfb4dfd3b1fbcd65fb6c0d190df4ec611d6"
 
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
-hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+hash = "9dfa943b1306339bcea776147394c19db55f7cfc41ed3f3fb639f41a360baffe"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -394,7 +394,7 @@ hash = "2f9ab13e2bc2afd021981c94a11ead8d82c57fc74d2940443d26a8a8ea15abf7"
 
 [[files]]
 file = "config/malilib.json"
-hash = "f7f6dcf043c7b6e61d16c253f683f798af7d10985ed325fea4bc552cdeeb9de4"
+hash = "bcd5c0f954fe875ab13900132f4eac4cd50c6b2f2cf2f9f12654177d760e4e33"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -402,7 +402,7 @@ hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 
 [[files]]
 file = "config/minihud.json"
-hash = "3e5775c7cb01b5fdfad05cd47f8f2a4e2f1eb73b9855c8c34a76f92a16a956b2"
+hash = "a89671759d3a495cd616e0eefca44ad3f36ebc2604237088066cc9d92e410d33"
 
 [[files]]
 file = "config/minimalmenu.json"
@@ -442,7 +442,7 @@ hash = "e3bf13bfae135bec8dd7c2bc476bc260e63fab29feeabe64b5caaf471d973337"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "668cbcd465ebc22ff97cfb2a250217dbb02ada255962e9293e7788b79407d4a2"
+hash = "bb208632bc164cf0bff2a2b9e1a7636abd63d1c35e4ad0ffa968e0ecc0a3510b"
 
 [[files]]
 file = "config/rrp.properties"
@@ -462,7 +462,7 @@ hash = "0606ea57121d0307b7444c60602c135f9753c40882b13b9fac7efa9cd7a4fe7d"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "e5439094339ff51fce7db4da2cb23a80c057c25c914598ccf97e697090c6f678"
+hash = "2d6473e3b7a0baf270e661f638dbb62cae5f179ad6caf20722451e727eca5a28"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -478,7 +478,7 @@ hash = "c39b5acfb7f3b3516c7e6e1582063a0eb313c89ffb61da8d2fdbf7641f97bed5"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "2b215159851cf9515ab8388226f5c85ae1c19c67072d27af40b76c8c672364d6"
+hash = "5a782c0d6bacd77d452ea9faf27a0de860bcb6b22a903bb96a27e1e68c975644"
 
 [[files]]
 file = "config/voxelmap.properties"
@@ -502,11 +502,11 @@ hash = "bbcca0ae063c4d59267f446506d7bf034277217e49f285ed34c5bd8efc91e0f2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "0b66a8b251d49dbb5779fa29bcdf8387113691d23aa140820b790c4fe3f50d7b"
+hash = "336c5a39353081db05882e5ac0f97caa4b97596fadcbf4c996efc911839e1881"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8e2a8689552841f37363ea65b371fb3bb28112834b86cb282a9e2d90f833ea4a"
+hash = "236da9954bccf54ad6521d31ad1473b8c6e3c2cfada56ea8feed0a54fd5665d2"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -906,11 +906,11 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "d3b09b9010e0b8fc9f050111457623384aa439eea146da9c426c7c866843b72c"
+hash = "4af64f759d0dcf00e2d0b202836ced2c994387930b10c2a1b6e9525033445a9c"
 
 [[files]]
 file = "options.txt"
-hash = "08111fc8a4731080689ee3049fcf6670460782ce28b02ee8fe4903ddb53d6774"
+hash = "024680188ef59072df59d7a8cc93968df5e15b884a08e5abe587c18b5923373c"
 
 [[files]]
 file = "packwiz"
@@ -1818,4 +1818,4 @@ hash = "56acd5e1367b3c4e413e6ee19f8b5f31322ffd54df3d603db19f1093bc317778"
 
 [[files]]
 file = "servers.dat"
-hash = "9cd58a9b3cc92914fe39060ad515f9cfa52981e734606b8a86e861bf7fee7cb0"
+hash = "042f51195eb0df1bfd58856e8d30638a39e071e6846957b1f62bf0aaf1bda40c"
