@@ -4,7 +4,6 @@
 .minecraft/saves/
 .minecraft/logs/
 .minecraft/crash-reports/
-.minecraft/config/quantumfusion/
 .minecraft/screenshots/
 .minecraft/usercache.json
 .minecraft/config/minihud/
@@ -14,7 +13,6 @@
 .minecraft/voxelmap/*
 !.minecraft/voxelmap/biomecolors.txt
 .minecraft/dashloader-cache
-.minecraft/schematics
 .minecraft/.icons/
 .minecraft/config/litematica/
 .minecraft/XaeroWorldMap/
