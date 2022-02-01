@@ -807,11 +807,6 @@ hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
 metafile = true
 
 [[files]]
-file = "mods/motschens-puddles.toml"
-hash = "7734c2d0658f92b6604d02e39596e2814a94ab27d16c9df1d03036ccd0c6ef2e"
-metafile = true
-
-[[files]]
 file = "mods/mouse-wheelie.toml"
 hash = "66e1fdb5b09f398142c643488156cd6995f4db0dfe399a525f2450811d59fa74"
 metafile = true
