@@ -22,7 +22,7 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "f1b6403f9b56d34181ae6a4503ce4a547849d7c641ca23cd122cee87589f33c4"
+hash = "a01034caf8e174605eba976f55dadce0954fb2a82ddf9a164c3a84dfb37c838f"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -110,7 +110,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "386f8e74086211a48cfd64205840a68c90c1db1be3487cda37edc147d856e739"
+hash = "88d78675a0d0d4aaa0526194672c27d24075a163f0929bad9792841c6febcc12"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -226,7 +226,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "177a0f4b04d88677d594f1effb2f25c2ee18a3e09a2a228d13a7f5794c66e9ba"
+hash = "ac64eb53ab556976fb1d4e1fb0723b933a5249c36cbeb84c8f238ed6b8b97e5f"
 
 [[files]]
 file = "config/indicatia.json"
@@ -234,7 +234,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "54f7b7d383ed8171ad13a1ca1fae1fd2a4d7dce305a4e649f0b92beff820f36f"
+hash = "0efa33c8b0678dbbef6cf87263b56f1f1c01a709a142366ca175ae234a04d823"
 
 [[files]]
 file = "config/inspecio.json"
@@ -575,6 +575,11 @@ metafile = true
 [[files]]
 file = "mods/boathud.toml"
 hash = "eacfe35a0861a06ef41ac200e7f0a4f76b6b4f894347c6f95be23f19d9104fdd"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.toml"
+hash = "07224fac3c343fb8e1cb4cb2eb638e9d1a728dedb6cb012c9effb6b7d4845891"
 metafile = true
 
 [[files]]
