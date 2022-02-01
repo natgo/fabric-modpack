@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "baritone/readme.txt"
+hash = "e8c6293d800809a9afcae2248b0921337d439f4a3c16f77dafba6d7fb524594d"
+
+[[files]]
 file = "baritone/settings.txt"
 hash = "485195ac4f1fc445e109f50944985379ca3d46599239ac32cff843ef0140821b"
 
@@ -18,7 +22,7 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "1212c87feb512868ca6e6fcd6ef6b250c148ebcc4689b293e25f27cfffa7a6ee"
+hash = "f1b6403f9b56d34181ae6a4503ce4a547849d7c641ca23cd122cee87589f33c4"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -106,7 +110,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "db700955151fe31156b038835a38b9c224bead80b986bc890c7d626d532c0a01"
+hash = "386f8e74086211a48cfd64205840a68c90c1db1be3487cda37edc147d856e739"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -222,7 +226,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "e92822356593f5fcaf5a6e594203c366c580993ad55ac023d6c607b952bc9d93"
+hash = "177a0f4b04d88677d594f1effb2f25c2ee18a3e09a2a228d13a7f5794c66e9ba"
 
 [[files]]
 file = "config/indicatia.json"
@@ -230,7 +234,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "b0df43a8ad98e38e8c083b129034a3bdaf6eccb1258803101c937628ce23cbe1"
+hash = "54f7b7d383ed8171ad13a1ca1fae1fd2a4d7dce305a4e649f0b92beff820f36f"
 
 [[files]]
 file = "config/inspecio.json"
@@ -262,7 +266,7 @@ hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
 file = "config/litematica.json"
-hash = "3773fe248abf3025b2fdab494f57ccee15fa66771f8582ca39789b6d18bfbd53"
+hash = "167602b7505ce366b9408a4b043f822ba87020946eba616fe0f61b88c6f53958"
 
 [[files]]
 file = "config/lithium.properties"
@@ -402,7 +406,7 @@ hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 
 [[files]]
 file = "config/minihud.json"
-hash = "a89671759d3a495cd616e0eefca44ad3f36ebc2604237088066cc9d92e410d33"
+hash = "360203a086b573da9faf5765235daa3255382fa8412c65d9e1a2b22b355fb131"
 
 [[files]]
 file = "config/minimalmenu.json"
@@ -517,6 +521,10 @@ file = "config/xaeroworldmap.txt"
 hash = "322dcefb3b5f5f9b0b2f67cc73ee4490910d895a466adbd20e953d9b9b68bfa0"
 
 [[files]]
+file = "icon.png"
+hash = "e15bbb3673e455a68396e06489f59c429a6ca0967757b4f18cb9d595c8f1fb08"
+
+[[files]]
 file = "mods/SmoothScrollingEverywhere-3.0.3-unstable.jar"
 hash = "f5af54b50507e88090abea7ea5c863d2398b15a77287cb3b9486bc99b4ae6e19"
 
@@ -567,6 +575,11 @@ metafile = true
 [[files]]
 file = "mods/boathud.toml"
 hash = "eacfe35a0861a06ef41ac200e7f0a4f76b6b4f894347c6f95be23f19d9104fdd"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "243bd1f95ad848058b23bb92b91b6cded66f29032d6a55c3ebdc090fde781cd6"
 metafile = true
 
 [[files]]
