@@ -112,10 +112,10 @@
       "keys": ""
     },
     "flexibleBlockPlacementOffset": {
-      "keys": ""
+      "keys": "LEFT_CONTROL"
     },
     "flexibleBlockPlacementRotation": {
-      "keys": ""
+      "keys": "LEFT_ALT"
     },
     "flyPreset1": {
       "keys": ""
@@ -151,10 +151,10 @@
       "keys": ""
     },
     "inventoryPreview": {
-      "keys": ""
+      "keys": "LEFT_ALT"
     },
     "openConfigGui": {
-      "keys": ""
+      "keys": "X,C"
     },
     "placementYMirror": {
       "keys": ""
@@ -163,22 +163,22 @@
       "keys": ""
     },
     "placementRestrictionModeColumn": {
-      "keys": ""
+      "keys": "Z,3"
     },
     "placementRestrictionModeDiagonal": {
-      "keys": ""
+      "keys": "Z,5"
     },
     "placementRestrictionModeFace": {
-      "keys": ""
+      "keys": "Z,2"
     },
     "placementRestrictionModeLayer": {
-      "keys": ""
+      "keys": "Z,6"
     },
     "placementRestrictionModeLine": {
-      "keys": ""
+      "keys": "Z,4"
     },
     "placementRestrictionModePlane": {
-      "keys": ""
+      "keys": "Z,1"
     },
     "sitDownNearbyPets": {
       "keys": ""
@@ -197,18 +197,6 @@
     },
     "toggleCarpetAccuratePlacementProtocol": {
       "keys": ""
-    },
-    "toggleCarpetAccuratePlacementProtocol": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
     },
     "toggleGrabCursor": {
       "keys": ""
@@ -274,7 +262,7 @@
     ],
     "fastRightClickBlockWhiteList": [],
     "fastRightClickBlackList": [
-      "minecraft:fireworks"
+      "minecraft:firework_rocket"
     ],
     "fastRightClickWhiteList": [
       "minecraft:bucket",
@@ -316,48 +304,6 @@
     ]
   },
   "DisableToggles": {
-<<<<<<< Updated upstream
-    "disableArmorStandRendering": false,
-    "disableAxeStripping": false,
-    "disableBatSpawning": false,
-    "disableBlockBreakingParticles": false,
-    "disableDoubleTapSprint": true,
-    "disableBossFog": false,
-    "disableChunkRendering": false,
-    "disableClientEntityUpdates": false,
-    "disableClientLightUpdates": false,
-    "disableDeadMobRendering": false,
-    "disableDeadMobTargeting": false,
-    "disableEntityRendering": false,
-    "disableEntityTicking": false,
-    "disableFallingBlockEntityRendering": false,
-    "disableInventoryEffectRendering": false,
-    "disableItemSwitchRenderCooldown": false,
-    "disableMobSpawnerMobRendering": false,
-    "disableNauseaEffect": false,
-    "disableNetherFog": false,
-    "disableNetherPortalSound": false,
-    "disableObserver": false,
-    "disableOffhandRendering": false,
-    "disableParticles": false,
-    "disablePortalGuiClosing": true,
-    "disableRainEffects": false,
-    "disableRenderingScaffolding": false,
-    "disableRenderDistanceFog": false,
-    "disableScoreboardRendering": false,
-    "disableShulkerBoxTooltip": false,
-    "disableShovelPathing": false,
-    "disableSignGui": false,
-    "disableSlimeBlockSlowdown": false,
-    "disableTileEntityRendering": false,
-    "disableTileEntityTicking": false,
-    "disableVillagerTradeLocking": false,
-    "disableWallUnsprint": false,
-    "disableWorldViewBob": false
-  },
-  "DisableHotkeys": {
-=======
->>>>>>> Stashed changes
     "disableArmorStandRendering": {
       "enabled": false,
       "hotkey": {
@@ -380,18 +326,6 @@
       "enabled": false,
       "hotkey": {
         "keys": ""
-      }
-    },
-    "disableBatSpawning": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
       }
     },
     "disableBlockBreakingParticles": {
@@ -514,18 +448,6 @@
         "keys": ""
       }
     },
-    "disableNetherPortalSound": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
     "disableObserver": {
       "enabled": false,
       "hotkey": {
@@ -586,18 +508,6 @@
         "keys": ""
       }
     },
-    "disableShovelPathing": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
     "disableSignGui": {
       "enabled": false,
       "hotkey": {
@@ -605,6 +515,12 @@
       }
     },
     "disableSlimeBlockSlowdown": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableStatusEffectHud": {
       "enabled": false,
       "hotkey": {
         "keys": ""
@@ -748,6 +664,9 @@
       "keys": ""
     },
     "disableSlimeBlockSlowdown": {
+      "keys": ""
+    },
+    "disableStatusEffectHud": {
       "keys": ""
     },
     "disableTileEntityRendering": {
@@ -795,7 +714,7 @@
     "tweakFastRightClick": false,
     "tweakFillCloneLimit": false,
     "tweakFlySpeed": false,
-    "tweakFlexibleBlockPlacement": false,
+    "tweakFlexibleBlockPlacement": true,
     "tweakFreeCamera": false,
     "tweakGammaOverride": false,
     "tweakHandRestock": false,
