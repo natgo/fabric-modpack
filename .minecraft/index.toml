@@ -627,6 +627,11 @@ hash = "4d3086d640c86bf3625ce9067d02d9ed586d23ff6bd3398655fd2fbfdce83de6"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.toml"
+hash = "3c2a5355d761d6377834dfcf40336bd18d19efbe504142586b796dc904cead64"
+metafile = true
+
+[[files]]
 file = "mods/dehydration.toml"
 hash = "e27475f37526505f87227e87357e71f7f8469e12e95b72649d467e5392b4fa75"
 metafile = true
