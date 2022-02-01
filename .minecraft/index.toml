@@ -22,7 +22,7 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "a01034caf8e174605eba976f55dadce0954fb2a82ddf9a164c3a84dfb37c838f"
+hash = "44efc43c16790501ac5d885d68c479ff7da30110fc6e29bb63b3d66d7f037166"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -51,6 +51,10 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 [[files]]
 file = "config/c2me.toml"
 hash = "49eba54ea7f419fb789370c2674289123087aaea9bcf18c6ff2e992b70699130"
+
+[[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/cleardespawn.json"
@@ -110,7 +114,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "88d78675a0d0d4aaa0526194672c27d24075a163f0929bad9792841c6febcc12"
+hash = "34c9d1c493de214ed3156f55d7f16421998f012bfef44fd7ce83b2920658a548"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -226,7 +230,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "ac64eb53ab556976fb1d4e1fb0723b933a5249c36cbeb84c8f238ed6b8b97e5f"
+hash = "cbbb994d7abab4da2b7d6208137694eab14d9c217ec28fc10498612eae330687"
 
 [[files]]
 file = "config/indicatia.json"
@@ -234,7 +238,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "0efa33c8b0678dbbef6cf87263b56f1f1c01a709a142366ca175ae234a04d823"
+hash = "718d21f4e1bc21a5a03435adb978243965a6bd3af8e4b2517da6cbb14f4bbc5f"
 
 [[files]]
 file = "config/inspecio.json"
@@ -482,7 +486,7 @@ hash = "c39b5acfb7f3b3516c7e6e1582063a0eb313c89ffb61da8d2fdbf7641f97bed5"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "5a782c0d6bacd77d452ea9faf27a0de860bcb6b22a903bb96a27e1e68c975644"
+hash = "10fbb7e24b729daae170f70451744e94d63569562f7ba14e449ef3dc7eb019d9"
 
 [[files]]
 file = "config/voxelmap.properties"
@@ -510,7 +514,7 @@ hash = "336c5a39353081db05882e5ac0f97caa4b97596fadcbf4c996efc911839e1881"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "236da9954bccf54ad6521d31ad1473b8c6e3c2cfada56ea8feed0a54fd5665d2"
+hash = "146c55197a950b8a12ea85fe6084a7914d520dbbeb3111095cdc04058c21d83b"
 
 [[files]]
 file = "config/xaeropatreon.txt"
