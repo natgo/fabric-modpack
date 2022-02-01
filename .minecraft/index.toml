@@ -667,6 +667,11 @@ hash = "c58834af10ab46edeb4946b55f4d71cf9bced4d37aef0ee122a5a7e4e9e17153"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trinket-fabric.toml"
+hash = "5fd55ae664016de4dfbc907a4e2a5a7c941efb6996c4831604505655c4ae4931"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-attack-indicator.toml"
 hash = "9b1c918c59502179e032d1094bbd0749e67c2781e197ebac61228ca3b2183bd7"
 metafile = true
@@ -889,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/transliterationlib.toml"
 hash = "a4cd3516d3213b9f288ddeceb200b3fbaafb91673c14b79b261df0c3fd7aa1e5"
+metafile = true
+
+[[files]]
+file = "mods/trinket-of-undying-fabric.toml"
+hash = "4fe817989af0a6fc7050d0ce8ccee70c14186995541b24929cae01620f3f0b2e"
 metafile = true
 
 [[files]]
