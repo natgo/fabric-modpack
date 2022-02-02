@@ -22,11 +22,11 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "997a7f930375683749ff70d20b78caf1de22c04208db6508802e40c2a2e5121a"
+hash = "8aa5a59641993ca3a9080f84af8868001dbeb891c741e6702e291629b67c9ad6"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
-hash = "67f16c596ad9f7230ceb8fbf46214ab765c4643bf418d79d25d1768a0261762f"
+hash = "0ee84810687b7ddb3ad7fe8adfe6d124679bed24c95fe6f50152bb096dcf6141"
 
 [[files]]
 file = "config/beenfo.json"
@@ -114,7 +114,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "3d00c37a2880d37072cb999411305f963dc93afff5d0ba794fbd2eec8de8fd47"
+hash = "863285953fc8e7b729937d81e586b719190281a810ee63008ff71cfb21b24a4d"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -230,7 +230,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "7bc442562a3ee71973c4f09d273a1ed29ae95e8e7e8d314cb21d9710cfef20c3"
+hash = "b42eb18c2552353a9437895878718e2ee1ecc3328568e124b30cbafebbe1994c"
 
 [[files]]
 file = "config/indicatia.json"
@@ -238,7 +238,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "7a15d9b6d5c765190f54425671189a0b888935e756e08f686c3be6f134a80a92"
+hash = "1c195ef126dd389c02c56d6c47919d1643cb84016036a89929cf9d1e429d0198"
 
 [[files]]
 file = "config/inspecio.json"
@@ -263,6 +263,10 @@ hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 [[files]]
 file = "config/lambdynlights.toml"
 hash = "c88dd22a973322fa90fb718c8dca5158aceaf1b80fe5300ac88e9c2bbc68769e"
+
+[[files]]
+file = "config/libcd.json"
+hash = "688d62f77d1e99697e4a3ce6f5d9c833d024472726da4e3c480b0e2281aea70a"
 
 [[files]]
 file = "config/libgui.json5"
@@ -401,6 +405,10 @@ file = "config/loomrecipes/mark_question.lr"
 hash = "2f9ab13e2bc2afd021981c94a11ead8d82c57fc74d2940443d26a8a8ea15abf7"
 
 [[files]]
+file = "config/magna.json"
+hash = "41b63f8dd471047e1e5d4ffdc3ef2802f7a766c8408b59be050b529576d404e2"
+
+[[files]]
 file = "config/malilib.json"
 hash = "bcd5c0f954fe875ab13900132f4eac4cd50c6b2f2cf2f9f12654177d760e4e33"
 
@@ -458,7 +466,7 @@ hash = "e3bf13bfae135bec8dd7c2bc476bc260e63fab29feeabe64b5caaf471d973337"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "b11b4674d42f02a29126a1aa74fe2e1529e12ae3a1881e1f650bb2a061a32562"
+hash = "1936b3cd397f5a900517b58ffcb8a2f45c83afd7162b5fe33ac137577d010875"
 
 [[files]]
 file = "config/rrp.properties"
@@ -497,6 +505,10 @@ file = "config/tweakeroo.json"
 hash = "10fbb7e24b729daae170f70451744e94d63569562f7ba14e449ef3dc7eb019d9"
 
 [[files]]
+file = "config/vanilla-hammers.json"
+hash = "ab67789af4d2a802ee0c39e46c45392e21bbba848e7e7a7998be94cfa53ac40c"
+
+[[files]]
 file = "config/voxelmap.properties"
 hash = "e77bfa2902ee44fd186cc509f426c5b2c92e86d6d6b0eb54a1c7a5c1f6b4b169"
 
@@ -522,7 +534,7 @@ hash = "336c5a39353081db05882e5ac0f97caa4b97596fadcbf4c996efc911839e1881"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c330dde1af8c3623150ea28b02a48de892461cb7ea69891f8b6da5344fb684f4"
+hash = "358b9ae204f8eeed97f936c125ac7552b37bf9e475ddd2787ae37610f1d189f0"
 
 [[files]]
 file = "config/xaeropatreon.txt"
