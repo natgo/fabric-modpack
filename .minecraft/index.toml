@@ -556,8 +556,9 @@ hash = "a62320e2d509f7cd9759c40eaa7d2da4ca28ffddf65d36b25d6047bb0773e80b"
 metafile = true
 
 [[files]]
-file = "mods/baritone-api-fabric-1.8.0.jar"
-hash = "2dfafb5fb50c45d4b98697a97c741fd5fb250bb80f86189196b19baddb7c73e6"
+file = "mods/baritone-api-fabric.toml"
+hash = "b0c4c22b86b76926a051f030abc807495c09225d250f96e948ad1dd7b5363045"
+metafile = true
 
 [[files]]
 file = "mods/beenfo.toml"
