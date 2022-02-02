@@ -926,6 +926,11 @@ hash = "8ab7c0e511c52bcadd827aaca47a23183d41ec7ffd5ccf095c415c34f188d848"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-hammers.toml"
+hash = "26bada324b3a3e699b2d6bc70142e1924f681976370033ed241a4a794a3fa28b"
+metafile = true
+
+[[files]]
 file = "mods/villager-hats-mod.toml"
 hash = "16c2be20f0d626749406e1a3c4ec430b81099b81d52f59447d6e7f7e8f751727"
 metafile = true
