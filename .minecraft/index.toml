@@ -938,6 +938,11 @@ hash = "8ab7c0e511c52bcadd827aaca47a23183d41ec7ffd5ccf095c415c34f188d848"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-excavators.toml"
+hash = "b033f9a8c0c41b2cb7f6bfd8799d5d083e0f5043d27cdbd503785dabda1e9837"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-hammers.toml"
 hash = "26bada324b3a3e699b2d6bc70142e1924f681976370033ed241a4a794a3fa28b"
 metafile = true
