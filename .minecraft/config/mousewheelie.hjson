@@ -17,7 +17,7 @@
 	scrolling: {
 		// Enables scrolling of stacks
 		// default: true
-		enable: true
+		enable: false
 		// Invert the scroll direction when scrolling items
 		// default: false
 		invert: false

@@ -64,7 +64,12 @@
 			"minecraft:mojang_banner_pattern",
 			"minecraft:diamond_axe",
 			"minecraft:diamond_pickaxe",
-			"minecraft:diamond_sword"
+			"minecraft:diamond_sword",
+			"minecraft:diamond_helmet",
+			"minecraft:diamond_chestplate",
+			"minecraft:diamond_boots",
+			"minecraft:diamond_leggings",
+			"minecraft:diamond_shovel"
 		],
 		"enchantments": [
 			"minecraft:protection",
