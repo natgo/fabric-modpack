@@ -150,5 +150,9 @@
   "minecraft:channeling": {
     "orderIndex": 32,
     "color": 11466239
+  },
+  "magna:gigantism_curse": {
+    "orderIndex": 38,
+    "color": 12915514
   }
 }
