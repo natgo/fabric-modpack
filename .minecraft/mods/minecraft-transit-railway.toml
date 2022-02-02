@@ -1,0 +1,13 @@
+name = "Minecraft Transit Railway"
+filename = "MTR-1.18.1-3.0.0-beta-8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/3.0.0-beta-8/MTR-1.18.1-3.0.0-beta-8.jar"
+hash-format = "sha512"
+hash = "16d2bb879652f3b68da8ad40db28f5efc50016606aac8b515d5a562c41fcd7a6f3f10f9700cc7bbd72fe38f3ec9d9043689731e33667fffb5b8a57766922b6b4"
+
+[update]
+[update.modrinth]
+mod-id = "XKPAmI6u"
+version = "C2NPfT9x"

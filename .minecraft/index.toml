@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "25ca498c6eb2e5817ca7c826f7d78cacf55e14b7161c1a0045f9500aaf1d498e"
+hash = "a62320e2d509f7cd9759c40eaa7d2da4ca28ffddf65d36b25d6047bb0773e80b"
 metafile = true
 
 [[files]]
@@ -797,6 +797,11 @@ hash = "0fb4ed3155243518a5690d4cc7f0d6d9bf44c4f3c5fc502853c82cc25a174ca6"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transit-railway.toml"
+hash = "1f26cffb80ccc1ca1cfbe1a4328732b481103ad17dce13c91737141e0d0959a9"
+metafile = true
+
+[[files]]
 file = "mods/minihud.toml"
 hash = "a202cb0518d2865b08b7f06141c41fc16a4214d9600b2254a5d5cac3856a6247"
 metafile = true
@@ -853,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "6fc5cf4d7cfbdd3fa6245ac24e4c43a20dbfc7fa582fbcae6bc85d680e868243"
+hash = "a15d2debac2c67862d460045d08ca9c4a5b905c8ea16a5fd5ad8d62d98773355"
 metafile = true
 
 [[files]]
