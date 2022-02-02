@@ -22,7 +22,7 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "8aa5a59641993ca3a9080f84af8868001dbeb891c741e6702e291629b67c9ad6"
+hash = "9ff6c9971e1275d01602d99a51a4c831e418a5e47c5a3066428647ebc18cbb7e"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -114,7 +114,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "863285953fc8e7b729937d81e586b719190281a810ee63008ff71cfb21b24a4d"
+hash = "15cf78afbd6a691a5f89b67d9f12f53b1a0cb31a5f085e5036cb11719f5ed8f1"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -230,7 +230,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "b42eb18c2552353a9437895878718e2ee1ecc3328568e124b30cbafebbe1994c"
+hash = "3569851938bb57ba6d6424c3205a615e06bb0cd55df6bf7b9b7a23f0ac17ead0"
 
 [[files]]
 file = "config/indicatia.json"
@@ -238,7 +238,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "1c195ef126dd389c02c56d6c47919d1643cb84016036a89929cf9d1e429d0198"
+hash = "50d16757b641466f7f6d0fec5830fbd594265e93b9f59b89b2ef822d1b1606c5"
 
 [[files]]
 file = "config/inspecio.json"
@@ -509,6 +509,10 @@ file = "config/vanilla-hammers.json"
 hash = "ab67789af4d2a802ee0c39e46c45392e21bbba848e7e7a7998be94cfa53ac40c"
 
 [[files]]
+file = "config/vanillaexcavators.json"
+hash = "2cd40d9ad20c1875efec3271aab7579b6e1ce64767e752bb7dd2f2b47ce52c96"
+
+[[files]]
 file = "config/voxelmap.properties"
 hash = "e77bfa2902ee44fd186cc509f426c5b2c92e86d6d6b0eb54a1c7a5c1f6b4b169"
 
@@ -534,7 +538,7 @@ hash = "336c5a39353081db05882e5ac0f97caa4b97596fadcbf4c996efc911839e1881"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "358b9ae204f8eeed97f936c125ac7552b37bf9e475ddd2787ae37610f1d189f0"
+hash = "236da9954bccf54ad6521d31ad1473b8c6e3c2cfada56ea8feed0a54fd5665d2"
 
 [[files]]
 file = "config/xaeropatreon.txt"
