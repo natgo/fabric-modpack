@@ -687,11 +687,6 @@ hash = "8ae6eedaa068df8ef8bd6de4da9556236860bae4b52fe989c917a85eaeea60a8"
 metafile = true
 
 [[files]]
-file = "mods/ebe.toml"
-hash = "c58834af10ab46edeb4946b55f4d71cf9bced4d37aef0ee122a5a7e4e9e17153"
-metafile = true
-
-[[files]]
 file = "mods/elytra-trinket-fabric.toml"
 hash = "5fd55ae664016de4dfbc907a4e2a5a7c941efb6996c4831604505655c4ae4931"
 metafile = true
