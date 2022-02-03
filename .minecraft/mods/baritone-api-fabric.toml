@@ -1,8 +1,8 @@
 name = "Baritone"
-filename = "baritone-api-fabric-1.8.1.jar"
+filename = "baritone-api-fabric-1.8.2.jar"
 side = "client"
 
 [download]
-url = "https://github.com/cabaletta/baritone/releases/download/v1.8.1/baritone-api-fabric-1.8.1.jar"
+url = "https://github.com/cabaletta/baritone/releases/download/v1.8.2/baritone-api-fabric-1.8.2.jar"
 hash-format = "sha512"
-hash = "6e914cc0e1582db871c4e523d25dbcf3565dddaa4f16da3da50d102d6d9e86ad39d2187b6334fd90992aeb3f4ed58026b2b0ee627acdf66e0a45f8ab87b09152"
+hash = "4227d4935026be4998f98f18ade31b6acc709f8c4e5f332fd20da7b46aa5789fecd1f9ed05dc5b72faa75b154e4f997ba6927fdd92a43a4a62477010f7e97048"

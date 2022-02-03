@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/baritone-api-fabric.toml"
-hash = "b0c4c22b86b76926a051f030abc807495c09225d250f96e948ad1dd7b5363045"
+hash = "c7e4d61e7b2ab7fe92543413da2c139092300afbc057a13fc98e807eaf12b323"
 metafile = true
 
 [[files]]
@@ -963,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "71dd5475b43b2125953efa9d9abd940299c6d663721646d79777b519cf714df9"
+hash = "35ff3346ed8e9db7256e0fcac45df1ed14ebc4527512742a5f475822308b590b"
 metafile = true
 
 [[files]]
