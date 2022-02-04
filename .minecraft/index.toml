@@ -698,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
+hash = "e7844089669642da016e8899389aec7de47a7a83e48992da8af1ff77c97fffbb"
 metafile = true
 
 [[files]]
@@ -912,6 +912,11 @@ hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
 metafile = true
 
 [[files]]
+file = "mods/tool-stats.toml"
+hash = "8d60d38ebc85e0fc43188bb8735e0b40ce60dfda35a7eeb321e8ba0c52a4348a"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.toml"
 hash = "28b48053e5e932741e9a321e2f62d8595fe52e6c1ced9fbda3e0ab80b43030ee"
 metafile = true
@@ -958,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "35ff3346ed8e9db7256e0fcac45df1ed14ebc4527512742a5f475822308b590b"
+hash = "dac34129a01190d3a87015aa96f6ab65c175afe1a4e0224f02619a259de2d1ff"
 metafile = true
 
 [[files]]
