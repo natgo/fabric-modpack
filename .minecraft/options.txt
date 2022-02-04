@@ -133,6 +133,9 @@ key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
 key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
 key_key.mousewheelie.pick_tool:key.keyboard.unknown
 key_key.nostrip.togglestrip:key.keyboard.u
+key_key.origins.primary_active:key.keyboard.r
+key_key.origins.secondary_active:key.keyboard.unknown
+key_key.origins.view_origin:key.keyboard.o
 key_key.petowner.hide:key.keyboard.unknown
 key_key.whereisit.finditem:key.keyboard.y
 key_key.waila.config:key.keyboard.keypad.0

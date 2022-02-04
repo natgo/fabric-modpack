@@ -10,7 +10,9 @@
 			"{data:{Count:1b,id:\"mtr:escalator\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:cobbled_deepslate\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:fishing_rod\",tag:{Damage:0,Enchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:lure\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}],RepairCost:3,display:{Name:'{\"text\":\"Jousi\"}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:gravel\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"minecraft:gravel\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cobblestone\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mtr:brush\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		// Declares whether cheating mode is on.
 		"cheating": false,

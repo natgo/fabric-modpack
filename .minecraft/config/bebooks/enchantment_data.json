@@ -154,5 +154,9 @@
   "magna:gigantism_curse": {
     "orderIndex": 38,
     "color": 12915514
+  },
+  "origins:water_protection": {
+    "orderIndex": 39,
+    "color": 12915514
   }
 }
