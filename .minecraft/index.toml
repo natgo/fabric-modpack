@@ -22,7 +22,7 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "9ff6c9971e1275d01602d99a51a4c831e418a5e47c5a3066428647ebc18cbb7e"
+hash = "ed9cf3cb8da327f6bd56dd0a52b508d24de06691d1bc2c7b0d65facfb3bcb471"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -114,7 +114,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "15cf78afbd6a691a5f89b67d9f12f53b1a0cb31a5f085e5036cb11719f5ed8f1"
+hash = "e9eab5820acaf70c9e9a3f44a9c02476fbf4ca8580021f9d9b5fe2a48e084a71"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -230,7 +230,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "3569851938bb57ba6d6424c3205a615e06bb0cd55df6bf7b9b7a23f0ac17ead0"
+hash = "a10084ed8f6e4bb84b23d44ab49e99550c4b0f5a5a877d9ad847f589f6b073f3"
 
 [[files]]
 file = "config/indicatia.json"
@@ -238,7 +238,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "50d16757b641466f7f6d0fec5830fbd594265e93b9f59b89b2ef822d1b1606c5"
+hash = "39d2de6efeed1d2b4c35728eea2bfa2ac5d5ca74dcec8458ff63ed06de7e78b2"
 
 [[files]]
 file = "config/inspecio.json"
@@ -466,7 +466,7 @@ hash = "e3bf13bfae135bec8dd7c2bc476bc260e63fab29feeabe64b5caaf471d973337"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "1936b3cd397f5a900517b58ffcb8a2f45c83afd7162b5fe33ac137577d010875"
+hash = "ae83c0ca3ba69db5f07e98e1c7b15cfca8650941f8bda5c82697006fba2d0606"
 
 [[files]]
 file = "config/rrp.properties"
@@ -499,6 +499,10 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 [[files]]
 file = "config/sodium-options.json"
 hash = "c39b5acfb7f3b3516c7e6e1582063a0eb313c89ffb61da8d2fdbf7641f97bed5"
+
+[[files]]
+file = "config/toolstats.json"
+hash = "2c7dc207b72d2111880024e8239559ed2257034bf3475737268d4a994839dbfb"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -538,7 +542,7 @@ hash = "336c5a39353081db05882e5ac0f97caa4b97596fadcbf4c996efc911839e1881"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "236da9954bccf54ad6521d31ad1473b8c6e3c2cfada56ea8feed0a54fd5665d2"
+hash = "358b9ae204f8eeed97f936c125ac7552b37bf9e475ddd2787ae37610f1d189f0"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -653,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.toml"
-hash = "1fbae1ed6eb422f51c450a5835050af2c431d5deba5cc54dc98de033dbf37798"
+hash = "3c2a5355d761d6377834dfcf40336bd18d19efbe504142586b796dc904cead64"
 metafile = true
 
 [[files]]
@@ -859,6 +863,16 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.toml"
 hash = "ece86afbddf24a56ce2c90305612b4c6f21bfe5cc9d61cfe95e6b7193157f4b6"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.toml"
+hash = "79a188fae92de723cd8ee6ebd6645ed069ec23eb21103128ca4b3d8013322c67"
+metafile = true
+
+[[files]]
+file = "mods/origins.toml"
+hash = "35896238f01852acacb531ac15ab855452fe0c767a59ef3ca31861f511033225"
 metafile = true
 
 [[files]]
