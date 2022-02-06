@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "a62320e2d509f7cd9759c40eaa7d2da4ca28ffddf65d36b25d6047bb0773e80b"
+hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.toml"
-hash = "2b4360e14dc5f3137c481ddc682a3c6d0d5d3162222c5f306ee915e25ca5eae5"
+hash = "c375509df57d1f34316b22e90ea0d233dc744d4e453b938d592d835e1463d8e4"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "ee1384200c35fee039a2a6f95a62a7de25340cd831521a0a90ab82b94b36e951"
+hash = "6c4c39000e6ef4c4996244f26ad34217dd7e4f69f76ae2086f3818de640d885a"
 metafile = true
 
 [[files]]
@@ -896,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "a15d2debac2c67862d460045d08ca9c4a5b905c8ea16a5fd5ad8d62d98773355"
+hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
 metafile = true
 
 [[files]]
@@ -927,11 +927,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
-metafile = true
-
-[[files]]
-file = "mods/tool-stats.toml"
-hash = "8d60d38ebc85e0fc43188bb8735e0b40ce60dfda35a7eeb321e8ba0c52a4348a"
 metafile = true
 
 [[files]]
