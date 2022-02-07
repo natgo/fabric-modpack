@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/boathud.toml"
-hash = "eacfe35a0861a06ef41ac200e7f0a4f76b6b4f894347c6f95be23f19d9104fdd"
+hash = "179e621b977f1fdc6c4104473a7188e2ebdd32c4e06ce0a95713fbfe4e49b46f"
 metafile = true
 
 [[files]]

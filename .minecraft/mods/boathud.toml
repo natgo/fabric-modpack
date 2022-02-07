@@ -1,13 +1,13 @@
 name = "BoatHud"
-filename = "boathud-1.0.0.jar"
+filename = "boathud-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ENNbyqzB/versions/1.0.0/boathud-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/ENNbyqzB/versions/1.1.0/boathud-1.1.0.jar"
 hash-format = "sha512"
-hash = "7bb33c4119778cf8a9d0a0e30ede7e1ad5872eee04b44e61c3ce21b6cd189479151e09fbd37110024007f5400c41f68156446bf2f46e5a25befa18881bbca182"
+hash = "077b208d167484fd7a39a1072247e1e6b76d5fb0b88b51e819f3d84c44a1e19ae3602d09ccdf2fb4975cadb50cb33db889a0a81170e4525a358e816bc0afd3ff"
 
 [update]
 [update.modrinth]
 mod-id = "ENNbyqzB"
-version = "L3tJ329h"
+version = "cdmujRf6"
