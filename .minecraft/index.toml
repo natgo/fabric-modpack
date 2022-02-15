@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "343221bf5a8d2e935bfe32726a3c34c236bee2195e2ca040fdc5842687ac6c4d"
+hash = "0342789c6532b65eb5392f1275ac868fab3fcc560cb01952cab3cc5b1ee621a5"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "a1d025cba510d794d85f4b12330f66cbc5c24eab621a97dcdf9fcfcbda6ba995"
+hash = "82f74224a29eef311a2924f3814a995683a18583392e24c1089ddeb40d564033"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "0fb4ed3155243518a5690d4cc7f0d6d9bf44c4f3c5fc502853c82cc25a174ca6"
+hash = "d24dcd2abbfa5c0564e6ac0f38ab70f95b5c3e088f7c758e251efcaefd59a8a1"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-hats-mod.toml"
-hash = "7e60f911d4dae8c71d821d5dd5c131ad3792ea25e911de8da3eb012bf9ee3975"
+hash = "db7439dc2f1aeb7d444823c6f7abc68a82f48ce01f50d2fcf973dd36d9ac1fc2"
 metafile = true
 
 [[files]]
@@ -1000,12 +1000,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c086164287f9a633ae0e8152967e954327db0afdb4dcf4bb7ea166fa390c21bd"
+hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
+hash = "201c61da574c7e7443b44875cdabd456735a9d21119755cda12cd6d894ed9d34"
 metafile = true
 
 [[files]]
