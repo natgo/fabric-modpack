@@ -1,13 +1,13 @@
 name = "Eating Animation [Fabric]"
-filename = "eating-animation-1.2.jar"
+filename = "eating-animation-1.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3543/941/eating-animation-1.2.jar"
+url = "https://edge.forgecdn.net/files/3651/790/eating-animation-1.5.jar"
 hash-format = "murmur2"
-hash = "2149616560"
+hash = "3016677160"
 
 [update]
 [update.curseforge]
-file-id = 3543941
+file-id = 3651790
 project-id = 527023
