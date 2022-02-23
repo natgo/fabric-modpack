@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "3ba30a8bf85f9e840d82f585cba9f833dc90e3e34053540dff7f6fdef8f2397f"
+hash = "8669954f0a3a7573db472acb7335b88e8d0d61cd83488a8b558619114ee331f3"
 metafile = true
 
 [[files]]
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "4d3086d640c86bf3625ce9067d02d9ed586d23ff6bd3398655fd2fbfdce83de6"
+hash = "006a14c972eaeaea050b9e4e0d024f8782c2fe44e5f7a502eb392e9aa7793bae"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "6c4c39000e6ef4c4996244f26ad34217dd7e4f69f76ae2086f3818de640d885a"
+hash = "3590b0046a05328fa8f4f3d499be14514002d8658879b600b5e2a46f60f85783"
 metafile = true
 
 [[files]]
@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+hash = "3fba2888b45044b8e058b6be4ffd8fe1241eace50004b76b6576dd5e78843a5a"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "66e1fdb5b09f398142c643488156cd6995f4db0dfe399a525f2450811d59fa74"
+hash = "75528e477b6c86975b4d48f457693b4d06a95b4b3301ea65f8a604deaaa89ac1"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "d012eaca0ac8181126c2179ce33556559e6592a9d35415976d90aeb72a9b1438"
+hash = "df0dae75ea001f08aee698df84b74f9b83ce9e70982232549789db38ea6cb8c8"
 metafile = true
 
 [[files]]
