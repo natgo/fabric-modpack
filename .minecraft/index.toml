@@ -22,7 +22,7 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "1299edfe6fae6d6ccca646f112d67b26a87592bb54d95da9ad2d3b9c50e3fd5e"
+hash = "510ea167016d67e9c3272a5e80f472f991d61cf2fc4ac6dba9c42a30e39b708b"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -114,7 +114,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "3a6f30d7532c3dfb11334de8590e4c837d2c176d00ed591ff379d80a67e5ba9f"
+hash = "8f0d50e18433971b7c208b2628a391140633a2797adcb3d10cf3672333c39607"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -210,7 +210,7 @@ hash = "9dfa943b1306339bcea776147394c19db55f7cfc41ed3f3fb639f41a360baffe"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "c848e01f5c51fd19d5a7d506d0bffccd09594d216349cf473e71d461fab91d9d"
+hash = "ac2b86b1c5dc4e3728e17e091e203bb9bb747a6ef81a49b7ecc1ce7a67da210e"
 
 [[files]]
 file = "config/flighthelper.json"
@@ -218,7 +218,7 @@ hash = "75cabca6db8db93e8f2560b89d48057b824d8f879d02805b486bd7cb64230d93"
 
 [[files]]
 file = "config/gamma_utils.json5"
-hash = "abeb8a9d639851d4bcf9e5b5459d8c50afe03698d97bf76e9ad0f54932468714"
+hash = "9676591f83d125dbe3b8b1e4f7ed7e4596cd1ba0dbdbaa21dc18316129d1fa7d"
 
 [[files]]
 file = "config/horsestatsvanilla.json5"
@@ -230,7 +230,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "e47547f580081a6b7eeaae03acb3ac2b5f20805493eba05652361cee8b658720"
+hash = "71fc47b00b1373c871f00c491453d9d81a3d12769cb98dee1a75c10443e1211a"
 
 [[files]]
 file = "config/indicatia.json"
@@ -238,7 +238,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "db022653addf40460d06a33fcfe6d6e1f0ca3eeb3f4ea23f966c4ae2b824ace5"
+hash = "778845a3250f8259fd58d344bd5e91231ae8fd3bbe18b009683879f610894a29"
 
 [[files]]
 file = "config/inspecio.json"
@@ -430,7 +430,7 @@ hash = "1af4133a48e6f16d9420527e808e2ada4f3e63fdb409f51c47af228145686d1a"
 
 [[files]]
 file = "config/mousewheelie.hjson"
-hash = "2f12cc85fe627f16c1593712c70e5dbb844cf3c2e62c6810a8006530ee2bf5fd"
+hash = "d8f9fcfdfc28f7e82c4a047a7d9333c4eb67e9e1e4839c8c04c7a2ea6a093232"
 
 [[files]]
 file = "config/mtr.json"
@@ -474,7 +474,7 @@ hash = "e3bf13bfae135bec8dd7c2bc476bc260e63fab29feeabe64b5caaf471d973337"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "d6f1cc6c2a1fe4d4f88728e407a305c506eb22fce5208da138a71dec2f4264c5"
+hash = "307ee19ecf9bdcffbbd137770a2139d569fcf4ac4de30bca7b60491ed9ffdfaa"
 
 [[files]]
 file = "config/rrp.properties"
@@ -494,7 +494,7 @@ hash = "0606ea57121d0307b7444c60602c135f9753c40882b13b9fac7efa9cd7a4fe7d"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "2d6473e3b7a0baf270e661f638dbb62cae5f179ad6caf20722451e727eca5a28"
+hash = "877cb9f19d96a222951fb10dd62dac98eae7a7ad5f97b957224f26439cc725bd"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -550,7 +550,7 @@ hash = "46d6dd4b64905bf59257a21acc269a58f26e195f7760d5f7dfe370c17b67bae0"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "146c55197a950b8a12ea85fe6084a7914d520dbbeb3111095cdc04058c21d83b"
+hash = "358b9ae204f8eeed97f936c125ac7552b37bf9e475ddd2787ae37610f1d189f0"
 
 [[files]]
 file = "config/xaeropatreon.txt"
