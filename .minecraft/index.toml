@@ -22,7 +22,7 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "685c6fb56a1cd4607be3a335a45b387ec5c647bfbc192e99d2286c26fd6b03c7"
+hash = "1299edfe6fae6d6ccca646f112d67b26a87592bb54d95da9ad2d3b9c50e3fd5e"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -114,7 +114,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "e18cd60a36297baa56ed28cedf34d4cd6af908714eafbbba0a7aa14f71feea27"
+hash = "3a6f30d7532c3dfb11334de8590e4c837d2c176d00ed591ff379d80a67e5ba9f"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -190,7 +190,7 @@ hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "b14653c82582a2bedf7fe0af3709891d6378449f4f09294e2cd44351e85d3ebd"
+hash = "01b9e0b0b0332e282798041e16badf6804bec9b46edcd279a5c6d9110ae31ffe"
 
 [[files]]
 file = "config/fancymenu/locals/pl_pl.local"
@@ -230,7 +230,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "27aa3766093a53450da571c1aee8f9f20572bc06170a79fcc8404a5e1fa7d9d4"
+hash = "e47547f580081a6b7eeaae03acb3ac2b5f20805493eba05652361cee8b658720"
 
 [[files]]
 file = "config/indicatia.json"
@@ -238,7 +238,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "978df5cbd29201ab1577a9f461f74e37be31c2127313863c74d44be904121887"
+hash = "db022653addf40460d06a33fcfe6d6e1f0ca3eeb3f4ea23f966c4ae2b824ace5"
 
 [[files]]
 file = "config/inspecio.json"
@@ -274,7 +274,7 @@ hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
 file = "config/litematica.json"
-hash = "167602b7505ce366b9408a4b043f822ba87020946eba616fe0f61b88c6f53958"
+hash = "8d2771b139cd5d7bd1241bd58109e104cc3e33c5e94909d75a4061df49808ae7"
 
 [[files]]
 file = "config/lithium.properties"
@@ -546,11 +546,11 @@ hash = "bbcca0ae063c4d59267f446506d7bf034277217e49f285ed34c5bd8efc91e0f2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "336c5a39353081db05882e5ac0f97caa4b97596fadcbf4c996efc911839e1881"
+hash = "46d6dd4b64905bf59257a21acc269a58f26e195f7760d5f7dfe370c17b67bae0"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "358b9ae204f8eeed97f936c125ac7552b37bf9e475ddd2787ae37610f1d189f0"
+hash = "146c55197a950b8a12ea85fe6084a7914d520dbbeb3111095cdc04058c21d83b"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "8669954f0a3a7573db472acb7335b88e8d0d61cd83488a8b558619114ee331f3"
+hash = "2dc88ebed8254b8f319247e57a3711a800f2fd27daef2d001acf449a50b70033"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "62d0e9e74c95be4afcead97e60e3558d5606be9c7aad2da5934213a5c2bed9de"
+hash = "6f27b607e5ae0603a675a803051fbc701f307cacacaa1313b2ecda8356d356e7"
 metafile = true
 
 [[files]]
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleanview-fabric.toml"
-hash = "0999f7f363656c3b817f0242c14e71e705e2d828f832dda895e523eee721c21d"
+hash = "e1731f39b49f4166295dfdfd13a8899cd42117ae00f13c592c3e73bc5a3e9caa"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-api.toml"
-hash = "bbc23d8aca235565f5423868fbc3b8e378d82a11eec8e9b9d20d1f716ebc6498"
+hash = "512d80d87b7d7be2a660ddae5450c9b44c6b553f14d413d5c494b1a5d0df8352"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "bcf6015b39caa1d6be765147a511ee8a1b579fa0d6b039728044b3735207ba8d"
+hash = "589d81cfbfd64925388670e77d5adea4c77acc04f3fbcd071a0582d375dc1824"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "da62be08037c326851ea1443be7532120dc09b24aac93144120126717d6813d1"
+hash = "02f05c1580b70e3cfcd029a0b7ed57657cbfceab80224ebe27e0be09a369ffce"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.toml"
-hash = "f80fbd25dec9449edc5c59a95d9f8646102e757c0142e77a5ee3aed0018bee87"
+hash = "792bf34a9643c1555e8a0859eeb708881e8baf0c9505c10c0a2d9c7799e15958"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "89f5ed5d28ea532046afeb96cb51ec7e450729e2e201011706cc0612a7d18c49"
+hash = "7215a34a544194eecb37e9bdfd9664edf21ac991f5a7b19c661e033975fe735f"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
+hash = "492ccef1b220ed135344c864959b560fcedb53a40d2c828af92c2ad59d873512"
 metafile = true
 
 [[files]]
@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/logical-zoom.toml"
-hash = "647614cd2a70f5f56e5a67da2c3eef5bdb37c9ca2669fdb8fc04a722ade257a9"
+hash = "48bb5ac7bc1404169a2bd030db196f8075d8cc3a54b3ce347aa2aa35b0b3ea93"
 metafile = true
 
 [[files]]
@@ -860,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
+hash = "a8a11c16b918801de839b4ee2e74ff690fba9de1b8e702df20cc01660924cfb2"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "df0dae75ea001f08aee698df84b74f9b83ce9e70982232549789db38ea6cb8c8"
+hash = "2562164734f18f89f29b1d0cf3c89e4d95fa94769309ef2a118831aa2384f7c1"
 metafile = true
 
 [[files]]
@@ -940,12 +940,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
+hash = "0c83c344046d0b96fd7dcd9e5c98c44caa3d307126d502f202dba50855304fb9"
 metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
+hash = "ab37bb833d205f015f036157645e05a61c837b7e1f9e0132bfa8a6b14c8064a6"
 metafile = true
 
 [[files]]
@@ -995,17 +995,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "dac34129a01190d3a87015aa96f6ab65c175afe1a4e0224f02619a259de2d1ff"
+hash = "45810e78006bd9ffae88a5b1858a7a9ab10218279b79b74c47ca23ab42c4393e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
+hash = "a71b029fa889b5a240b93824d55721878f15e189940557a8a9b7415fee2e835f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "201c61da574c7e7443b44875cdabd456735a9d21119755cda12cd6d894ed9d34"
+hash = "7e5715b5086432f124a6d56a8043524cd6b841ad485e16a6c6d826ccae5f4e52"
 metafile = true
 
 [[files]]
@@ -1017,7 +1017,7 @@ file = "options.txt"
 hash = "508008f88c15c4595b1ec86f00c8ca41342738b236afa7cd18516b8cb5f27721"
 
 [[files]]
-file = "packwiz"
+file = "packwiz_old"
 hash = "60b8bfd5adb595f9f51211f45edd9d8d1da96ad84edb85b03ce5552c3499e2db"
 
 [[files]]
@@ -1922,4 +1922,4 @@ hash = "56acd5e1367b3c4e413e6ee19f8b5f31322ffd54df3d603db19f1093bc317778"
 
 [[files]]
 file = "servers.dat"
-hash = "042f51195eb0df1bfd58856e8d30638a39e071e6846957b1f62bf0aaf1bda40c"
+hash = "c0defec3aaf57ce32b33ba79488fed82773109b6d28e2f4c6f2cbfd3f08aee48"
