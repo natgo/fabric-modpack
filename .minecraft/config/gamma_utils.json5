@@ -2,12 +2,15 @@
 	"defaultGamma": 0,
 	"toggledGamma": 100,
 	"updateToggle": false,
-	"gammaStep": 10,
+	"smoothTransition": true,
+	"showStatusEffect": false,
 	"advancedOptions": {
+		"transitionSpeed": 4500,
 		"limitCheck": true,
-		"minGamma": 0,
-		"maxGamma": 1500,
+		"minGamma": -750,
+		"maxGamma": 500,
+		"gammaStep": 10,
 		"showMessage": true,
-		"saveOptions": true
+		"resetOnClose": false
 	}
 }
