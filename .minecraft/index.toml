@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2dc88ebed8254b8f319247e57a3711a800f2fd27daef2d001acf449a50b70033"
+hash = "706dfaef55d666502cbb27309ef3b7a7e281078b7275f8025c3698c553cd1b38"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "6f27b607e5ae0603a675a803051fbc701f307cacacaa1313b2ecda8356d356e7"
+hash = "f1545571ebccee3308cfaeb8da742f53849c97b5aa96e550f6a26f6ef37a1fcc"
 metafile = true
 
 [[files]]
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleanview-fabric.toml"
-hash = "e1731f39b49f4166295dfdfd13a8899cd42117ae00f13c592c3e73bc5a3e9caa"
+hash = "98a936214e0ef8a4986ade1bbc12533242b01d2b5b8d9ecba5cbe2f81ea3844b"
 metafile = true
 
 [[files]]
@@ -655,17 +655,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-api.toml"
-hash = "512d80d87b7d7be2a660ddae5450c9b44c6b553f14d413d5c494b1a5d0df8352"
+hash = "a9535b3981b53e58351465ca386fcee76f0de0232cb5899eeffe869e43c41aa3"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "589d81cfbfd64925388670e77d5adea4c77acc04f3fbcd071a0582d375dc1824"
+hash = "aadd4bccd2e9986f318f78f827fa5d31863c7093f6a6a8c24335213b55d818a5"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "02f05c1580b70e3cfcd029a0b7ed57657cbfceab80224ebe27e0be09a369ffce"
+hash = "9f21701f8c492d2fcdb9c5e759c67ad745ef33ac486ed3a61d46d0baac7c65fc"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.toml"
-hash = "792bf34a9643c1555e8a0859eeb708881e8baf0c9505c10c0a2d9c7799e15958"
+hash = "eaa5dbdfba3968448e87d10b7c43e9edb1b61217c098eff3ff9a3178d6629a3d"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "7215a34a544194eecb37e9bdfd9664edf21ac991f5a7b19c661e033975fe735f"
+hash = "c94fbad1b3dd7973d2b0f33b03b4683875a0f95ffe0db3be4c90a946a29bb353"
 metafile = true
 
 [[files]]
@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/logical-zoom.toml"
-hash = "48bb5ac7bc1404169a2bd030db196f8075d8cc3a54b3ce347aa2aa35b0b3ea93"
+hash = "7fca7860dffcdfa4e6e2409ccd434cb589ae1b097df83c133e873125747f770c"
 metafile = true
 
 [[files]]
@@ -860,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "a8a11c16b918801de839b4ee2e74ff690fba9de1b8e702df20cc01660924cfb2"
+hash = "08cf57c2cae5fff7f0b8d043c45df07893ea01734a6486f9ca94caae741ea351"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "2562164734f18f89f29b1d0cf3c89e4d95fa94769309ef2a118831aa2384f7c1"
+hash = "a5ac3d55f14e556a76eebad326f3cd531b86318df09bdd039ca6d6f567c83ae0"
 metafile = true
 
 [[files]]
@@ -940,12 +940,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "0c83c344046d0b96fd7dcd9e5c98c44caa3d307126d502f202dba50855304fb9"
+hash = "f291cfa3dc4468318494015a4d695f66a22356355aa0122b2fbb7c1407ffdde0"
 metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "ab37bb833d205f015f036157645e05a61c837b7e1f9e0132bfa8a6b14c8064a6"
+hash = "86eb288d2bb2a2a49e64b1e7db4ca6a5f486b30a3566feaeeba1aa0a618ae255"
 metafile = true
 
 [[files]]
@@ -995,17 +995,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "45810e78006bd9ffae88a5b1858a7a9ab10218279b79b74c47ca23ab42c4393e"
+hash = "4cc6f69fe0a72181be88a001fb0e5b996026c9fcb968e42547f6b8f3c06ed710"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "a71b029fa889b5a240b93824d55721878f15e189940557a8a9b7415fee2e835f"
+hash = "6c3e91ec40a8523e5e25f285435b2031900aa5275a519755f0e0d4e6c2508df6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "7e5715b5086432f124a6d56a8043524cd6b841ad485e16a6c6d826ccae5f4e52"
+hash = "3387843633739f2242e29e3186f3387be92bcf63674574955caa96e94bd308fe"
 metafile = true
 
 [[files]]
@@ -1015,10 +1015,6 @@ hash = "4c628b46dcc852a1e935311fa80dc8781c312fb19315bf64ee4b3c481db2755d"
 [[files]]
 file = "options.txt"
 hash = "508008f88c15c4595b1ec86f00c8ca41342738b236afa7cd18516b8cb5f27721"
-
-[[files]]
-file = "packwiz_old"
-hash = "60b8bfd5adb595f9f51211f45edd9d8d1da96ad84edb85b03ce5552c3499e2db"
 
 [[files]]
 file = "resourcepacks/Clear_Glass_Pack_1.18.zip"

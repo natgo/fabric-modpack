@@ -1,13 +1,14 @@
+
 name = "Cloth API (Fabric)"
-filename = "cloth-api-3.2.64.jar"
+filename = "cloth-api-3.1.61.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3668/284/cloth-api-3.2.64.jar"
+url = "https://edge.forgecdn.net/files/3612/123/cloth-api-3.1.61.jar"
 hash-format = "murmur2"
-hash = "1271827261"
+hash = "2724776573"
 
 [update]
 [update.curseforge]
-file-id = 3668284
+file-id = 3612123
 project-id = 317121

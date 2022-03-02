@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/wdLuzzEP/versions/1.5.6/Gamma-Utils-1.5.6-mc1.18.2.jar"
-hash-format = "sha512"
-hash = "42d4a9410f798d2f646093f5380dc6b5c3e3ed94315fa3e59d4af365de5a2ec3f81fb38e4b331df299c28bf1c0ecfb7e6f5ddbaedd6ba4685f31c294744d3091"
+hash-format = "sha1"
+hash = "abadcdc70dcbaaeaa050ac1c552207f755f1efc7"
 
 [update]
 [update.modrinth]
