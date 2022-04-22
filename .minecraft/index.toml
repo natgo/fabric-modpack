@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "9f21701f8c492d2fcdb9c5e759c67ad745ef33ac486ed3a61d46d0baac7c65fc"
+hash = "fd2774fba3f094580750cf9f88daf76c97f663b5f3de50cfd8a636a7eace5dff"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "5e9f5735e2b49882e6c289256fe5da832ade4181e11065bd630518edb04b4173"
+hash = "bd808b0b4a43764bd80ba9b9363ebcc14e59ddc9a9386070abbb1d1078aaa0b7"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "82f74224a29eef311a2924f3814a995683a18583392e24c1089ddeb40d564033"
+hash = "02f95e2d731ffd48b58a2a89b5ec6722d7d92c9613224c646aebf31846e6b3c9"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "d24dcd2abbfa5c0564e6ac0f38ab70f95b5c3e088f7c758e251efcaefd59a8a1"
+hash = "48d7d8ddf473e8877ac11527859219badc30e0e9732200100ef206bc7d08cb65"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.toml"
-hash = "a202cb0518d2865b08b7f06141c41fc16a4214d9600b2254a5d5cac3856a6247"
+hash = "edaa49a145c832fcb83ec0b8556852c330e925f4bedae1b9baf4e067a20709d5"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "a5ac3d55f14e556a76eebad326f3cd531b86318df09bdd039ca6d6f567c83ae0"
+hash = "ee3187bfac3961c573a8e00edd0d2f69e66c4aeb9a65f203781ab1687e2d3856"
 metafile = true
 
 [[files]]
