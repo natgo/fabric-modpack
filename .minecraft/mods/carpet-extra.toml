@@ -1,9 +1,9 @@
 name = "Carpet-extra"
-filename = "carpet-extra-1.18.1-1.4.57.jar"
+filename = "carpet-extra-1.18.1-1.4.64.jar"
 side = "both"
 
 [download]
-url = "https://github.com/gnembon/carpet-extra/releases/download/1.4.57/carpet-extra-1.18.1-1.4.57.jar"
+url = "https://github.com/gnembon/carpet-extra/releases/download/1.4.64/carpet-extra-1.18.2-pre2-1.4.64.jar"
 hash-format = "sha512"
-hash = "8f3333163066e43a20410c318443560411b8f5d99439da1f4d9cb9b242f77dd2d9691f0934d10f7216825c3bace076399a8afa4ccfe28f0b11a3a51eb49b7b71"
+hash = "497e395b8735550324cf15ac7a9ba47097a570ced074e7ab55abbb0eb2d80e370bb37cd8217798d3e25351926d3069353e4aaac0f5e0e1ff55e000c963af3e75"
 

@@ -1,13 +1,13 @@
 name = "EnvironmentZ"
-filename = "environmentz-1.2.1.jar"
+filename = "environmentz-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3586/715/environmentz-1.2.1.jar"
-hash-format = "murmur2"
-hash = "617046702"
+url = "https://edge.forgecdn.net/files/3683/638/environmentz-1.2.2.jar"
+hash-format = "sha1"
+hash = "af84db0637df74015c38546a705a8e30eda088b3"
 
 [update]
 [update.curseforge]
-file-id = 3586715
+file-id = 3683638
 project-id = 410224

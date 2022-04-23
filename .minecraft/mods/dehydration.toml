@@ -3,11 +3,11 @@ filename = "dehydration-1.2.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3595/832/dehydration-1.2.7.jar"
-hash-format = "murmur2"
-hash = "2603245852"
+url = "https://edge.forgecdn.net/files/3683/635/dehydration-1.2.7.jar"
+hash-format = "sha1"
+hash = "5b09c0d96c22c3e1138fca228c1df3dffdf1a509"
 
 [update]
 [update.curseforge]
-file-id = 3595832
+file-id = 3683635
 project-id = 410830

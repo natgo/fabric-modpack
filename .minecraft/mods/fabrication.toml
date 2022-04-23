@@ -1,11 +1,11 @@
 name = "Fabrication"
-filename = "fabrication-1.18-2.3.0_01.jar"
+filename = "fabrication-1.18.2-2.3.1-exp3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3579/551/fabrication-1.18-2.3.0_01.jar"
-hash-format = "murmur2"
-hash = "2653444254"
+url = "https://github.com/unascribed/Fabrication/releases/download/v2.3.0/fabrication-1.18.2-2.3.1-exp3.jar"
+hash-format = "sha512"
+hash = "c133a9e2d23d916db038c1c468ac26acd94a3fb8513b91b59ff1ec5caf518de83c912574aa666d2ee36513b9df25d2b9f3821d88afa20f2895da97c6901c0326"
 
 [update]
 [update.curseforge]

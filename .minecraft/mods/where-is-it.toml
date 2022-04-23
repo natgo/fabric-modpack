@@ -1,13 +1,13 @@
 name = "Where Is It"
-filename = "whereisit-1.18.1-1.14.7.jar"
+filename = "whereisit-1.18.2-1.14.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FCTyEqkn/versions/1.14.7/whereisit-1.18.1-1.14.7.jar"
-hash-format = "sha512"
-hash = "e231f1fc234d038b8cf5b530b77dcc882e103ce04e831c509e6fab2ccce18b05e08fece029e4aa1f5b2f1a006da762afe03b08e67f3f81cc1ccaebf65c7583cc"
+url = "https://cdn.modrinth.com/data/FCTyEqkn/versions/1.14.10/whereisit-1.18.2-1.14.10.jar"
+hash-format = "sha1"
+hash = "31ba4f1fa36cb2e7e75161a4f5b6ab922155499f"
 
 [update]
 [update.modrinth]
 mod-id = "FCTyEqkn"
-version = "pFMJoCEx"
+version = "FBdELpkS"

@@ -22,6 +22,8 @@
 .minecraft/mods/meteor-client**
 .minecraft/mods/slight-gui-modifications**
 .minecraft/mods/*.jar
-!.minecraft/mods/SmoothScrollingEverywhere-3.0.3-unstable.jar
-!.minecraft/mods/baritone-api-fabric-1.8.0.jar
+!.minecraft/mods/clear-skies-fabric-mc118-2.0.92-SNAPSHOT.jar
+!.minecraft/mods/cloth-config-6.2.57-fabric.jar
+!.minecraft/mods/illuminations-1.10.3.jar
+!.minecraft/mods/minimalmenu-1.18.2-0.1.5.jar
 .minecraft/packwiz*
