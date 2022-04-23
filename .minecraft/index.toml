@@ -22,7 +22,7 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "d85961e26f9f4f3d9942eba8db035f5dfdc16e23f71242c221db175100bc54c4"
+hash = "2af6ac0ff724ca1c3d2a9c73cb1fd8c59234ac48ef7f1000fc74d4a195b78744"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -114,7 +114,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "3a1437e0cd0e738ec0fd4f0f9bbc8a0dfba900fabeab46a0b54e3dbc762821f6"
+hash = "da27537a8d0305d253ccea532b4432a14b8423f03d5f66aa4fba0ebb3f8f520c"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -134,7 +134,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "1c728cc7036893ced0ecce3f85ffeb79041efe7999c0aabe84a6b43523727d44"
+hash = "6e3eb5f5714723b9496cfbea3abbf3c024aedc79ace1a8c65a5e18373a33e75d"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -230,7 +230,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "aaa83d1f2f337ff82e7b35f48aff6c6d13aedbc1cc9123feee2f443b2249d9bb"
+hash = "3aca8e45958e210ccce34a28891eab15cc4f049e72bba0194676dce6c98637ee"
 
 [[files]]
 file = "config/indicatia.json"
@@ -238,7 +238,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "b79f8bfab14777d4375047bce96f3bd128d71188341138c7944f6edb3aa1d12a"
+hash = "82be770654d4a2afeb7ef1f5f9f7fce270b3f7ef649735f03144e9f76a0fd306"
 
 [[files]]
 file = "config/inspecio.json"
@@ -434,7 +434,7 @@ hash = "789dc3a197d18421794dbab5d497aaeaf709184262ad68688dead59d7bd59e0b"
 
 [[files]]
 file = "config/mtr.json"
-hash = "da28e970d45dff9709c482dafef4c15353d79e0b4b97cabee98dc28a8d2084a3"
+hash = "dc32e6468fa75ef1623405aadcf1ca4c17d16758d033aee4126279c1ace22efd"
 
 [[files]]
 file = "config/mtr_webserver_port.txt"
@@ -550,7 +550,7 @@ hash = "95f3cca48ae408a8da08d4ace8d2831d17d9685f66d6cf745679070a3d893839"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "2cfdb8fea78ae20e5ec8437e11719262989d750fe0bda84ca507d77dd51ea46f"
+hash = "f815d8aa352dbc544d4d4b87f44b34cdf93bd8243aff99f8c9ed972276268011"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1915,4 +1915,4 @@ hash = "56acd5e1367b3c4e413e6ee19f8b5f31322ffd54df3d603db19f1093bc317778"
 
 [[files]]
 file = "servers.dat"
-hash = "c0defec3aaf57ce32b33ba79488fed82773109b6d28e2f4c6f2cbfd3f08aee48"
+hash = "27ef4d18794f71b3dcc47c3b60e6538d14dda2ccd0014ce53ad035cd9b7775cf"
