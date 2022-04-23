@@ -20,7 +20,6 @@
 .minecraft/meteor-client/
 .minecraft/not-enough-crashes/
 .minecraft/mods/meteor-client**
-.minecraft/mods/slight-gui-modifications**
 .minecraft/mods/*.jar
 !.minecraft/mods/clear-skies-fabric-mc118-2.0.92-SNAPSHOT.jar
 !.minecraft/mods/cloth-config-6.2.57-fabric.jar
