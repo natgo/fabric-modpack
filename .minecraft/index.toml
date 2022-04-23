@@ -22,7 +22,7 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "bc3f6254a0b9b7677fe9b2a51eddfc4a72f21ae6b8056076632bf3b7d0fd7f2f"
+hash = "d85961e26f9f4f3d9942eba8db035f5dfdc16e23f71242c221db175100bc54c4"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -78,7 +78,7 @@ hash = "aeff2cf118d07265fd91c63a4b38b4a5c06258b0b8928ee2796c009249587458"
 
 [[files]]
 file = "config/dehydration.json5"
-hash = "d7c9dc17a35a6f45de707c248d46a1f3f7d62eb7e82fa8fb2570c06209c1a20c"
+hash = "660988745b075330b2f7649da580cb0fb03427b0f0b90eb9dd5669e49c93830e"
 
 [[files]]
 file = "config/dontdropit.json5"
@@ -114,7 +114,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "83f1512bd97a697f01abb94f2493b2f886a8c015c98a6790d6c40447722a2ae8"
+hash = "3a1437e0cd0e738ec0fd4f0f9bbc8a0dfba900fabeab46a0b54e3dbc762821f6"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -162,7 +162,7 @@ hash = "310af2157e4c0394ead12437711d5cf87ea36da788bc73cd5f6e288b537ad323"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "25ce94b32274af689a4031ee78306281364cec31cfd044cbbacc5615b8a2eede"
+hash = "97a3369ac1a69e66e48b50897cc53622eec438c66f1b92a241c49def5fc98864"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -190,7 +190,7 @@ hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "01b9e0b0b0332e282798041e16badf6804bec9b46edcd279a5c6d9110ae31ffe"
+hash = "af0798bcdc6dcbf2a207afc464e520b010b6a92716d5b3c85fad6745a25b7cd7"
 
 [[files]]
 file = "config/fancymenu/locals/pl_pl.local"
@@ -230,7 +230,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "36a06319b34e6c5f68c9ce977c918eb9d6d20202c13d71599ed57817647c695c"
+hash = "aaa83d1f2f337ff82e7b35f48aff6c6d13aedbc1cc9123feee2f443b2249d9bb"
 
 [[files]]
 file = "config/indicatia.json"
@@ -238,7 +238,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "7c8f269ba7d7553c8290b13236e880e5ce5488898e3af160eebc6cf9ebb1f52d"
+hash = "b79f8bfab14777d4375047bce96f3bd128d71188341138c7944f6edb3aa1d12a"
 
 [[files]]
 file = "config/inspecio.json"
@@ -430,7 +430,7 @@ hash = "1af4133a48e6f16d9420527e808e2ada4f3e63fdb409f51c47af228145686d1a"
 
 [[files]]
 file = "config/mousewheelie.hjson"
-hash = "d8f9fcfdfc28f7e82c4a047a7d9333c4eb67e9e1e4839c8c04c7a2ea6a093232"
+hash = "789dc3a197d18421794dbab5d497aaeaf709184262ad68688dead59d7bd59e0b"
 
 [[files]]
 file = "config/mtr.json"
@@ -446,7 +446,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/notenoughanimations.json"
-hash = "9065092904d89fedb864f3da65781a74ba6055a63b3d69507d1adb60598fa8ae"
+hash = "d1ad80903494d7dd4ac83c3e483de59c6b9b45de7f2352ffff8294119f4ac0e4"
 
 [[files]]
 file = "config/notenoughcrashes.json"
@@ -474,7 +474,7 @@ hash = "e3bf13bfae135bec8dd7c2bc476bc260e63fab29feeabe64b5caaf471d973337"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "307ee19ecf9bdcffbbd137770a2139d569fcf4ac4de30bca7b60491ed9ffdfaa"
+hash = "63c6a3d337a53bc9ba1765782b775a913d60f593503824d716af8ba5a903e89e"
 
 [[files]]
 file = "config/rrp.properties"
@@ -494,7 +494,7 @@ hash = "0606ea57121d0307b7444c60602c135f9753c40882b13b9fac7efa9cd7a4fe7d"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "877cb9f19d96a222951fb10dd62dac98eae7a7ad5f97b957224f26439cc725bd"
+hash = "89367b197624071307180a5877b85b5a3d3b48a956c0d040ac5ff7a40bf5ca52"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -546,11 +546,11 @@ hash = "bbcca0ae063c4d59267f446506d7bf034277217e49f285ed34c5bd8efc91e0f2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "46d6dd4b64905bf59257a21acc269a58f26e195f7760d5f7dfe370c17b67bae0"
+hash = "95f3cca48ae408a8da08d4ace8d2831d17d9685f66d6cf745679070a3d893839"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "358b9ae204f8eeed97f936c125ac7552b37bf9e475ddd2787ae37610f1d189f0"
+hash = "2cfdb8fea78ae20e5ec8437e11719262989d750fe0bda84ca507d77dd51ea46f"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1007,11 +1007,11 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "4c628b46dcc852a1e935311fa80dc8781c312fb19315bf64ee4b3c481db2755d"
+hash = "0c752e7a042b5509399cef75b12beb472f4d1fef78fd0e04eef83ed439fda52d"
 
 [[files]]
 file = "options.txt"
-hash = "508008f88c15c4595b1ec86f00c8ca41342738b236afa7cd18516b8cb5f27721"
+hash = "8e4f69e7ca7c4fcd63e44e5a64682e9f76745ffe65eb80b3c792e03c93c9ac56"
 
 [[files]]
 file = "resourcepacks/Clear_Glass_Pack_1.18.zip"
