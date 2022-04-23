@@ -26,6 +26,7 @@
 	"water_sip_thirst_chance": 0.75,
 	// Counted in ticks, 20 ticks = 1 second
 	"water_sip_thirst_duration": 600,
+	"allow_non_flowing_water_sip": false,
 	"sleep_thirst_consumption": 4,
 	"sleep_hunger_consumption": 2,
 	// in ticks

@@ -11,7 +11,7 @@
 		// Sets the interval in milliseconds in which certain packets are fired.
 		// Lower numbers increase the speed but might be rejected by servers.
 		// default: 10
-		// Must be inclusively between 1 and 1000
+		// 	Must be greater or equal to 1
 		interaction-rate: 10
 		// Enables using armor/elytra items to swap them with the currently equipped item.
 		// default: true
@@ -19,6 +19,10 @@
 		// Enables dropping items when pressing alt and clicking on them.
 		// default: true
 		enable-alt-dropping: true
+		// This helps when you regularly move your mouse faster than the game can pick up.
+		// This will impact performance though.
+		// default: false
+		better-fast-dragging: false
 	}
 	scrolling: {
 		// Enables scrolling of stacks

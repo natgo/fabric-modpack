@@ -1,4 +1,5 @@
-version:2865
+version:2975
+quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","file/Clear_Glass_Pack_1.18.zip","file/FJCG+1.18.zip","file/FJCG_N+1.18.zip","file/Faithful-1.18.zip","file/FurfSky+Chime+1.18.zip","file/VanillaTweaks_r291911.zip","file/minecraft_cave_animation_fancymenu_21938kf312","minecraft/supporteatinganimation","programer_art","vanilla","illuminations/lowerres","illuminations/pixelaccurate"]
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -36,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","file/Faithful-1.18.zip","file/VanillaTweaks_r291911.zip","file/FJCG+1.18.zip","file/minecraft_cave_animation_fancymenu_21938kf312"]
+resourcePacks:["vanilla","file/Faithful-1.18.zip","file/VanillaTweaks_r291911.zip","file/FJCG+1.18.zip","file/minecraft_cave_animation_fancymenu_21938kf312","minecraft/supporteatinganimation"]
 incompatibleResourcePacks:["file/minecraft_cave_animation_fancymenu_21938kf312"]
 lastServer:192.168.1.137
 lang:en_us
@@ -67,6 +68,7 @@ mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
+skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:false
@@ -109,8 +111,8 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
-key_[Fabrication] Toggle Stance:key.keyboard.v
 key_[Fabrication] Crawl:key.keyboard.unknown
+key_[Fabrication] Toggle Stance:key.keyboard.v
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.gamma_utils.gamma_toggle:key.keyboard.g
@@ -118,9 +120,6 @@ key_key.gamma_utils.increase_gamma:key.keyboard.up
 key_key.gamma_utils.decrease_gamma:key.keyboard.down
 key_key.antighost.reveal:key.keyboard.unknown
 key_key.cleanview.togglecleanview:key.keyboard.unknown
-key_key.dontdropit.dropStack:key.keyboard.unknown
-key_key.dontdropit.forceDrop:key.keyboard.left.control
-key_key.dontdropit.toggleDropDelay:key.keyboard.unknown
 key_key.durabilityviewer.showhide:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.flighthelper.lockup:key.keyboard.keypad.8
@@ -159,6 +158,7 @@ key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
+key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.unknown
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.right.bracket
