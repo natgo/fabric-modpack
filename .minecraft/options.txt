@@ -136,6 +136,7 @@ key_key.origins.primary_active:key.keyboard.r
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o
 key_key.petowner.hide:key.keyboard.unknown
+key_seamless_loading_screen.keybind.config:key.keyboard.unknown
 key_key.whereisit.finditem:key.keyboard.y
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
