@@ -24,7 +24,7 @@ mouseSensitivity:0.35211268067359924
 fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
-gamma:1.0
+gamma:0.0
 renderDistance:16
 simulationDistance:16
 entityDistanceScaling:5.0
@@ -166,6 +166,9 @@ key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 soundCategory_master:0.50165564
 soundCategory_music:0.30985916
 soundCategory_record:1.0
