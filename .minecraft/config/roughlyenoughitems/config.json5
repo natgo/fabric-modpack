@@ -1,16 +1,6 @@
 {
 	"basics": {
-		"favorites": [
-			"{data:{Count:1b,id:\"minecraft:golden_axe\",tag:{Damage:0,Enchantments:[{id:\"minecraft:mending\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:dirt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:gunpowder\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:deepslate_gold_ore\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:bamboo\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"mtr:escalator\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:cobbled_deepslate\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:fishing_rod\",tag:{Damage:0,Enchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:lure\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}],RepairCost:3,display:{Name:'{\"text\":\"Jousi\"}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:splash_potion\",tag:{Potion:\"minecraft:fire_resistance\"},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
-		],
+		"favorites": [],
 		// Declares whether cheating mode is on.
 		"cheating": false,
 		"favoritesEnabled": true,
@@ -145,7 +135,7 @@
 			// Declares the position of the config button.
 			"configButtonLocation": "LOWER",
 			// Declares whether the craftable filter button is enabled.
-			"enableCraftableOnlyButton": false
+			"enableCraftableOnlyButton": true
 		},
 		// Declares the appearance of recipe's border.
 		"recipeBorder": "DEFAULT",
