@@ -1,5 +1,5 @@
 allowPlace false
-allowBrake true
+allowBreak true
 assumeWalkOnWater true
 allowParkour true
 maxFallHeightNoWater 4
