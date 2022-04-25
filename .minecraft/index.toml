@@ -22,7 +22,7 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "2af6ac0ff724ca1c3d2a9c73cb1fd8c59234ac48ef7f1000fc74d4a195b78744"
+hash = "6c8a0fdeb5436bbcdd7e0eba141c0430515d09920793a28405e066a28c7c94e0"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -102,7 +102,7 @@ hash = "ba1ec5607e3e0d9b575adf8f7609fc3e94db3684910303c4cfec855017ea5d99"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "721df6ba9c8214484950f67f2fee48bcc2510a33084cb446a29d098fdf7e6ea5"
+hash = "99af887bc5cb2d55c5d069b76e27d9cf41c0fa30ae6c045b8976fc1d36c4c907"
 
 [[files]]
 file = "config/entityculling.json"
@@ -114,7 +114,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "da27537a8d0305d253ccea532b4432a14b8423f03d5f66aa4fba0ebb3f8f520c"
+hash = "d382f9d21bec5c4a0e8c1924f3fd7d3c2c6360f62a95386715c1b764cbd64dfb"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -230,7 +230,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "3aca8e45958e210ccce34a28891eab15cc4f049e72bba0194676dce6c98637ee"
+hash = "e273546045c11baa025a4877f6ee98e5eec85a54f5a7bc3c755d79cb658f38f2"
 
 [[files]]
 file = "config/indicatia.json"
@@ -238,7 +238,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "82be770654d4a2afeb7ef1f5f9f7fce270b3f7ef649735f03144e9f76a0fd306"
+hash = "37424fadd35f4d5ce54074c1199daa34bb7f069b91cc63d9418074b1eb0eb922"
 
 [[files]]
 file = "config/inspecio.json"
@@ -550,7 +550,7 @@ hash = "95f3cca48ae408a8da08d4ace8d2831d17d9685f66d6cf745679070a3d893839"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "f815d8aa352dbc544d4d4b87f44b34cdf93bd8243aff99f8c9ed972276268011"
+hash = "2cfdb8fea78ae20e5ec8437e11719262989d750fe0bda84ca507d77dd51ea46f"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.toml"
-hash = "56b8d87e0544d89970c3a44cf6694e7bacc68a1a70d101fdef384df8461f084d"
+hash = "62d859bdfed94ea89b998f907e7e67d6def0400c32dbee2d9938bbe39ba395d7"
 metafile = true
 
 [[files]]
@@ -582,6 +582,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-fabric.toml"
 hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.toml"
+hash = "32ccc573e57d33203014065a9410666d6266538eab2cbc8f543823f08f7fa135"
 metafile = true
 
 [[files]]
@@ -749,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
@@ -778,7 +783,7 @@ hash = "f6164df884b2f47646e57d7da436dc43aeb5f139ef506b80df3e4c72dcd7166e"
 
 [[files]]
 file = "mods/indium.toml"
-hash = "df864fbe0b2602c2a0455b789e5e22f65ce1770994dbf3c6fe22a6b4ba9147b7"
+hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
 metafile = true
 
 [[files]]
@@ -846,11 +851,6 @@ file = "mods/minimalmenu-1.18.2-0.1.5.jar"
 hash = "4c47226e975ce32dcb41bcc82be6c7522bc1103885e8522b88b0da2a27e6926f"
 
 [[files]]
-file = "mods/minimalmenu.toml"
-hash = "cf8b9c271a5e716d168d255c034908986a9e90d972924de2d423e6c2c2f8b0ce"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.toml"
 hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
 metafile = true
@@ -913,6 +913,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.toml"
 hash = "eb6150a90b50591452feb9fd110e369f4d2eca3f10e1f3f2c0f262703a575899"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.toml"
+hash = "a2eeafe4895384163835003003991d4f3e09d867135144d49eeed8f4358e690d"
 metafile = true
 
 [[files]]
@@ -997,7 +1002,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "f94b41695798cf547c3fe0e7afc2614e7954646fe51c87f7c7f1e8eeff6f3a90"
+hash = "432768bbac822ed5b194b6560f65d6d31dafe232e2cd457aa4c1af2b925f4ca9"
 metafile = true
 
 [[files]]
@@ -1016,7 +1021,7 @@ hash = "0c752e7a042b5509399cef75b12beb472f4d1fef78fd0e04eef83ed439fda52d"
 
 [[files]]
 file = "options.txt"
-hash = "8e4f69e7ca7c4fcd63e44e5a64682e9f76745ffe65eb80b3c792e03c93c9ac56"
+hash = "0644119441ddba8a9f9babd241924c6ac3043696290b86c1c690199038c28c00"
 
 [[files]]
 file = "resourcepacks/Clear_Glass_Pack_1.18.zip"
