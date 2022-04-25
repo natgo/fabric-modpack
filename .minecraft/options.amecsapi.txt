@@ -42,6 +42,7 @@ key_modifiers_key.gamma_utils.gamma_toggle:0,0,0
 key_modifiers_key.gamma_utils.increase_gamma:0,0,0
 key_modifiers_key.gamma_utils.decrease_gamma:0,0,0
 key_modifiers_key.antighost.reveal:0,0,0
+key_modifiers_key.autorun.toggle:0,0,0
 key_modifiers_key.cleanview.togglecleanview:0,0,0
 key_modifiers_key.durabilityviewer.showhide:0,0,0
 key_modifiers_key.entityculling.toggle:0,0,0

@@ -119,6 +119,7 @@ key_key.gamma_utils.gamma_toggle:key.keyboard.g
 key_key.gamma_utils.increase_gamma:key.keyboard.up
 key_key.gamma_utils.decrease_gamma:key.keyboard.down
 key_key.antighost.reveal:key.keyboard.unknown
+key_key.autorun.toggle:key.keyboard.i
 key_key.cleanview.togglecleanview:key.keyboard.unknown
 key_key.durabilityviewer.showhide:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
