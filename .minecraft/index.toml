@@ -6,7 +6,7 @@ hash = "e8c6293d800809a9afcae2248b0921337d439f4a3c16f77dafba6d7fb524594d"
 
 [[files]]
 file = "baritone/settings.txt"
-hash = "485195ac4f1fc445e109f50944985379ca3d46599239ac32cff843ef0140821b"
+hash = "ae5d9213adad447741d57a56bce46fd9bbb1453a496c547e74b1c8b87ee89502"
 
 [[files]]
 file = "config/LoadingTimer.properties"
@@ -22,7 +22,7 @@ hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "6c8a0fdeb5436bbcdd7e0eba141c0430515d09920793a28405e066a28c7c94e0"
+hash = "7aff71cbfcea8efebd430eacbbfc8411e4e1e97614b488c57027c024942a9eb0"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -73,6 +73,30 @@ file = "config/crowdin.txt"
 hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 
 [[files]]
+file = "config/customsplashscreen.json5"
+hash = "29dcdeef2da7592130d95698b62fd481edb42db5c9d5c768a3cbba07f1008141"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+hash = "67d20ac3afe9538286de7c2a44f6bea546bdccf116b5246d0f5d6ce2d9a8b0a0"
+
+[[files]]
+file = "config/customsplashscreen/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "config/customsplashscreen/mojank.png"
+hash = "7e4897e9f11f9c44aaafdf6c5890803ff5e2908806748f89f1ac596e4e612f42"
+
+[[files]]
+file = "config/customsplashscreen/progressbar.png"
+hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
+
+[[files]]
+file = "config/customsplashscreen/progressbar_background.png"
+hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
+
+[[files]]
 file = "config/dashloader.json"
 hash = "aeff2cf118d07265fd91c63a4b38b4a5c06258b0b8928ee2796c009249587458"
 
@@ -102,7 +126,7 @@ hash = "ba1ec5607e3e0d9b575adf8f7609fc3e94db3684910303c4cfec855017ea5d99"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "99af887bc5cb2d55c5d069b76e27d9cf41c0fa30ae6c045b8976fc1d36c4c907"
+hash = "122294bf668a8189afa8e8878bd7f2c98c6f040b7720019fe0ca25741b6b1e69"
 
 [[files]]
 file = "config/entityculling.json"
@@ -114,7 +138,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "d382f9d21bec5c4a0e8c1924f3fd7d3c2c6360f62a95386715c1b764cbd64dfb"
+hash = "560a2d464e1d43408813a77c255c3063636daea22bc64f9bc20471350308ed74"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -210,7 +234,7 @@ hash = "9dfa943b1306339bcea776147394c19db55f7cfc41ed3f3fb639f41a360baffe"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "ac2b86b1c5dc4e3728e17e091e203bb9bb747a6ef81a49b7ecc1ce7a67da210e"
+hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
 
 [[files]]
 file = "config/flighthelper.json"
@@ -230,7 +254,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "e273546045c11baa025a4877f6ee98e5eec85a54f5a7bc3c755d79cb658f38f2"
+hash = "6656a837117546af89c0a2d0fa66508a22485f619306fadb951aa99f60bc7afd"
 
 [[files]]
 file = "config/indicatia.json"
@@ -238,7 +262,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "37424fadd35f4d5ce54074c1199daa34bb7f069b91cc63d9418074b1eb0eb922"
+hash = "d391e97cba62b6c4de484dc77353b65a420f31009a13025860dc3d66a473bcea"
 
 [[files]]
 file = "config/inspecio.json"
@@ -474,11 +498,15 @@ hash = "e3bf13bfae135bec8dd7c2bc476bc260e63fab29feeabe64b5caaf471d973337"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "63c6a3d337a53bc9ba1765782b775a913d60f593503824d716af8ba5a903e89e"
+hash = "ab8f6271fc88934d5249ae8a8a4844addbdeaa34bc55badb3ac7cd041fac36e3"
 
 [[files]]
 file = "config/rrp.properties"
 hash = "12191e8f4ae947e04967cf8f4d3670eb4a52ca8693b3069c69f7331728d14887"
+
+[[files]]
+file = "config/seamless_loading_screen.json"
+hash = "1194ed677317a321ce5428f37e6b72922e2481d4e527238ce228df23352654e7"
 
 [[files]]
 file = "config/slightguimodifications/config.json5"
@@ -550,7 +578,7 @@ hash = "95f3cca48ae408a8da08d4ace8d2831d17d9685f66d6cf745679070a3d893839"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "2cfdb8fea78ae20e5ec8437e11719262989d750fe0bda84ca507d77dd51ea46f"
+hash = "2445c32dd2316325a01e737644cd1afd0153463b9f7128e58c21d17fa3aaa7d4"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -678,6 +706,11 @@ hash = "4932ddd020065b82614ddb7db60679f4c615b4c780dcac10c6ca43c3ba530c62"
 metafile = true
 
 [[files]]
+file = "mods/custom-splash-screen.toml"
+hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.toml"
 hash = "22a9f27ba11eebe161bc6b7ae30aa1af90efe2a8b1cb84acd30cf164021fb77f"
 metafile = true
@@ -713,8 +746,8 @@ hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
 
 [[files]]
-file = "mods/elytra-trinket-fabric.toml"
-hash = "5fd55ae664016de4dfbc907a4e2a5a7c941efb6996c4831604505655c4ae4931"
+file = "mods/enchantment-lore.toml"
+hash = "53cc88375b73e35a92ac6adde1a31f14e387950ba87aa2a0fbd04bc73ca7c32d"
 metafile = true
 
 [[files]]
@@ -797,6 +830,11 @@ hash = "c564893890b156a785a37654a6719ce3bdd9ab9e3bef3d31ea137406ba899b4e"
 metafile = true
 
 [[files]]
+file = "mods/iris.toml"
+hash = "4df16f85610e373b5ac1c9fd5908225e38c5b993cf471c5034f2190df1924157"
+metafile = true
+
+[[files]]
 file = "mods/konkrete-fabric.toml"
 hash = "312f53cb358c5f861d1eca8db621fdf13439d93c50f0a73957df9fa4e777682a"
 metafile = true
@@ -804,6 +842,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.toml"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
@@ -893,6 +936,11 @@ metafile = true
 [[files]]
 file = "mods/petowner.toml"
 hash = "9be45ccd8c96b1cfbba7193c9fc1f73d2017786cbb8f8fa185f4e635d5f76dc7"
+metafile = true
+
+[[files]]
+file = "mods/pinglist.toml"
+hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
 metafile = true
 
 [[files]]
@@ -1017,11 +1065,11 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "0c752e7a042b5509399cef75b12beb472f4d1fef78fd0e04eef83ed439fda52d"
+hash = "8b58fe83f6c05234af57081fe0f586b1e94e203752a65abaf7b3af1e05a1728b"
 
 [[files]]
 file = "options.txt"
-hash = "0644119441ddba8a9f9babd241924c6ac3043696290b86c1c690199038c28c00"
+hash = "c75bbdc19d49788e5bf7bcf922cfd9b133a4931c98c8fd9a890e016c2ff4bc88"
 
 [[files]]
 file = "resourcepacks/Clear_Glass_Pack_1.18.zip"
