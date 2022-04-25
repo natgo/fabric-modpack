@@ -17,12 +17,16 @@ file = "config/advancementinfo.json5"
 hash = "82fb3f9fd7931ded27c4c0cc78b86bed8a82e2d17b587f26f3a094a8589e13e6"
 
 [[files]]
+file = "config/autorun.properties"
+hash = "30c137a9740d9cfec4d357cbb1825d6c8aea473af3ebd10d4f38eedf57f21c5c"
+
+[[files]]
 file = "config/backup/inspecio.json"
 hash = "dbd2bab5bced373f4b106cbf314e7b376e713ef193f2c79d10e4c0598a1dfd29"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "7aff71cbfcea8efebd430eacbbfc8411e4e1e97614b488c57027c024942a9eb0"
+hash = "6db530bc3499d48f1304758d315b2d420aab1333c48822c23600389039e430c0"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
@@ -138,7 +142,7 @@ hash = "7e84864ebe533ba5c16f79a4f0f4c5d01da20b332c879587de96b2bd9f3447c5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "560a2d464e1d43408813a77c255c3063636daea22bc64f9bc20471350308ed74"
+hash = "583c86a081401b46a1291edcf6b08a344fc236151c292eb6a48bc0457aa6b5cd"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -254,7 +258,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/illuminations.properties"
-hash = "6656a837117546af89c0a2d0fa66508a22485f619306fadb951aa99f60bc7afd"
+hash = "4472fde6b1fbd2ba6e6a1cf6c1f7ec58c7de1b0d85a018e3466f33ef312e78eb"
 
 [[files]]
 file = "config/indicatia.json"
@@ -262,7 +266,7 @@ hash = "3e1603219e1ec4df8408971f8e9ceaa1d682113cf8a848780bcfea05d29a969b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "d391e97cba62b6c4de484dc77353b65a420f31009a13025860dc3d66a473bcea"
+hash = "83cdaa89c1f0acd247ae9bdc2ae3c48299a43499e8102137c2875021f7a17e14"
 
 [[files]]
 file = "config/inspecio.json"
@@ -578,7 +582,7 @@ hash = "95f3cca48ae408a8da08d4ace8d2831d17d9685f66d6cf745679070a3d893839"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "2445c32dd2316325a01e737644cd1afd0153463b9f7128e58c21d17fa3aaa7d4"
+hash = "f815d8aa352dbc544d4d4b87f44b34cdf93bd8243aff99f8c9ed972276268011"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -610,6 +614,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-fabric.toml"
 hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
+metafile = true
+
+[[files]]
+file = "mods/autorun.toml"
+hash = "22e41952ed8904ec3bf1f4e037f52c07555a510219488f76f86cf60a2e4f0029"
 metafile = true
 
 [[files]]
@@ -1065,11 +1074,11 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "8b58fe83f6c05234af57081fe0f586b1e94e203752a65abaf7b3af1e05a1728b"
+hash = "943c848851a44abf2e3f8a7edaaa966f01f7832a069aa9aa4196b16ab369fc8f"
 
 [[files]]
 file = "options.txt"
-hash = "c75bbdc19d49788e5bf7bcf922cfd9b133a4931c98c8fd9a890e016c2ff4bc88"
+hash = "9610ea12a3646c972170f5993eca3a44aa5e92017d4d298dc47df729388361bb"
 
 [[files]]
 file = "resourcepacks/Clear_Glass_Pack_1.18.zip"
