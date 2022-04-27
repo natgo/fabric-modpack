@@ -791,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "6aa643dfc23bb62b98a75e169f36905cfc442907453f988d58f1f92b21c1a462"
+hash = "69e6abe50317967ad4ee872868e4ca6ae944e9574257e785c5f0c2fac3e0d540"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "4df16f85610e373b5ac1c9fd5908225e38c5b993cf471c5034f2190df1924157"
+hash = "cbc3d6649757c3751ac73aed8df427b3ebc5685a808935b0e631d213bf6a760b"
 metafile = true
 
 [[files]]
@@ -851,11 +851,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.toml"
-hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
@@ -904,7 +899,7 @@ hash = "4c47226e975ce32dcb41bcc82be6c7522bc1103885e8522b88b0da2a27e6926f"
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
+hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
 metafile = true
 
 [[files]]
@@ -964,7 +959,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3e723eefde3af8c48ea424018106868bcadbccd9546666a3b2c57823886b0072"
+hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
 metafile = true
 
 [[files]]
