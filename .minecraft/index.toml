@@ -730,6 +730,11 @@ hash = "037063872c40e18e76ea0572e7513b1a28e9766c4ec6713d76f496b1aaae9f61"
 metafile = true
 
 [[files]]
+file = "mods/dont-drop-it.toml"
+hash = "00b28cee12cf1200b8f59abbe3d82a46d57274f9ed9f2c75d3b768c613d31593"
+metafile = true
+
+[[files]]
 file = "mods/durabilityviewer.toml"
 hash = "b38955363599622bb27fa008bb70b8c92d022af86c2adaa3be35fd7915763748"
 metafile = true
@@ -1054,7 +1059,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "432768bbac822ed5b194b6560f65d6d31dafe232e2cd457aa4c1af2b925f4ca9"
+hash = "9f348462d03c0815838a45316c2e0d22f2c9ba5b0e0175cb3871a55dc098fed2"
 metafile = true
 
 [[files]]
