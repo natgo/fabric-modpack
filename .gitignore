@@ -21,8 +21,7 @@
 .minecraft/not-enough-crashes/
 .minecraft/mods/meteor-client**
 .minecraft/mods/*.jar
-!.minecraft/mods/clear-skies-fabric-mc118-2.0.92-SNAPSHOT.jar
 !.minecraft/mods/cloth-config-6.2.57-fabric.jar
-!.minecraft/mods/illuminations-1.10.3.jar
+!.minecraft/mods/illuminations-1.10.4.jar
 !.minecraft/mods/minimalmenu-1.18.2-0.1.5.jar
 .minecraft/packwiz*

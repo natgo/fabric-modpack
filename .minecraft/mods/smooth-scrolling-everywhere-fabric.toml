@@ -1,6 +1,6 @@
 name = "Smooth Scrolling Everywhere (Fabric)"
 filename = "SmoothScrollingEverywhere-3.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3631/944/SmoothScrollingEverywhere-3.0.4.jar"

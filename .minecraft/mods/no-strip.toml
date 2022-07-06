@@ -1,6 +1,6 @@
 name = "No Strip"
 filename = "nostrip-1.2.2-1.17+.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3f1BdVqy/versions/1.2.2/nostrip-1.2.2-1.17+.jar"

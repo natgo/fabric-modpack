@@ -1,6 +1,6 @@
 name = "Konkrete [Fabric]"
 filename = "konkrete_fabric_1.3.3-4_MC_1.18-1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

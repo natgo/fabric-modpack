@@ -1,6 +1,6 @@
 name = "Better Enchanted Books"
 filename = "better-enchanted-books-1.18.1-1.3.0-inofficial.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/Fourmisain/BetterEnchantedBooks/releases/download/1.3.0/better-enchanted-books-1.18.1-1.3.0-inofficial.jar"

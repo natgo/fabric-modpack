@@ -1,6 +1,6 @@
 name = "Logical Zoom"
 filename = "logical_zoom-0.0.14.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3667/604/logical_zoom-0.0.14.jar"

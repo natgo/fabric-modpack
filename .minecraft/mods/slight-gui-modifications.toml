@@ -1,6 +1,6 @@
 name = "'Slight' Gui Modifications"
 filename = "slight-gui-modifications-2.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3680/329/slight-gui-modifications-2.1.0.jar"
