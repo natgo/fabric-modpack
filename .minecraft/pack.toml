@@ -1,12 +1,12 @@
 name = "fabirc"
 author = "natgo"
 version = "1.8.8"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ad3400cbb5b666488e269a43eb2ca23c8b5aed16215d638b57d58c4924492f88"
+hash = "077724835c811fbcf1e68b76d401b5c7e092670dcc0f722a124ca9afbb94eee4"
 
 [versions]
 fabric = "0.14.2"

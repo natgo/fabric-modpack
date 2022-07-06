@@ -1,13 +1,13 @@
 name = "Fabrication"
-filename = "fabrication-1.18.2-2.3.1-exp3.jar"
+filename = "fabrication-3.0-pre5+1.18.jar"
 side = "both"
 
 [download]
-url = "https://github.com/unascribed/Fabrication/releases/download/v2.3.0/fabrication-1.18.2-2.3.1-exp3.jar"
-hash-format = "sha512"
-hash = "c133a9e2d23d916db038c1c468ac26acd94a3fb8513b91b59ff1ec5caf518de83c912574aa666d2ee36513b9df25d2b9f3821d88afa20f2895da97c6901c0326"
+hash-format = "sha1"
+hash = "923ba70196cc6c55f085bdcd5a94b440cb6f7269"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3579551
+file-id = 3843369
 project-id = 414445
