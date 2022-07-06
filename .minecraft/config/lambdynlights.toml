@@ -55,6 +55,56 @@ mode = "fancy"
 				trapped_chest = true
 				blast_furnace = true
 
+			[light_sources.settings.block_entities.environmentz]
+				laval_cauldron_block_entity = true
+
+			[light_sources.settings.block_entities.dehydration]
+				campfire_cauldron_entity = true
+
+			[light_sources.settings.block_entities.mtr]
+				railway_sign_6_even = true
+				railway_sign_3_even = true
+				route_sign_wall_metal = true
+				signal_semaphore_1 = true
+				tactile_map = true
+				route_sign_standing_light = true
+				railway_sign_4_odd = true
+				arrival_projector_1_small = true
+				boat_node = true
+				station_name_tall_wall = true
+				train_announcer = true
+				route_sign_standing_metal = true
+				train_cargo_unloader = true
+				railway_sign_5_odd = true
+				station_name_wall = true
+				train_redstone_sensor = true
+				apg_glass = true
+				railway_sign_7_even = true
+				arrival_projector_1_large = true
+				railway_sign_4_even = true
+				route_sign_wall_light = true
+				station_name_tall_block = true
+				railway_sign_6_odd = true
+				train_cargo_loader = true
+				station_name_entrance = true
+				arrival_projector_1_medium = true
+				pids_3 = true
+				railway_sign_5_even = true
+				clock = true
+				pids_2 = true
+				railway_sign_2_odd = true
+				pids_1 = true
+				psd_top = true
+				railway_sign_7_odd = true
+				railway_sign_2_even = true
+				signal_semaphore_2 = true
+				signal_light_2 = true
+				railway_sign_3_odd = true
+				signal_light_3 = true
+				signal_light_1 = true
+				train_schedule_sensor = true
+				signal_light_4 = true
+
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
@@ -145,7 +195,7 @@ mode = "fancy"
 				leash_knot = true
 				evoker = true
 				marker = true
-				glow_squid = true
+				glow_squid = false
 				squid = true
 				shulker_bullet = true
 				enderman = true
@@ -171,4 +221,10 @@ mode = "fancy"
 				falling_block = true
 				painting = true
 				wither = true
+
+			[light_sources.settings.entities.origins]
+				enderian_pearl = true
+
+			[light_sources.settings.entities.mtr]
+				seat = true
 

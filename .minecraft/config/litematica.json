@@ -29,6 +29,7 @@
     "fixRailRotation": true,
     "generateLowercaseNames": true,
     "highlightBlockInInventory": false,
+    "itemUsePacketCheckBypass": true,
     "layerModeFollowsPlayer": false,
     "pasteIgnoreBlockEntitiesEntirely": false,
     "pasteIgnoreBlockEntitiesFromFill": true,
@@ -316,7 +317,7 @@
     "verifierErrorHilightMaxPositions": 1000
   },
   "Visuals": {
-    "enableRendering": false,
+    "enableRendering": true,
     "enableSchematicRendering": true,
     "enableAreaSelectionBoxesRendering": true,
     "enablePlacementBoxesRendering": true,
@@ -325,7 +326,7 @@
     "ignoreExistingFluids": false,
     "overlayReducedInnerSides": false,
     "renderAreaSelectionBoxSides": true,
-    "renderBlocksAsTranslucent": true,
+    "renderBlocksAsTranslucent": false,
     "renderCollidingSchematicBlocks": false,
     "renderErrorMarkerConnections": false,
     "renderErrorMarkerSides": true,

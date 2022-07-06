@@ -1,0 +1,4 @@
+#Mon Apr 25 17:05:54 EEST 2022
+WAVING_HAND=false
+WAVING_LEAVES=false
+SSAO=true

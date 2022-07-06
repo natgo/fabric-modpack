@@ -1,0 +1,7 @@
+#Mon Apr 25 17:07:03 EEST 2022
+LIGHT_SHAFT=false
+OVERWORLD_NEBULA=false
+NETHER_SMOKE=false
+END_NEBULA=false
+AO=false
+MOTION_BLUR=false

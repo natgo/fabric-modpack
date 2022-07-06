@@ -24,12 +24,12 @@ customization {
 }
 
 customization {
-  identifier = %id=376405%
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=400321%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
   x = 2
   action = movebutton
@@ -37,15 +37,61 @@ customization {
 }
 
 customization {
-  identifier = %id=400321%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   width = 98
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=604405%
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 1cad02ef-fb32-4c0c-84fd-57e86b1d8e6e1657143849731
+  y = 528
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 4ba7230d-5d2c-46aa-bdf7-f93a32f224291657143849734
+  y = 235
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = b9ff3a09-24d4-4594-9d79-d894e1fe345f1657143849734
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 18cb3a61-a7b9-4f0b-8630-a45ba68c88901657143849734
+  y = 0
+  height = 30
 }
 
 customization {

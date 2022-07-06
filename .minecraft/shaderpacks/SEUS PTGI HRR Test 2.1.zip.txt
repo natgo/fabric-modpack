@@ -1,0 +1,2 @@
+#Mon Apr 25 16:57:32 EEST 2022
+MOTION_BLUR=false

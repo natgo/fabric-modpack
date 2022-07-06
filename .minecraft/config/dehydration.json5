@@ -13,6 +13,8 @@
 	"milk_thirst_quench": 8,
 	// 1.0F = 100%, 0.5F = 50%, 0.0F = 0%
 	"milk_thirst_chance": 0.4000000059604645,
+	// Applies on items added to the drinks tag
+	"drinks_thirst_quench": 2,
 	"stew_thirst_quench": 3,
 	// Applies to only food tagged with: #hydrating_food
 	"food_thirst_quench": 1,
