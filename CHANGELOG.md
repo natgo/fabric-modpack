@@ -7,6 +7,17 @@ All notable changes to this project will be documented in this file.
 - Crawling in 1x1 space doesn't work
 -  A bedrock screen for "loading terrain" interrupts the screenshot momentarily
 
+## [1.18.9+22a54bb] - 26-11-2022
+### Compat
+- Add ost overhaul
+
+### Performance
+- Add memoryleakfix
+
+### Changed
+- MTR 3.0.0 -> 3.1.9 
+
+
 ## [1.8.8+4970e67] - 28-04-2022
 ### Compat
 - Add 'Slight' Gui Modifications
