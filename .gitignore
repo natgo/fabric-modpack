@@ -1,4 +1,5 @@
 .minecraft/.fabric/
+.minecraft/.quilt/
 .minecraft/.mixin.out/
 .minecraft/ModTranslations/
 .minecraft/saves/

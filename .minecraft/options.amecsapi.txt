@@ -36,6 +36,7 @@ key_modifiers_key.dynamicfps.toggle_forced:0,0,0
 key_modifiers_key.dynamicfps.toggle_disabled:0,0,0
 key_modifiers_Reload Menu | CTRL + ALT + :0,0,0
 key_modifiers_Toggle Customization Overlay | CTRL + ALT + :0,0,0
+key_modifiers_key.firstperson.toggle:0,0,0
 key_modifiers_key.antighost.reveal:0,0,0
 key_modifiers_key.autorun.toggle:0,0,0
 key_modifiers_key.cleanview.togglecleanview:0,0,0
@@ -74,7 +75,6 @@ key_modifiers_key.nostrip.togglestrip:0,0,0
 key_modifiers_key.origins.primary_active:0,0,0
 key_modifiers_key.origins.secondary_active:0,0,0
 key_modifiers_key.origins.view_origin:0,0,0
-key_modifiers_key.petowner.hide:0,0,0
 key_modifiers_seamless_loading_screen.keybind.config:0,0,0
 key_modifiers_key.whereisit.finditem:0,0,0
 key_modifiers_key.waila.config:0,0,0

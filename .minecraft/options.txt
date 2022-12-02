@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","file/Faithful-1.18.zip","file/VanillaTweaks_r291911.zip","file/FJCG+1.18.zip","file/minecraft_cave_animation_fancymenu_21938kf312","minecraft/supporteatinganimation","Fabric Mods"]
+resourcePacks:["vanilla","file/Faithful-1.18.zip","file/VanillaTweaks_r291911.zip","file/FJCG+1.18.zip","file/minecraft_cave_animation_fancymenu_21938kf312","minecraft/supporteatinganimation","minecraft/supporteatinganimation"]
 incompatibleResourcePacks:["file/minecraft_cave_animation_fancymenu_21938kf312"]
 lastServer:192.168.1.137
 lang:en_us
@@ -112,11 +112,12 @@ key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
+key_key.firstperson.toggle:key.keyboard.f6
 key_key.antighost.reveal:key.keyboard.unknown
 key_key.autorun.toggle:key.keyboard.i
 key_key.cleanview.togglecleanview:key.keyboard.unknown
 key_key.dontdropit.dropStack:key.keyboard.left.control
-key_key.dontdropit.forceDrop:key.keyboard.left.alt
+key_key.dontdropit.forceDrop:key.keyboard.left.shift
 key_key.dontdropit.toggleDropDelay:key.keyboard.unknown
 key_key.durabilityviewer.showhide:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
@@ -150,7 +151,6 @@ key_key.nostrip.togglestrip:key.keyboard.u
 key_key.origins.primary_active:key.keyboard.r
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o
-key_key.petowner.hide:key.keyboard.unknown
 key_seamless_loading_screen.keybind.config:key.keyboard.unknown
 key_key.whereisit.finditem:key.keyboard.y
 key_key.waila.config:key.keyboard.keypad.0

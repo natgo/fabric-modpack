@@ -69,7 +69,15 @@
 			"minecraft:diamond_chestplate",
 			"minecraft:diamond_boots",
 			"minecraft:diamond_leggings",
-			"minecraft:diamond_shovel"
+			"minecraft:diamond_shovel",
+			"minecraft:netherite_axe",
+			"minecraft:netherite_pickaxe",
+			"minecraft:netherite_sword",
+			"minecraft:netherite_helmet",
+			"minecraft:netherite_chestplate",
+			"minecraft:netherite_boots",
+			"minecraft:netherite_leggings",
+			"minecraft:netherite_shovel"
 		],
 		"itemTags": [],
 		"enchantments": [
