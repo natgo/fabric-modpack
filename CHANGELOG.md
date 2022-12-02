@@ -4,8 +4,31 @@ Changelog
 All notable changes to this project will be documented in this file.
 
 ## Known issues
-- Crawling in 1x1 space doesn't work
 -  A bedrock screen for "loading terrain" interrupts the screenshot momentarily
+
+## [1.18.9+403e6b7] - 01-12-2022
+### Compat
+- Add loading timer
+- Remove quickcalc (will be replaced with chatcalc in 1.19)
+
+### Performance
+- Add better beds
+
+### Additions
+- Chat heads
+- Dripsounds
+- First person model
+- Item model fix
+
+### Removals
+- Dehydration
+- Pet owner (now part of wthit)
+
+### Changed
+- Bluemap 1.7.3 -> 3.6
+- Pinglist -> Better ping display
+- NotEnoughCrashes -> Mixintrace
+
 
 ## [1.18.9+22a54bb] - 26-11-2022
 ### Compat
