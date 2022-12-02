@@ -1,0 +1,13 @@
+name = "Loading Timer"
+filename = "Loading-Timer-1.5.1-Snapshot+1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://natgo.xyz/files/minecraft/mods/Loading-Timer-1.5.1-Snapshot+1.18.2.jar"
+hash-format = "sha256"
+hash = "7d8b295cc448c0d110a6466ad229f015e13254b7fd8458934a43e1c06ea4072a"
+
+[update]
+[update.modrinth]
+mod-id = "MrzGakdv"
+version = "GlnhE8BH"

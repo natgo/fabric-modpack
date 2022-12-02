@@ -1,0 +1,13 @@
+name = "MinimalMenu"
+filename = "minimalmenu-1.18.2-0.1.5.jar"
+side = "client"
+
+[download]
+url = "https://natgo.xyz/files/minecraft/mods/minimalmenu-1.18.2-0.1.5.jar"
+hash-format = "sha256"
+hash = "4c47226e975ce32dcb41bcc82be6c7522bc1103885e8522b88b0da2a27e6926f"
+
+[update]
+[update.modrinth]
+mod-id = "BYtiUf2Z"
+version = "27NoZMuJ"
