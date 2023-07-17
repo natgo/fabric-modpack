@@ -5,6 +5,7 @@
 	},
 	"dropDelay": {
 		"mode": "DISABLED",
+		"disabled": false,
 		"ticks": 10,
 		"doDelayOnce": false
 	},

@@ -129,7 +129,7 @@
 		}
 	},
 	"appearance": {
-		"recipeScreenType": "ORIGINAL",
+		"recipeScreenType": "COMPOSITE",
 		// Declares the appearance of REI windows.
 		"theme": "LIGHT",
 		"layout": {

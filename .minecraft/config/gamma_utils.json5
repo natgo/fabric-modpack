@@ -4,7 +4,7 @@
 	"toggledGamma": 100,
 	"updateToggle": false,
 	"smoothTransition": true,
-	"showStatusEffect": false,
+	"showStatusEffect": true,
 	"advancedOptions": {
 		"transitionSpeed": 4500,
 		"limitCheck": true,
@@ -12,6 +12,6 @@
 		"maxGamma": 500,
 		"gammaStep": 10,
 		"showMessage": true,
-		"resetOnClose": false
+		"resetOnClose": true
 	}
 }

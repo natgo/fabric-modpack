@@ -158,5 +158,9 @@
   "origins:water_protection": {
     "orderIndex": 39,
     "color": 12915514
+  },
+  "minecraft:swift_sneak": {
+    "orderIndex": 40,
+    "color": 12915514
   }
 }
