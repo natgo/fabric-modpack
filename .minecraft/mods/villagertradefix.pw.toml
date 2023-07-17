@@ -1,13 +1,13 @@
 name = "VillagerTradeFix"
-filename = "villagerfix-1.0.2.jar"
+filename = "villagerfix-1.0.3.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "177402ee245886aca0982e6eb88e99518a69a958"
+hash = "bbc96c0609bd383a42e49aab202d47cc19d1e26c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3778384
+file-id = 3831061
 project-id = 508695

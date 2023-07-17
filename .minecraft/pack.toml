@@ -1,16 +1,16 @@
 name = "fabirc"
 author = "natgo"
-version = "1.18.9"
+version = "1.19.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b05404c953cb99b1e8ab1a24819e7ba34f97b0bd33ca85df83a6097b65af23f0"
+hash = "73479fe8e658c93bfbe99e75ad83996ad8ffa5f06baa6120bbaea04fce05a208"
 
 [versions]
-fabric = "0.14.10"
-minecraft = "1.18.2"
+fabric = "0.14.11"
+minecraft = "1.19.2"
 
 [options]
-acceptable-game-versions = ["1.18", "1.18.1", "1.18.2"]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

@@ -1,11 +1,11 @@
-name = "Seamless Loading Screen "
-filename = "seamless-loading-screen-1.4.0+1.18.2.jar"
+name = "Seamless Loading Screen"
+filename = "seamless-loading-screen-1.4.1+1.19.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TyTPFOiF/versions/1.4.0+1.18.2/seamless-loading-screen-1.4.0%2B1.18.2.jar"
-hash-format = "sha1"
-hash = "9269af6a079453ca881ff4e27b3a895a9e4d1371"
+url = "https://natgo.xyz/files/minecraft/mods/seamless-loading-screen-1.4.1+1.19.jar"
+hash-format = "sha256"
+hash = "550c7439e9a0d900227348cbbdd45494a39100570589b6e5b2f26e4c4ea1583d"
 
 [update]
 [update.modrinth]
