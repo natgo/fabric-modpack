@@ -805,6 +805,11 @@ hash = "cfb44d460e7c0aca9baa41b29eb5d9cc92ae9ddaef5184e699c904965fb34ffe"
 metafile = true
 
 [[files]]
+file = "mods/chatcalc.pw.toml"
+hash = "86babad877bb730226e46f4cd6d5055be5b14ed14f94630a7f59b0fd8af438f3"
+metafile = true
+
+[[files]]
 file = "mods/chime.toml"
 hash = "979d3cd0d08798db597cb306e134596f2acd3ff03bd2624cded8594de4bfb5bf"
 metafile = true
