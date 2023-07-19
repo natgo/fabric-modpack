@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","file/Faithful 32x - 1.19.2.zip","file/VanillaTweaks_r523316.zip","file/FJCG+1.19.zip","file/minecraft_cave_animation_fancymenu_21938kf312","minecraft/supporteatinganimation","Fabric Mods","Fabrication"]
+resourcePacks:["vanilla","file/Faithful 32x - 1.19.2.zip","file/VanillaTweaks_r523316.zip","file/FJCG+1.19.zip","file/minecraft_cave_animation_fancymenu_21938kf312","minecraft/supporteatinganimation","Fabric Mods","Fabrication","Consistency+ Vanilla Changes"]
 incompatibleResourcePacks:["file/minecraft_cave_animation_fancymenu_21938kf312","Fabrication"]
 lastServer:192.168.1.137
 lang:en_us
@@ -140,6 +140,11 @@ key_key.mousewheelie.sort_inventory:key.mouse.middle
 key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
 key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
 key_key.mousewheelie.pick_tool:key.keyboard.unknown
+key_key.mousewheelie.whole_stack_modifier:key.keyboard.left.shift
+key_key.mousewheelie.all_of_kind_modifier:key.keyboard.left.control
+key_key.mousewheelie.drop_modifier:key.keyboard.left.alt
+key_key.mousewheelie.deposit_modifier:key.keyboard.space
+key_key.mousewheelie.restock_modifier:key.keyboard.space
 key_key.mtr.lift_menu:key.keyboard.z
 key_key.mtr.train_accelerate:key.keyboard.up
 key_key.mtr.train_brake:key.keyboard.down

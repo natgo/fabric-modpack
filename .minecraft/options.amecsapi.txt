@@ -61,6 +61,11 @@ key_modifiers_key.mousewheelie.sort_inventory:0,0,0
 key_modifiers_key.mousewheelie.scroll_up:0,0,0
 key_modifiers_key.mousewheelie.scroll_down:0,0,0
 key_modifiers_key.mousewheelie.pick_tool:0,0,0
+key_modifiers_key.mousewheelie.whole_stack_modifier:0,0,0
+key_modifiers_key.mousewheelie.all_of_kind_modifier:0,0,0
+key_modifiers_key.mousewheelie.drop_modifier:0,0,0
+key_modifiers_key.mousewheelie.deposit_modifier:0,0,0
+key_modifiers_key.mousewheelie.restock_modifier:0,0,0
 key_modifiers_key.mtr.lift_menu:0,0,0
 key_modifiers_key.mtr.train_accelerate:0,0,0
 key_modifiers_key.mtr.train_brake:0,0,0

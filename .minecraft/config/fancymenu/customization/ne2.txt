@@ -1,0 +1,145 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  restart_on_load = false
+  name = minecraft_cave_animation_fancymenu_21938kf312
+  action = animatebackground
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = 102
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 1cad02ef-fb32-4c0c-84fd-57e86b1d8e6e1657143849731
+  y = 528
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 743
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 4ba7230d-5d2c-46aa-bdf7-f93a32f224291657143849734
+  y = 280
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = b9ff3a09-24d4-4594-9d79-d894e1fe345f1657143849734
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 18cb3a61-a7b9-4f0b-8630-a45ba68c88901657143849734
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  buttonaction = joinserver;natgo.xyz%btnaction_splitter_fm%
+  x = 0
+  width = 98
+  action = addbutton
+  actionid = decbfbce-3735-4ce3-b78d-cd91191494311633386453002
+  y = -25
+  label = Nakton Servu
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 0
+  actionid = 1980b144-186d-45ef-b859-5dd692504f5b1642614083657
+  action = addtext
+  y = -9
+  scale = 1.0
+  alignment = left
+  value = Fabric API: %version:fabric%
+}
+
+customization {
+  [loading_requirement:fancymenu_loading_requirement_is_os_windows][requirement_mode:if][req_id:e5847168-630a-4ba4-868c-9c0d5fc609721689633967645] = 
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  delayappearanceseconds = 5.0
+  rotation = -20.0
+  scale = 1.5
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = 662
+  actionid = 7d8b9d01-a151-491f-a339-21aa872e7cbe1642615284879
+  action = addsplash
+  y = 115
+  delayappearance = true
+  text = (Windows moment)
+  delayappearanceeverytime = false
+}
+

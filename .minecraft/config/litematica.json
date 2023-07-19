@@ -27,6 +27,7 @@
     "easyPlaceProtocolVersion": "auto",
     "easyPlaceVanillaReach": false,
     "executeRequireHoldingTool": true,
+    "fixChestMirror": true,
     "fixRailRotation": true,
     "generateLowercaseNames": true,
     "highlightBlockInInventory": false,
