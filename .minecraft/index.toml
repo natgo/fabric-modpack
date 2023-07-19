@@ -90,7 +90,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/chat_heads.json5"
-hash = "ec0ea3b472c5ca01df52cf14e5fe3184999cbdf060ec95d6e1b4ac287dc816ee"
+hash = "295045d3d357057670c761fffed7e21c4f442b8862d681497e8edd6388f86bb1"
 
 [[files]]
 file = "config/cleardespawn.json"
@@ -178,7 +178,7 @@ hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
 
 [[files]]
 file = "config/environmentz.json5"
-hash = "e9e435a74397206fa17e3e1020ab9284c0ca9d845672f3aa1d63e510b0b664b1"
+hash = "3669f08143ad5797c812bfedf3700d98f3b16c669667df9a9ac4efad201230db"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -202,7 +202,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "ab3cc29661153468f81012b712da75a0a7b754eafacc9d87846ca04cc086b915"
+hash = "4b397a72129e172fcd0fd3258b60dfb936b5c4eb71cf1bbe8588b6d8fcbd26de"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -234,7 +234,7 @@ hash = "310af2157e4c0394ead12437711d5cf87ea36da788bc73cd5f6e288b537ad323"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "2c8ad759d7fecc03e135e5ac8d961224da921cf915d501e5a5bc78a177de43f3"
+hash = "cd18b31e9436ddabbe96c2219525722ea556378ecfefcb14fc60c9806da172ce"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -249,12 +249,16 @@ file = "config/fancymenu/customization/.disabled/nain.txt"
 hash = "8b72841e4d21fb19a9e30649cd63703031d35c3d37ad8cabe8a88e175f9d8fef"
 
 [[files]]
+file = "config/fancymenu/customization/.disabled/ne.txt"
+hash = "9f7ce956cf8257b5fb59822a979d522909cf9ab9374ca2b7ef3c0c39f78019ec"
+
+[[files]]
 file = "config/fancymenu/customization/.disabled/new.txt"
 hash = "91f925fa55f3a42229a1989fe5dead5744e722f4abb296f0234e936addf38174"
 
 [[files]]
-file = "config/fancymenu/customization/ne.txt"
-hash = "9f7ce956cf8257b5fb59822a979d522909cf9ab9374ca2b7ef3c0c39f78019ec"
+file = "config/fancymenu/customization/ne2.txt"
+hash = "ec42738c99307ff087a294e44954ae9d0b49053924e31d559de72e9b941c9a67"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -262,7 +266,7 @@ hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "c658ee05d87b33c341bdc4a88a89a601d6387885f806ae10c96ab0700adf571f"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
 
 [[files]]
 file = "config/fancymenu/locals/pl_pl.local"
@@ -271,6 +275,14 @@ hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
 [[files]]
 file = "config/fancymenu/locals/pt_br.local"
 hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
 
 [[files]]
 file = "config/fancymenu/locals/zh_cn.local"
@@ -290,7 +302,7 @@ hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
 
 [[files]]
 file = "config/firstperson.json"
-hash = "89ce0f258ca66314aa9af1f2048809cece0de23293ae79dad629a722549bd10b"
+hash = "5bc4913e526bade1e3e7066b3e9c19d2880dc863de0d997e5430f8c8ab11be58"
 
 [[files]]
 file = "config/flighthelper.json"
@@ -326,7 +338,7 @@ hash = "b7e6193f25e9f5921404fd4ed3fedb0e713718359a2a998d5b279c85e037b5a3"
 
 [[files]]
 file = "config/iris.properties"
-hash = "c8bddbfa5fbee7a8582cca25952d3e0a840098196572f8682c830803eb14b48f"
+hash = "3f7810ee4d9eeec82d288bc02e829b36968133f8e2d980ead10b8f6246913d89"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -350,7 +362,7 @@ hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "fbd32ff21103bd3e19be73561ebdb0f8a41156b8c8e7cc24ddedebc5f8d7f3fa"
+hash = "c8d72f7dd820636274010d6d9871a17a83f50c9cf3b17f93ef9d2383f8835215"
 
 [[files]]
 file = "config/libcd.json"
@@ -362,7 +374,7 @@ hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
 file = "config/litematica.json"
-hash = "ae8869427f9a72b05b88a7e7cf8bbc7d798c5f0c12070bd90f0ac4e7546afdbb"
+hash = "4975f71f95cb84c41f99abd1554eee339ca0741923b70c2c1cad50f48b8fdb0c"
 
 [[files]]
 file = "config/lithium.properties"
@@ -514,11 +526,11 @@ hash = "c08f41344bcdf92b22a9ffb087842d71889e669e750dea0c370fa98fa8c96f83"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "1af4133a48e6f16d9420527e808e2ada4f3e63fdb409f51c47af228145686d1a"
+hash = "c6321f645505ffc4c7a83deaa15e4be4ae0c360cc6dc237d1aa19c5262d9277f"
 
 [[files]]
 file = "config/mousewheelie.hjson"
-hash = "2d51d9fcff33670d36762ae4428cbb284dc9a95b650c95475bdbe613460f5c1a"
+hash = "63f9c3b0cf75d7d195b260e5d94ac8b8b58634c2d32e3352c4c54e2159e531b7"
 
 [[files]]
 file = "config/mtr.json"
@@ -570,7 +582,15 @@ hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "f8206f021e1e973abd9147dd2ac6913ba54b0fe7437eb96ff94cf035fca649a0"
+hash = "62881497598f0378f8c25592c7e08d8b3ed9382ed54ad73ec4363d990f905579"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin.properties"
+hash = "56791dc688bb7b54ac52dc4b6549a16ae81307565645fce54621b88fc13945f7"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin_double.properties"
+hash = "2fbc90ed9fb7339efeb7b3112364a250267d090923616af4851ad456518734fa"
 
 [[files]]
 file = "config/rrp.properties"
@@ -633,16 +653,20 @@ file = "config/vanillaexcavators.json"
 hash = "2cd40d9ad20c1875efec3271aab7579b6e1ce64767e752bb7dd2f2b47ce52c96"
 
 [[files]]
+file = "config/villagerfix.json5"
+hash = "8d0eec706b2b2736946426514f78ccb1657bd26b486a28fc21439c8729403749"
+
+[[files]]
 file = "config/voxelmap.properties"
 hash = "e77bfa2902ee44fd186cc509f426c5b2c92e86d6d6b0eb54a1c7a5c1f6b4b169"
 
 [[files]]
 file = "config/waila/blacklist.json"
-hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+hash = "80937e93f28c26f8be505ea97dad91f61e813cda8957b403028142da0c3aa874"
 
 [[files]]
 file = "config/waila/waila.json"
-hash = "be157cb9b3023e4c81f6804ed126cb443b07cfb40ca2145ba70eeb49f06fdd1f"
+hash = "9c4d2b0fad125edaddb0aed8c6685eba01f324f12ed475de50adda2f9862a684"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
@@ -658,11 +682,11 @@ hash = "bbcca0ae063c4d59267f446506d7bf034277217e49f285ed34c5bd8efc91e0f2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "44a3a9a4c7184de43bdfb041be61f35945610ce2b3c4d8edbe352e9f65674d8e"
+hash = "58b013d76a76772c79d36369f369ce908998b3264e16833095ab8a1c9f0e8302"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "dff1e9f1230c797bb509aa2a504b3d263e0935ac61dbc9d36eaf812a949744a6"
+hash = "c946c1edeb580395dbf1c1a3d37040163b4b6831e519a4530114546081947560"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -670,7 +694,7 @@ hash = "519f811142b420c13dcf133196b9edd93046cf37e30c63afaf4f0e962b4fc94a"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "cd3ca68c0149391f5d6e4f54bed6e75781c5c46796b8a3d54e2a1ab3d8e73f68"
+hash = "aef8777fc0c0ffcb1378527155513230d042403097b4dee889b7856b4a98c11d"
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata"
@@ -1192,11 +1216,11 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "7a6e45ba4f266d4f71638341759049f916f0792ac1baff4cc04ae22eacaf1484"
+hash = "f1b1862332b95f725a29bdd671d92806354bfd5ceeef1610d7256f2d2b3d363c"
 
 [[files]]
 file = "options.txt"
-hash = "f7244186d0de9767aa4b0a00b59c71332f356c6eacd14983214d20f4b7160a8d"
+hash = "845065e6023a5b831bf85fe012101448c0dc28cc900e7ab74b74c2388d1204f2"
 
 [[files]]
 file = "resourcepacks/Clear_Glass_Pack_1.18.zip"
