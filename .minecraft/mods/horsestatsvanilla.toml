@@ -1,6 +1,7 @@
 name = "Horse Stats Vanilla"
 filename = "horse-stats-vanilla-4.2.2.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/l4qoXLzx/versions/v4.2.2/horse-stats-vanilla-4.2.2.jar"
