@@ -1,13 +1,9 @@
 name = "Roughly Enough Resources"
-filename = "rer-2.6.0.jar"
+filename = "rer-2.9.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4d7df7f6b4f838c8646e4fa7b86388e974e86f98"
-mode = "metadata:curseforge"
+hash-format = "sha256"
+url = "https://natgo.xyz/files/minecraft/mods/rer-2.9.0.jar"
+hash = "32ab55fcf53995e82293a0663f7ecb7878cb5900342ecf5067f5378dc78a09aa"
 
-[update]
-[update.curseforge]
-file-id = 3837336
-project-id = 325625

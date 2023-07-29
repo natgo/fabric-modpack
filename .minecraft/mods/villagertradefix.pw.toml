@@ -1,13 +1,14 @@
 name = "VillagerTradeFix"
-filename = "villagerfix-1.0.3.jar"
+filename = "villagerfix-1.0.4.jar"
 side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/K2YWwbQ8/versions/5ioRptrI/villagerfix-1.0.3.jar"
-hash-format = "sha1"
-hash = "bbc96c0609bd383a42e49aab202d47cc19d1e26c"
+url = "https://natgo.xyz/files/minecraft/mods/villagerfix-1.0.4.jar"
+hash-format = "sha256"
+hash = "709c14cd21e478a284f8dfde6abc8da540fd2aa6181caca273f901f533448e42"
 
 [update]
 [update.modrinth]
 mod-id = "K2YWwbQ8"
-version = "5ioRptrI"
+version = "QYXOfWPg"

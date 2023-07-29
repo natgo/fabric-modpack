@@ -1,13 +1,10 @@
 name = "Smooth Scrolling Everywhere (Fabric)"
-filename = "SmoothScrollingEverywhere-3.0.5.jar"
+filename = "SmoothScrollingEverywhere-3.0.6.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "94d16183bb5c8d8f6a1f80ecbc166e44df91ed20"
-mode = "metadata:curseforge"
+hash-format = "sha256"
+url = "https://natgo.xyz/files/minecraft/mods/SmoothScrollingEverywhere-3.0.6.jar"
+hash = "4ca35a2105917497a63a95dc5bafe75f4930eae57f07ef101d5adaf43dff3970"
 
-[update]
-[update.curseforge]
-file-id = 3832027
-project-id = 325861
+
