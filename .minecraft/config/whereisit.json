@@ -1,19 +1,24 @@
 {
-  "clientOptions": {
-    "fadeOutTime": 200,
-    "colour": 5242703,
-    "alternateColour": 16732159,
-    "rainbowMode": true,
-    "disableSlotHighlight": false,
-    "forceSimpleRender": false,
-    "textSizeModifier": 100,
-    "showLabelsForResults": true,
-    "maximumResults": 0
+  "client": {
+    "searchUsingItemInHand": false,
+    "playSoundOnRequest": false,
+    "closeGuiOnFoundResults": true,
+    "fadeoutTimeTicks": 200,
+    "showSlotHighlights": true,
+    "randomScheme": true,
+    "colourScheme": "PRIDE",
+    "solidColour": -4531627,
+    "printSearchRequestsInChat": false,
+    "compatibility": {
+      "recipeBookSupport": true,
+      "jeiSupport": true,
+      "reiSupport": true,
+      "emiSupport": true
+    }
   },
-  "serverOptions": {
-    "searchRadius": 16,
-    "doDeepSearch": true,
-    "printSearchTime": false,
-    "cooldownTicks": 5
+  "common": {
+    "searchRangeBlocks": 8,
+    "doNestedSearch": true,
+    "printSearchTime": false
   }
 }

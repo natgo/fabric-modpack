@@ -25,3 +25,4 @@
 .minecraft/packwiz*
 .minecraft/hs_err_*.log
 .minecraft/data/
+.minecraft/config/spark/tmp/

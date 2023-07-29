@@ -1,5 +1,6 @@
-version:3120
+version:3465
 autoJump:false
+operatorItemsTab:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -25,6 +26,10 @@ fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
+glintSpeed:0.5
+glintStrength:0.75
+damageTiltStrength:1.0
+highContrast:false
 gamma:0.0
 renderDistance:16
 simulationDistance:16
@@ -33,13 +38,13 @@ guiScale:2
 particles:0
 maxFps:260
 graphicsMode:1
-ao:2
+ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","file/Faithful 32x - 1.19.2.zip","file/VanillaTweaks_r523316.zip","file/FJCG+1.19.zip","file/minecraft_cave_animation_fancymenu_21938kf312","minecraft/supporteatinganimation","Fabric Mods","Fabrication","Consistency+ Vanilla Changes"]
-incompatibleResourcePacks:["file/minecraft_cave_animation_fancymenu_21938kf312","Fabrication"]
-lastServer:192.168.1.137
+resourcePacks:["vanilla","file/minecraft_cave_animation_fancymenu_21938kf312","Fabrication","fabric","Fabrication grayscale","file/Faithful-Java-32x-1.20.1+bbe15cf.zip","file/clearvisionglass-32x-1-20-1.zip","file/Among Us HUD Faithfull Add-on - 1.18.2.zip","file/3D rails.zip","file/3D dripstone.zip","file/Faithful-Java-32x-Amethyst_Cluster_Reflections_v1.0.zip","file/VanillaTweaks_r486373.zip"]
+incompatibleResourcePacks:["file/minecraft_cave_animation_fancymenu_21938kf312","Fabrication","Fabrication grayscale","file/Among Us HUD Faithfull Add-on - 1.18.2.zip","file/Faithful-Java-32x-Amethyst_Cluster_Reflections_v1.0.zip"]
+lastServer:
 lang:en_us
 soundDevice:""
 chatVisibility:0
@@ -52,12 +57,12 @@ advancedItemTooltips:true
 pauseOnLostFocus:false
 overrideWidth:0
 overrideHeight:0
-heldItemTooltips:true
 chatHeightFocused:1.0
 chatDelay:0.0
 chatHeightUnfocused:0.44366195797920227
 chatScale:1.0
 chatWidth:1.0
+notificationDisplayTime:1.0
 mipmapLevels:4
 useNativeTransport:true
 mainHand:"right"
@@ -75,8 +80,10 @@ hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
-chatPreview:1
 onlyShowSecureChat:false
+panoramaScrollSpeed:1.0
+telemetryOptInExtra:false
+onboardAccessibility:false
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
@@ -116,12 +123,10 @@ key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.firstperson.toggle:key.keyboard.f6
+key_key.whereisit.search:key.keyboard.y
 key_key.antighost.reveal:key.keyboard.unknown
 key_key.autorun.toggle:key.keyboard.i
 key_key.cleanview.togglecleanview:key.keyboard.unknown
-key_key.dontdropit.dropStack:key.keyboard.left.control
-key_key.dontdropit.forceDrop:key.keyboard.left.shift
-key_key.dontdropit.toggleDropDelay:key.keyboard.unknown
 key_key.durabilityviewer.showhide:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.flighthelper.lockup:key.keyboard.keypad.8
@@ -145,24 +150,10 @@ key_key.mousewheelie.all_of_kind_modifier:key.keyboard.left.control
 key_key.mousewheelie.drop_modifier:key.keyboard.left.alt
 key_key.mousewheelie.deposit_modifier:key.keyboard.space
 key_key.mousewheelie.restock_modifier:key.keyboard.space
-key_key.mtr.lift_menu:key.keyboard.z
-key_key.mtr.train_accelerate:key.keyboard.up
-key_key.mtr.train_brake:key.keyboard.down
-key_key.mtr.train_toggle_doors:key.keyboard.left
-key_key.mtr.debug_1_negative:key.keyboard.keypad.4
-key_key.mtr.debug_2_negative:key.keyboard.keypad.5
-key_key.mtr.debug_3_negative:key.keyboard.keypad.6
-key_key.mtr.debug_1_positive:key.keyboard.keypad.7
-key_key.mtr.debug_2_positive:key.keyboard.keypad.8
-key_key.mtr.debug_3_positive:key.keyboard.keypad.9
-key_key.mtr.debug_cycle_negative:key.keyboard.keypad.subtract
-key_key.mtr.debug_cycle_positive:key.keyboard.keypad.add
 key_key.nostrip.togglestrip:key.keyboard.u
 key_key.origins.primary_active:key.keyboard.r
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o
-key_seamless_loading_screen.keybind.config:key.keyboard.unknown
-key_key.whereisit.finditem:key.keyboard.y
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2

@@ -37,12 +37,10 @@ key_modifiers_key.dynamicfps.toggle_disabled:0,0,0
 key_modifiers_Reload Menu | CTRL + ALT + :0,0,0
 key_modifiers_Toggle Customization Overlay | CTRL + ALT + :0,0,0
 key_modifiers_key.firstperson.toggle:0,0,0
+key_modifiers_key.whereisit.search:0,0,0
 key_modifiers_key.antighost.reveal:0,0,0
 key_modifiers_key.autorun.toggle:0,0,0
 key_modifiers_key.cleanview.togglecleanview:0,0,0
-key_modifiers_key.dontdropit.dropStack:0,0,0
-key_modifiers_key.dontdropit.forceDrop:0,0,0
-key_modifiers_key.dontdropit.toggleDropDelay:0,0,0
 key_modifiers_key.durabilityviewer.showhide:0,0,0
 key_modifiers_key.entityculling.toggle:0,0,0
 key_modifiers_key.flighthelper.lockup:0,0,0
@@ -66,24 +64,10 @@ key_modifiers_key.mousewheelie.all_of_kind_modifier:0,0,0
 key_modifiers_key.mousewheelie.drop_modifier:0,0,0
 key_modifiers_key.mousewheelie.deposit_modifier:0,0,0
 key_modifiers_key.mousewheelie.restock_modifier:0,0,0
-key_modifiers_key.mtr.lift_menu:0,0,0
-key_modifiers_key.mtr.train_accelerate:0,0,0
-key_modifiers_key.mtr.train_brake:0,0,0
-key_modifiers_key.mtr.train_toggle_doors:0,0,0
-key_modifiers_key.mtr.debug_1_negative:0,0,0
-key_modifiers_key.mtr.debug_2_negative:0,0,0
-key_modifiers_key.mtr.debug_3_negative:0,0,0
-key_modifiers_key.mtr.debug_1_positive:0,0,0
-key_modifiers_key.mtr.debug_2_positive:0,0,0
-key_modifiers_key.mtr.debug_3_positive:0,0,0
-key_modifiers_key.mtr.debug_cycle_negative:0,0,0
-key_modifiers_key.mtr.debug_cycle_positive:0,0,0
 key_modifiers_key.nostrip.togglestrip:0,0,0
 key_modifiers_key.origins.primary_active:0,0,0
 key_modifiers_key.origins.secondary_active:0,0,0
 key_modifiers_key.origins.view_origin:0,0,0
-key_modifiers_seamless_loading_screen.keybind.config:0,0,0
-key_modifiers_key.whereisit.finditem:0,0,0
 key_modifiers_key.waila.config:0,0,0
 key_modifiers_key.waila.show_overlay:0,0,0
 key_modifiers_key.waila.toggle_liquid:0,0,0

@@ -2,12 +2,11 @@
   "wanderingTraderSettings": {
     "basePrice": 16,
     "maxTrades": 2,
-    "sellCurses": false,
-    "sellTreasureEnchantments": true,
-    "wandererEnchantmentExceptions": []
+    "treasureEnchantmentFilter": "DEFAULT",
+    "enchantmentBlacklist": []
   },
   "villagerSettings": {
-    "removeTreasureEnchantments": true,
-    "villagerEnchantmentExceptions": []
+    "enchantmentRemovalMode": "TREASURE",
+    "enchantmentsToKeep": []
   }
 }
