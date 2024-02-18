@@ -1,4 +1,4 @@
-version:3465
+version:3700
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -21,7 +21,8 @@ toggleCrouch:false
 toggleSprint:true
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.35211268067359924
+hideSplashTexts:false
+mouseSensitivity:0.352112676056338
 fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -42,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","file/minecraft_cave_animation_fancymenu_21938kf312","Fabrication","fabric","Fabrication grayscale","file/Faithful-Java-32x-1.20.1+bbe15cf.zip","file/clearvisionglass-32x-1-20-1.zip","file/Among Us HUD Faithfull Add-on - 1.18.2.zip","file/3D rails.zip","file/3D dripstone.zip","file/Faithful-Java-32x-Amethyst_Cluster_Reflections_v1.0.zip","file/VanillaTweaks_r486373.zip"]
-incompatibleResourcePacks:["file/minecraft_cave_animation_fancymenu_21938kf312","Fabrication","Fabrication grayscale","file/Among Us HUD Faithfull Add-on - 1.18.2.zip","file/Faithful-Java-32x-Amethyst_Cluster_Reflections_v1.0.zip"]
+resourcePacks:["vanilla","file/minecraft_cave_animation_fancymenu_21938kf312","Fabrication","fabric","file/Faithful 32x - 1.20.4.zip","file/clearvisionglass-32x-1-20-1.zip","file/3D rails.zip","file/3D dripstone.zip","file/VanillaTweaks_r881185.zip","Fabrication grayscale","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix"]
+incompatibleResourcePacks:["file/minecraft_cave_animation_fancymenu_21938kf312","Fabrication","bebooks","cleardespawn","clientcommands","flighthelper","spark","tweakeroo","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix"]
 lastServer:
 lang:en_us
 soundDevice:""
