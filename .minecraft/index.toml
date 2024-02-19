@@ -58,7 +58,7 @@ hash = "38305206a8d77012a07d00b7ca642beee74b460585d426a73e22a18278eadd05"
 
 [[files]]
 file = "config/beenfo.json"
-hash = "08a4cc63d1643aa9b22636c2c88e1203c6900303318a76cde308a56cd9cc11da"
+hash = "b7ff441d67f5f5ab156cb85ce86e3238fb7c772f22057913e160c384d7e822da"
 
 [[files]]
 file = "config/betterf3.json"
@@ -98,7 +98,7 @@ hash = "c18e61263afa13aa8d7a362130b0b459ccb51431f39dcb0ba34da581af6d9bad"
 
 [[files]]
 file = "config/chat_heads.json5"
-hash = "295045d3d357057670c761fffed7e21c4f442b8862d681497e8edd6388f86bb1"
+hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
 
 [[files]]
 file = "config/chatcalc.json"
@@ -181,12 +181,16 @@ file = "config/durabilityviewer.json"
 hash = "ec9cec4ee1d233d92b4f2d070c8f10a248c298aa66e1986813a86b8731ae293f"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "13664e50c77a1e16391d34499cc4f48a1299a24f2ad7156a5379d9be10f498e5"
+
+[[files]]
 file = "config/dynamicfps.toml"
-hash = "b72a70e105ba9c26e167e67747b762bd3ad236a018151a154144bb5a0e14878d"
+hash = "2d302c4761a2deff2e8eabcecc27e8182acb0617735f28a99586cc345f4a9adb"
 
 [[files]]
 file = "config/easiercrafting.json"
-hash = "ee813c62bea34de2735d115847f85fd51bc8f462ea40e41d8400f0c7f48087ec"
+hash = "840f0daf30174c0df073283ae6375bdc43ba0928689cd45dd7883262021b11f4"
 
 [[files]]
 file = "config/enhanced_attack_indicator.json"
@@ -226,7 +230,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "3dbc38dd88625f929ecb8f13c34d23104cf7ad4f861b5b1635e0d7a7e52d43eb"
+hash = "9d6f71e377b5902a6cac3b565002eaa5a288adc9c24b8f38e6dfdcfd0f091fc9"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -294,7 +298,7 @@ hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
 
 [[files]]
 file = "config/fancymenu/locals/pl_pl.local"
@@ -338,7 +342,11 @@ hash = "75cabca6db8db93e8f2560b89d48057b824d8f879d02805b486bd7cb64230d93"
 
 [[files]]
 file = "config/gamma_utils.json5"
-hash = "d4ea9c36f3dda30c6083b98576a42bd21b99d3a306981cd4a8e672302e815665"
+hash = "4a45ad6a2de6dd0b1a626d469e7be6ee35acd0744a0c7013a4914685d3b87aa5"
+
+[[files]]
+file = "config/grid.json"
+hash = "9c04d1392fa3924d1e4a5393807b7e62e949cfac4cb8f59de3f17bef1e6bec8e"
 
 [[files]]
 file = "config/horsestatsvanilla.json5"
@@ -366,7 +374,7 @@ hash = "b7e6193f25e9f5921404fd4ed3fedb0e713718359a2a998d5b279c85e037b5a3"
 
 [[files]]
 file = "config/iris.properties"
-hash = "3f7810ee4d9eeec82d288bc02e829b36968133f8e2d980ead10b8f6246913d89"
+hash = "f6ce301354524c69ccaabbaa3c700793e2517fea7a1facb9471a069bf02ca15f"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -390,7 +398,7 @@ hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "c8d72f7dd820636274010d6d9871a17a83f50c9cf3b17f93ef9d2383f8835215"
+hash = "8e6153b664cea34c35554b25d91bdb2140ed0dd7d592b864b03b1f6499aaf550"
 
 [[files]]
 file = "config/libcd.json"
@@ -402,7 +410,7 @@ hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
 file = "config/litematica.json"
-hash = "10acd03bd0148e54502485fdf52717ea2eb5fb6a196256edc4e1639515e05656"
+hash = "d874bcac1624b79daaad07ad9a2488db4a1110d3c319631a6050a1e6a81f2c3f"
 
 [[files]]
 file = "config/lithium.properties"
@@ -546,7 +554,7 @@ hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 
 [[files]]
 file = "config/minihud.json"
-hash = "6b9993a864d8e2d161b1d4aaadaead6e004401258b5cec29062024d3679ba3b6"
+hash = "935d30df8293710efda8c79bd6ca4c43224aac542447b178bdd964db05518e87"
 
 [[files]]
 file = "config/minimalmenu.json"
@@ -562,7 +570,7 @@ hash = "5fee8e3348b10aacc147781cf933b6f5493654af0492bbd3d9d8c4434cec1e5e"
 
 [[files]]
 file = "config/mousewheelie.hjson"
-hash = "080a45127f7e596cbd8b8e374c31ce70b1cf24440f738cd6dcf5796ff3ce0ebc"
+hash = "c8c513c1bbeb742d3cd44444dcfdc61d15a8952ff83cd2a14f32eb6733123d04"
 
 [[files]]
 file = "config/mtr.json"
@@ -578,7 +586,7 @@ hash = "1c228a16c732c056498b0992df38e1ef4cc876b4105a8f42ffbd81ef51c4d8af"
 
 [[files]]
 file = "config/notenoughanimations.json"
-hash = "af3eb469201572218320ad38ca5f4c7a803aec7b93ca63882ba312e75e19901c"
+hash = "1c79980232cc7d6b57cb87493c3c535e23a195101bd369a2594b283ae3500cc4"
 
 [[files]]
 file = "config/notenoughcrashes.json"
@@ -646,7 +654,7 @@ hash = "0606ea57121d0307b7444c60602c135f9753c40882b13b9fac7efa9cd7a4fe7d"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "9e23bbc692632f9f6dd36a95f0e3817492155eb41dfb0fdc8c4b12601604cd3d"
+hash = "565464517f0bca1d173ea5244fe748b748e2c3a126f23c7eea9042c598d16027"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -658,7 +666,7 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "9da6f1c2ca8f5aaf9daac3829d74056aed4a11a81ffe5b39ff287bfeb673c8ec"
+hash = "4f70d5b1739896ebabbd4bb577bdf552921a9ed0cfc985853c9b1f876f059c93"
 
 [[files]]
 file = "config/spark/config.json"
@@ -678,7 +686,7 @@ hash = "1c89c5f006f1536574f37819099001c69b05172755016576239e6a73441cdb07"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "1f39da5bb256a0729876cd7241bdd259164a869d47a0e3c4e9ec52833e4a483d"
+hash = "01a408ddc8308478e81a1c2161554079c9f90f85a4eea1fd7728636fc23b6afa"
 
 [[files]]
 file = "config/vanilla-hammers.json"
@@ -1117,7 +1125,7 @@ hash = "a1fa19636c856f37264484edab378161c1b58266b3daf452591cda7937120780"
 
 [[files]]
 file = "options.txt"
-hash = "fff8577a76dedb9ba13c3c40dbf3328b450325ea6ff5cca1e0c325eb6f36df78"
+hash = "5312418595e89fcfc355fe994e1385ccb8b63464337a7b9e9ecd8eb516956920"
 
 [[files]]
 file = "resourcepacks/3D dripstone.zip"
