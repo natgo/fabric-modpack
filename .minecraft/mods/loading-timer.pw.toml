@@ -1,12 +1,12 @@
 name = "Loading Timer"
-filename = "Loading-Timer-1.5.1-Snapshot+1.20.1.jar"
+filename = "Loading-Timer-1.5.1-Snapshot+1.20.4.jar"
 side = "client"
 pin = true
 
 [download]
-url = "https://natgo.xyz/files/minecraft/mods/Loading-Timer-1.5.1-Snapshot+1.20.1.jar"
+url = "https://natgo.xyz/files/minecraft/mods/Loading-Timer-1.5.1-Snapshot+1.20.4.jar"
 hash-format = "sha256"
-hash = "5be94d1c560ae2571b03cd5c9be54cac242fa48d7f3bbd634b26feac90b2cae9"
+hash = "2c19203176ae6588d08efdd1ede2a4a06b0b22787730fa3e2ba28a8743027b38"
 
 [update]
 [update.modrinth]

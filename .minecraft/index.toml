@@ -14,15 +14,19 @@ hash = "fa4f305f36b03d098a9b5844fa9c3276b10f0f67b16a2d062ee8412e8c653005"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
-hash = "bcda618c3d12260723dddcf6b15893d55ee7955d9347ef669004385c9bb3c61f"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
-hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"
+hash = "6472ebffb0028b9d89701d58382d3277e134ea1dbbdd1a8b4e6c011f837737cd"
 
 [[files]]
 file = "config/NoChatReports/NCR-Encryption.json"
 hash = "ba5e0e63cd9b06f69f19a66e99cd8f2d327421344123215c067a427a161558f1"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
 file = "config/NoChatReports/NCR-ServerWhitelist.json"
@@ -89,8 +93,16 @@ file = "config/carpet/default_carpet.conf"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/charmofundying-server.toml"
+hash = "c18e61263afa13aa8d7a362130b0b459ccb51431f39dcb0ba34da581af6d9bad"
+
+[[files]]
 file = "config/chat_heads.json5"
 hash = "295045d3d357057670c761fffed7e21c4f442b8862d681497e8edd6388f86bb1"
+
+[[files]]
+file = "config/chatcalc.json"
+hash = "95301d3e00ea36a51eae1563b809a89e409ff2f7471413d1173ab07d29c667c0"
 
 [[files]]
 file = "config/cleardespawn.json"
@@ -111,6 +123,10 @@ hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 [[files]]
 file = "config/crowdin.txt"
 hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
+
+[[files]]
+file = "config/customsplashscreen.json"
+hash = "6685e781ff8820be8213b6a5c20f6a8e12fdab8131f1cd73e048e8c3f8f90af3"
 
 [[files]]
 file = "config/customsplashscreen.json5"
@@ -137,8 +153,16 @@ file = "config/customsplashscreen/progressbar_background.png"
 hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
 
 [[files]]
+file = "config/customsplashscreen/square_logo.png"
+hash = "7e4897e9f11f9c44aaafdf6c5890803ff5e2908806748f89f1ac596e4e612f42"
+
+[[files]]
+file = "config/customsplashscreen/wide_logo.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
 file = "config/dashloader.json"
-hash = "3dbff374b846a293ccecff13ba3f06af58955f14f3a8f9d87cf90a2bbe5e1aba"
+hash = "1ec32bbcb7519614152292bbcb282c4a5c75bca3f98aca282d872a7fde95d9ae"
 
 [[files]]
 file = "config/dehydration.json5"
@@ -182,7 +206,7 @@ hash = "3669f08143ad5797c812bfedf3700d98f3b16c669667df9a9ac4efad201230db"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "47a5695ae7afc4e3559809932a2b884eef3e0de673b73b1cbb8c4fd464cea3fc"
+hash = "612e162ed8e5bdef4110944d2f99fbf19ebb3b4372546cbfc09719298796a03b"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -202,7 +226,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "4b397a72129e172fcd0fd3258b60dfb936b5c4eb71cf1bbe8588b6d8fcbd26de"
+hash = "3dbc38dd88625f929ecb8f13c34d23104cf7ad4f861b5b1635e0d7a7e52d43eb"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -226,7 +250,7 @@ hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
 file = "config/fancymenu/animations/minecraft_cave_animation_fancymenu_21938kf312/animation.properties"
-hash = "bca9e07753e92e906511d4582cc67e1b1177c6e392fbd39856c534d2bef142ff"
+hash = "61e5b8cdb6b3151c59499ab5272269a1e19ab8ff15d790bb237848876bf7d5f6"
 
 [[files]]
 file = "config/fancymenu/animations/minecraft_cave_animation_fancymenu_21938kf312/audio/introaudio.wav"
@@ -238,7 +262,7 @@ hash = "cd18b31e9436ddabbe96c2219525722ea556378ecfefcb14fc60c9806da172ce"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+hash = "0791802f8643f6ead2dbeba30abced98af74fd43205705e308c795cd4e565b28"
 
 [[files]]
 file = "config/fancymenu/customization/.disabled/main.txt"
@@ -258,7 +282,11 @@ hash = "91f925fa55f3a42229a1989fe5dead5744e722f4abb296f0234e936addf38174"
 
 [[files]]
 file = "config/fancymenu/customization/ne2.txt"
-hash = "ec42738c99307ff087a294e44954ae9d0b49053924e31d559de72e9b941c9a67"
+hash = "a1cd5e42c2b5e4b77a72aaca38f4dda19f495390cae938d5c7664758c86bfc81"
+
+[[files]]
+file = "config/fancymenu/customization/pause.txt"
+hash = "843aee0956c5c629f0e3e9cb7d7db9769e19b01cdbccd2d36917b58e611b76dd"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -298,7 +326,7 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
 file = "config/firstperson.json"
@@ -314,7 +342,7 @@ hash = "d4ea9c36f3dda30c6083b98576a42bd21b99d3a306981cd4a8e672302e815665"
 
 [[files]]
 file = "config/horsestatsvanilla.json5"
-hash = "cbae2f327d776f9e75cf980034bef61220d95f93eeecf9b4cf06c67939af1a65"
+hash = "8777c798131fb3ceca5efc59389200f2deab755514ba89e4678a17b99c8b02d2"
 
 [[files]]
 file = "config/htm_config.json"
@@ -374,7 +402,7 @@ hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
 file = "config/litematica.json"
-hash = "4975f71f95cb84c41f99abd1554eee339ca0741923b70c2c1cad50f48b8fdb0c"
+hash = "10acd03bd0148e54502485fdf52717ea2eb5fb6a196256edc4e1639515e05656"
 
 [[files]]
 file = "config/lithium.properties"
@@ -518,23 +546,27 @@ hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 
 [[files]]
 file = "config/minihud.json"
-hash = "f5b62fec24054e50b9ba2177512b962522b8890461066fe6effb9bf53e3f26c6"
+hash = "6b9993a864d8e2d161b1d4aaadaead6e004401258b5cec29062024d3679ba3b6"
 
 [[files]]
 file = "config/minimalmenu.json"
 hash = "c08f41344bcdf92b22a9ffb087842d71889e669e750dea0c370fa98fa8c96f83"
 
 [[files]]
+file = "config/modelfix-client.json"
+hash = "d7435276b71f9ed4a49da3c06ec54004ba8b1ed46f3c32ea3a000737507d3e7b"
+
+[[files]]
 file = "config/modmenu.json"
-hash = "c6321f645505ffc4c7a83deaa15e4be4ae0c360cc6dc237d1aa19c5262d9277f"
+hash = "5fee8e3348b10aacc147781cf933b6f5493654af0492bbd3d9d8c4434cec1e5e"
 
 [[files]]
 file = "config/mousewheelie.hjson"
-hash = "63f9c3b0cf75d7d195b260e5d94ac8b8b58634c2d32e3352c4c54e2159e531b7"
+hash = "080a45127f7e596cbd8b8e374c31ce70b1cf24440f738cd6dcf5796ff3ce0ebc"
 
 [[files]]
 file = "config/mtr.json"
-hash = "dc32e6468fa75ef1623405aadcf1ca4c17d16758d033aee4126279c1ace22efd"
+hash = "446f548eb3d0c59b6ff9142315f55a5fdc234ef0ed0e4f2a45918cbd32e150a6"
 
 [[files]]
 file = "config/mtr_webserver_port.txt"
@@ -554,7 +586,7 @@ hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
 
 [[files]]
 file = "config/origins_server.json"
-hash = "02ca216fe0612108a47188ec747b76357315f3186699653063cddf965c33929a"
+hash = "00afcfd49b7509575f8cba3e2c8065fb414913742c8c566d17fb2e401672665d"
 
 [[files]]
 file = "config/ost-overhaul.json"
@@ -602,7 +634,7 @@ hash = "1194ed677317a321ce5428f37e6b72922e2481d4e527238ce228df23352654e7"
 
 [[files]]
 file = "config/slightguimodifications/config.json5"
-hash = "15cf9418ce518e483094d7f1c250869a0609720d66c2d31a896f20bb95149963"
+hash = "d5bdffcb2e9a9fe8654e76996119352831dd1db1f096852a8d3e739707e87187"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
@@ -614,7 +646,7 @@ hash = "0606ea57121d0307b7444c60602c135f9753c40882b13b9fac7efa9cd7a4fe7d"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "49078a27de78b836108f82814569a25be2163b3fe94a394d5b6aa577052be7d3"
+hash = "9e23bbc692632f9f6dd36a95f0e3817492155eb41dfb0fdc8c4b12601604cd3d"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -626,7 +658,11 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "9c587743ac0285af17ab4839031817622424d53cf88fbc43fbaf2d8aae7116f3"
+hash = "9da6f1c2ca8f5aaf9daac3829d74056aed4a11a81ffe5b39ff287bfeb673c8ec"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/toolstats.json"
@@ -638,11 +674,11 @@ hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
 
 [[files]]
 file = "config/trulytreasures.json"
-hash = "242463f142b0bd2306d65d218530538b09ec4bf48f77d40722b5ce2c6994a044"
+hash = "1c89c5f006f1536574f37819099001c69b05172755016576239e6a73441cdb07"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "7d762230e41ced4124f7b57c66ed04e3128c104e78f9b848c4171feca3e7477f"
+hash = "1f39da5bb256a0729876cd7241bdd259164a869d47a0e3c4e9ec52833e4a483d"
 
 [[files]]
 file = "config/vanilla-hammers.json"
@@ -654,7 +690,7 @@ hash = "2cd40d9ad20c1875efec3271aab7579b6e1ce64767e752bb7dd2f2b47ce52c96"
 
 [[files]]
 file = "config/villagerfix.json5"
-hash = "8d0eec706b2b2736946426514f78ccb1657bd26b486a28fc21439c8729403749"
+hash = "40625c86ef9d882ff88cd444c3414d283fa81d6e9beab071a4bbe6b67342bf1b"
 
 [[files]]
 file = "config/voxelmap.properties"
@@ -662,7 +698,23 @@ hash = "e77bfa2902ee44fd186cc509f426c5b2c92e86d6d6b0eb54a1c7a5c1f6b4b169"
 
 [[files]]
 file = "config/waila/blacklist.json"
-hash = "80937e93f28c26f8be505ea97dad91f61e813cda8957b403028142da0c3aa874"
+hash = "af83b95505897de6bd50dd5b178c19aad32cf68b471904a862ea30dffa165ab1"
+
+[[files]]
+file = "config/waila/extra/energy_blacklist.json"
+hash = "312f19ba1c2c74e5d0bb3d6feda83ef4bb2362df0e5baaf3863c658d7803ff1e"
+
+[[files]]
+file = "config/waila/extra/fluid_blacklist.json"
+hash = "7a2467f86df058399022aa0013602cbfcad39b91f1ba57ebebb787e3eb300e63"
+
+[[files]]
+file = "config/waila/extra/item_blacklist.json"
+hash = "bba2d6d6f969a1ff309139e11fb893d9d38fa7356652ef8f6fbd1a69524b6e76"
+
+[[files]]
+file = "config/waila/extra/progress_blacklist.json"
+hash = "d2a7cf31d3534a5931ace6de0fc4e5579347e128000dff5a95e187c4cef33cc8"
 
 [[files]]
 file = "config/waila/waila.json"
@@ -678,7 +730,7 @@ hash = "445c0f420db277fa7660d1ad8bc420e1359e2160d48acbb22c6c245f830bfa09"
 
 [[files]]
 file = "config/whereisit.json"
-hash = "bbcca0ae063c4d59267f446506d7bf034277217e49f285ed34c5bd8efc91e0f2"
+hash = "4ab6384329ab996928acd6a62d8e6ccaf1f6b420231156c18f6c6b9ce79eaab2"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -706,7 +758,7 @@ hash = "e15bbb3673e455a68396e06489f59c429a6ca0967757b4f18cb9d595c8f1fb08"
 
 [[files]]
 file = "mods/advancementinfo.toml"
-hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
+hash = "b4897ff5706d7452917b6f8559210f60ae301c811a042df57df31c989e990b54"
 metafile = true
 
 [[files]]
@@ -716,12 +768,12 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.toml"
-hash = "6a36d39f010d87ca7fece6e3ef177d3af8f98dfa9a91a4eff730e06a7b169bb2"
+hash = "59f11097c3005d5efcec93d0cd8a1ce690dc1ed65b9e56c2b1ed7bdca24cf022"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
+hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
 metafile = true
 
 [[files]]
@@ -730,28 +782,13 @@ hash = "66b3916052ccf9d06959db9faccd126aa2eccefc2b002f685d7a00a3b8a19549"
 metafile = true
 
 [[files]]
-file = "mods/autotag.pw.toml"
-hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
-metafile = true
-
-[[files]]
-file = "mods/badpackets.toml"
-hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
-metafile = true
-
-[[files]]
 file = "mods/beenfo.toml"
-hash = "36573ec78f4faa00770337200cddb801e61217392513913d15a36da0ed95edab"
-metafile = true
-
-[[files]]
-file = "mods/better-beds.pw.toml"
-hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
+hash = "75950d95a5b439f64dc046394013429a04544907cb482079663ffb52374b6f07"
 metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.pw.toml"
-hash = "c397d1948f769a84f6271b64275c5bf2bb88dc9dae31a251c6e4f7c4d13cb3d9"
+hash = "6ef15454e649f08e9b1ec046bf0653f1870f3f5e38a655282f069430497a2a13"
 metafile = true
 
 [[files]]
@@ -761,62 +798,52 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
+hash = "ec31177d5cf656efdff737432455211defb8ee188749e3f53f117f75f83d1b6a"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
+hash = "7d3b0183e9e2f58cacbd4cd348c02219033539502094e45ac13f392f1ebfda3e"
 metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "1ec63cbc97befa560d1828445ac436c0080dacdf11afa373655f211455066ace"
+hash = "c4ee3c1cd7ce65505a5aa2b2e66ed816dfde972e8af736e211314ba66d40a01a"
 metafile = true
 
 [[files]]
 file = "mods/blur-fabric.toml"
-hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
-metafile = true
-
-[[files]]
-file = "mods/boathud.toml"
-hash = "f351f6d8436e6148b06f381bfa00796537feeec943735179695beea6fbed1101"
+hash = "fbba50d7962a2f9b75b4765b71f19e30c2864b3c863bb1b93d881d2d5c358e07"
 metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
+hash = "3d3b8336379b6d9f072476caf1f91b13e7e02e70fab23399e4e695eca48369fb"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
-metafile = true
-
-[[files]]
-file = "mods/charm-of-undying.pw.toml"
-hash = "28c89e02330b9f4ccb0a89051c217a1ff02c0de7e4c42044facb50715d025d7e"
+hash = "a44e6eac50227e4346d507836214f8ec462e74a264307253ec19bd3343ad0c7f"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cd2e4fa0a3dda308c440d163b8339b2072cfb2409a0def1f49099a3114596ab6"
+hash = "b8df5a6ae8c4f2c5492a9235463aa3f231af27964d7e240fcba1421c99e89736"
 metafile = true
 
 [[files]]
 file = "mods/chatcalc.pw.toml"
-hash = "86babad877bb730226e46f4cd6d5055be5b14ed14f94630a7f59b0fd8af438f3"
+hash = "0be31580f4edf4abc498ac1b9e957acc63ae6f95e0c5f14b7d76719f9b9ca3cd"
 metafile = true
 
 [[files]]
 file = "mods/chime.pw.toml"
-hash = "573c77af3df0ddda601b8e048bfa5c808f31577f7954261b0c7386a3bb8b2abb"
+hash = "2a8afdd0ee695cb9cf2b7f8559e53108ccc9d67b3ee72bf2dfc3a4510ebbb7d0"
 metafile = true
 
 [[files]]
 file = "mods/cleanview-fabric.toml"
-hash = "a45c01a203493f66d9eec5b263b41386f5cb9bc68b1b1b8205a4b70cdaf2a147"
+hash = "98768aa63c0400c090327f05e982fd0c976ac8f8249aaecc0600fe3afe88b9bd"
 metafile = true
 
 [[files]]
@@ -826,32 +853,22 @@ metafile = true
 
 [[files]]
 file = "mods/cleardespawn.toml"
-hash = "4d68b35c2862bf055b7375b96a38f0a38ddd3a426a61f6329da5c245f87a7fa3"
+hash = "f02603ee1c2a3c5f9fb31b93f62b79dc0c958270739054ea0a434a00bdc62c89"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
-metafile = true
-
-[[files]]
-file = "mods/clumps.pw.toml"
-hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
+hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
+hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
 
 [[files]]
 file = "mods/custom-splash-screen.toml"
 hash = "f198f659f5f32d20d5a503c3599a217e6c2d3c44a139d62f5d899201fefae708"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.toml"
-hash = "f0f82f41fef1fbc7d19723170410c631894de34ba0701157a1a897bac0af34d1"
 metafile = true
 
 [[files]]
@@ -861,92 +878,82 @@ metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.toml"
-hash = "268d207e24dec8377d90ec618743f59764c08ddffbfad0ad7019f931f75e951d"
+hash = "ff182cbf7e9f41e5661266f2c0b52076eebe038ba0aa1809a512e9666685227c"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
-metafile = true
-
-[[files]]
-file = "mods/easiercrafting.toml"
-hash = "8f07658d396c5582a5b9ad45d1d1e92f1a4e285c0e586717e78e777c1560ceb9"
+hash = "8c9c75bfd79072f46c48f3e256b2dfc71019c71df093fac6db40c01e2109c849"
 metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "13a1357c0e5f6a3bd2978c80c405909b0654079a3f29d8f02fdc30f985f17f9b"
+hash = "b6d0d87794147ef2833547c6d06d436a6fec2265e9559a1faab25a1cb5dfbde7"
 metafile = true
 
 [[files]]
 file = "mods/ebe.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-lore.toml"
-hash = "61895a0b7e0e2822612ef1fb10b6000582569e26b2554cf055703caa71730b22"
+hash = "e30d7cfd474ccf48cfa792f32b541f95a11dca86e56bdff11098b0305098d3a3"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-attack-indicator.toml"
-hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
+hash = "e13e1480c8a55003cdc5047505744361b8d42dfd43e021a21790c6309c904880"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "31713296359c70914a4fc56d32a61f41620af105819f826bbffbb234591d34fe"
+hash = "457603e7c278da5b0a418354585addb075993380ec9e195d691d5097a8bd512c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
+hash = "5d6ea0cebb49bd66b8ff5262809f5b73725c3a5881606a291ded2cc2372de95a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "e973dcecf7e4a821ef977abe369468d488eea0e69de71f8a2a658b7a4ee86511"
+hash = "d3cfa58c21ad2c14ca7527d1af5dc7b2d44ec4ea3c51c2b1fa67c95dc3ad0e5f"
 metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "2d2e46755efb50ba3f8ec9e2a49c854b76dd5c31cd64ad526a435d07f6259267"
+hash = "78309748f08efc499f16ec2c2831f20da624ea61095bb46a9e5fe978ba8c975d"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "5fc4d54955458a59323bf27c92e74a68ed694767fabf6ecd23b76e598440eeb0"
+hash = "9d90670cf21d7332056bedaa8b08d40fc97320187ae82041532cbd9ceb3bb8fa"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "2d61a5164044a5e1b27c8c408ad8d3da754bd34cd721b40623ad6536377bd12e"
-metafile = true
-
-[[files]]
-file = "mods/flighthelper.toml"
-hash = "5dddba39d3e8e67f178e381144b5624b23a991e46a75ab3bff28035cc5533d9d"
+file = "mods/flighthelper.pw.toml"
+hash = "7e431c4461f779a679e3dfc29698b6b2a106ede121b6584386ed94f6cddbb7a4"
 metafile = true
 
 [[files]]
 file = "mods/gamma-utils.toml"
-hash = "72fbf9c622177e41be79d2260dbd9821d48d176411bb2320d0da5e2778ccc2c9"
+hash = "67b945a0f64e9defab1ff495606d5d5770ecea60bc0642a46de513f429c36d06"
 metafile = true
 
 [[files]]
-file = "mods/golfiv.pw.toml"
-hash = "327f0805684fd55c27f1e9e2034c8cd21e5d44467dcfb1a81241ddd10bc30326"
+file = "mods/grid.pw.toml"
+hash = "b2ce71f41dbefe33348dae2ad8cf710d6da7656ef3effdd77f4a11551fdac87f"
 metafile = true
 
 [[files]]
 file = "mods/horsestatsvanilla.toml"
-hash = "4e3f1786c9f45db3b136ff179efd6df6653d0cf460bb37f7b0992c92450ebed2"
+hash = "9d20c86ee903171c5b3fe5f76161884349252f6be812a4e474be6a31c8bdadde"
 metafile = true
 
 [[files]]
@@ -956,62 +963,62 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
-metafile = true
-
-[[files]]
-file = "mods/invview.toml"
-hash = "fb895dcf5858adba539fa4afbaf183308e10e23c9e5cb7f619e5ffa1281781cd"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
 metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "0a165b0f2bc1c7da29fca8481d3e493375fbac1ff371fc11bfde108d02ecdeb0"
+hash = "3166ae643b7e248f626cf08b78757e7389a2a57abc9e842983582a9a4cebed31"
 metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "8bb36bbf7dbac0d531f6c308329109d29d95a83a2c0d972178655efd8afddf4b"
+hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
 metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "e9a8b6c5ae96cce3df5016984031d1db1be723360b2d477574dba71774539746"
+hash = "4e5a8f10e6b1780e056247c3d7ac4440a4496d21beb9f0d95c3eba6b2dcbcd07"
 metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
 file = "mods/loading-timer.pw.toml"
-hash = "66144cbcf88ad8150b052abff19c13766249aa4ce4fbf0f63006fb1a8ba55616"
+hash = "1ab01b9c7f44133f91b9e513ead572bbd59f5c23acf7b1532d23237f4dc903a1"
 metafile = true
 
 [[files]]
 file = "mods/logical-zoom.pw.toml"
-hash = "4c979c2d1cb53d5dddfe8b72b3aefe0c1d0d9286b0fb46cb222cf6985b34d014"
+hash = "5db239b544cde5a3b02418c239b72e16be00b2522abe94c6caabc37864ebab9a"
 metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "ef5210ba3d24c01ade9ca3087e96dbd9372d09c572ebb224a6b6fdad40af0f85"
+hash = "72e52646757b9d98f667f2bb931e68cfacbf3e9633465aa5d0072c19e71be7eb"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "f0ab32d1e99cfab86a15173a8f2151b121886692e296a50948cb4019c131747a"
 metafile = true
 
 [[files]]
 file = "mods/minihud.toml"
-hash = "8907856abb042b8b07c06f42493d27e442a41042171ced1b79c0a1866bc68997"
+hash = "a4c5f2b4eba3f6afbfdf2fa96f66113891ad305ef08b26c8ecd157f5850ce545"
 metafile = true
 
 [[files]]
@@ -1026,17 +1033,17 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
+hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
 metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "5ab6482809ab9326700debb97aed408740d8a4966b6ab25fc3d440d9e39d1c6c"
+hash = "4c1fed6a8d4681c1e00d93786ec775bede5a77317bcf70df92cee9908d8d6891"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
 metafile = true
 
 [[files]]
@@ -1046,72 +1053,52 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.toml"
-hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
-metafile = true
-
-[[files]]
-file = "mods/origins-classes.toml"
-hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
-metafile = true
-
-[[files]]
-file = "mods/origins.toml"
-hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
+hash = "249dec365f1a15ef6d1da48910e5fa04c039e95375ce246d5a771941b6b8892c"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.toml"
-hash = "1ce462b02adaf5c817a4313ac5be5c3066874b6410e9ea02fc1f15269a1ec252"
+hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "3df3e926e67629e7ba6fcde63ea2fc5f563316c89042db28342b9e194d86ff71"
+hash = "bfac9dc5e17a31d85755cc375ff068817b57d49782b4f770cc51148838709e8c"
 metafile = true
 
 [[files]]
-file = "mods/servertick.toml"
-hash = "d6ecd696f75445687ed57a8844a31cadbde1b2b8bb6669f9935f4992b3e92414"
+file = "mods/servertick.pw.toml"
+hash = "9d43b5b1e3e33fbb23d29a5516a64b4166bca091f1997b8736fb023cb7c0c991"
 metafile = true
 
 [[files]]
-file = "mods/slight-gui-modifications.pw.toml"
-hash = "5ccd55d972296aad933c751a69719050c00e50e6ec93077028959d3b8c95ae31"
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "aeaf48a21a5898ad70b40aebafc0f6654becb335353d76d57532e2f37a8021ea"
 metafile = true
 
 [[files]]
-file = "mods/smooth-scrolling-everywhere-fabric.toml"
-hash = "98ce4c2cfbcc63199dac94f1c49ba3f2f3784392261fee57c7b6c7cfda763b05"
+file = "mods/smooth-scrolling-refurbished.pw.toml"
+hash = "9d4cfd8778ec45978499542b186a289e9c84bca35d0eee0d851799681c670387"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
+hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
 
 [[files]]
-file = "mods/sodium.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+file = "mods/sodium.pw.toml"
+hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
 metafile = true
 
 [[files]]
@@ -1120,938 +1107,885 @@ hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
-metafile = true
-
-[[files]]
-file = "mods/truly-treasures.pw.toml"
-hash = "a1e3ff4c8666c79dbea472b467ad34e75db7d483df47fe6ca5d597220ae8d93f"
-metafile = true
-
-[[files]]
 file = "mods/tweakeroo.toml"
-hash = "f744814d465d9094c39994d3df9024e27377570a0b3efe16dca648d8aa51bb91"
-metafile = true
-
-[[files]]
-file = "mods/villager-hats.pw.toml"
-hash = "6276724d3ccbb3b8cd62289ad05855cb2e2df88f023688e5e345caec74e6ca53"
-metafile = true
-
-[[files]]
-file = "mods/villagertradefix.pw.toml"
-hash = "a25a3ccfa77ca3e3eb0d60b259596cde49d93e4f6289018d082e24eeedecfdc5"
-metafile = true
-
-[[files]]
-file = "mods/where-is-it.pw.toml"
-hash = "517b19eacd15c3ae28ef83cb7b34ecda3f53c99b117b7cf6d3ce3f0226c2e450"
-metafile = true
-
-[[files]]
-file = "mods/wthit.toml"
-hash = "786484bea788cde5078a5d47ec2ed71c24ced861a7ccaa4e4ab000c5886b1742"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "fa7940ff6c6d65fede416632132a57518ab1a79e09014410932ed614ea386a70"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "f8f30afc8349f40bfbe62d21aabf6caeca2d67a8cc2778296ce758b2763c5d8d"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "796239ec3e198ff16d27b144d24f813da260ee25c7342cf5487f0db0843f1c29"
+hash = "f448e640fb5f591b08c436c27d0891047d9455ddddaa2cbaca604ddad516e679"
 metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "f1b1862332b95f725a29bdd671d92806354bfd5ceeef1610d7256f2d2b3d363c"
+hash = "a1fa19636c856f37264484edab378161c1b58266b3daf452591cda7937120780"
 
 [[files]]
 file = "options.txt"
-hash = "845065e6023a5b831bf85fe012101448c0dc28cc900e7ab74b74c2388d1204f2"
+hash = "fff8577a76dedb9ba13c3c40dbf3328b450325ea6ff5cca1e0c325eb6f36df78"
 
 [[files]]
-file = "resourcepacks/Clear_Glass_Pack_1.18.zip"
-hash = "2db5178349ca6672ff88bdcf62b1a7dc1335f1ca76dc731e73a6f29b196fa07c"
+file = "resourcepacks/3D dripstone.zip"
+hash = "deb5f17ca4709d85d540798468c09d783467ab11bbd15cc8ba2d98e90ae30b24"
 
 [[files]]
-file = "resourcepacks/FJCG+1.18.zip"
-hash = "20b840ad0073cece8729137e24cc5b3408d3a947d79e16eb4cb69f53ca2a125f"
+file = "resourcepacks/3D rails.zip"
+hash = "18f7fc15e44b4ea11353da55eb4b924d3439764341fb283287e27de00d779df0"
 
 [[files]]
-file = "resourcepacks/FJCG+1.19.zip"
-hash = "790d53e1af019310bc5e161baecab75be87039251956ea75380afa933e6699d0"
+file = "resourcepacks/Faithful 32x - 1.20.4.zip"
+hash = "66c964d0edd6048c3da59feeb9eeb5cd6b2c06ec8a7e8a5fceb1f7b8d3842e92"
 
 [[files]]
-file = "resourcepacks/FJCG_N+1.18.zip"
-hash = "a037c340b1234ac13da6498d179efb0815cb2508556c256da060f224631b6698"
-
-[[files]]
-file = "resourcepacks/Faithful 32x - 1.19.2.zip"
-hash = "0150e76c387d785e056f804d9801f8cd611583d047cf97ee8d6ec2fb5e8c99b0"
-
-[[files]]
-file = "resourcepacks/Faithful-1.18.zip"
-hash = "d5df1733c677ee9bba4246b67610e23149fe1f80d109031a32db5a20344bb7e2"
+file = "resourcepacks/Faithful-Java-32x-Amethyst_Cluster_Reflections_v1.0.zip"
+hash = "21d6ba14d0569607e79ec760933251cba6c394a9ed1645e753172dbae832b130"
 
 [[files]]
 file = "resourcepacks/FurfSky+Chime+1.18.zip"
 hash = "999ed859039ceb6d946e52e1c01bff8c8f21ccfbe346df82dea57c9606691dd0"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r291911.zip"
-hash = "97bc5a586986570ae71be4378fea4f0375447a1a0b6d0ebe0bf74db25b6dbd17"
+file = "resourcepacks/VanillaTweaks_r881185.zip"
+hash = "969237ee28da73ea93be05030aa4ef6f0c54c0aba4462da21498aea725b154af"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r523316.zip"
-hash = "2a241d8f4706dc8f64b3125ec5da356be2943c72c9a721dc1b43e5e21d572398"
+file = "resourcepacks/clearvisionglass-32x-1-20-1.zip"
+hash = "bc4fcfd279db65bebf52cd457752eaf74c93121f0645eb35d82faef5d198540c"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/1.jpg"
-hash = "d5cf8f8b66730db0df712937c7f5df6a42d8fdd621ee979cad3b13f8070b9312"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/1.png"
+hash = "74de31d1e6ec8865a7d39bc43f7cede703f62145124d4d1fa764896bf657a8a5"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/10.jpg"
-hash = "65ef6cce77322186445ed6ad502ecfc71bf1c2a6982047f6fd9ae4d6ce285b36"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/10.png"
+hash = "0e5fa39ee307ed5ae6d7393739ec14ae61a5754dd30b403be377090e6c049443"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/11.jpg"
-hash = "957aeb8bcd8ddaaf96acc2e08d494fcd841716c17f10c887073165137420c7c5"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/11.png"
+hash = "adebb81777ffe72ca5b167d5ef21f13bc816fad0637ba9dad072b1cea06cc788"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/12.jpg"
-hash = "340d287b6c1f35ef8c5730501c23f021af04d8f3c912e714e3c5bbd81904c7c1"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/12.png"
+hash = "39d69eb03b179a5135af9566767e29c78f45012b2dcca49f84d93f12e4159438"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/13.jpg"
-hash = "cf2d7d84cedf95e652121384a096952777b77d7bb37b09083a5a92f70bdb03c5"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/13.png"
+hash = "1b697aecc417add1de607549c131cc77a4604fc7036e72a148c9f08b66dcec1a"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/14.jpg"
-hash = "6fca829402ba3132376464e3924b7ed138547d5fd2414a2acc68ec7b204af3dc"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/14.png"
+hash = "36939994195f05054309ac9b40b472c1e69ecba58cc73e4ba5bbc7986ad1dda0"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/15.jpg"
-hash = "d7b005bf8cbf60b020bc99c1152483802cd4d92a1a7ce913488cb743ae37623e"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/15.png"
+hash = "a6e472677c096fe5afec8d1daf7215770dcf5231f60ebec4dcf4fb3e21a9c43a"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/16.jpg"
-hash = "f493058dec253f21b518b5236dfb3b56a10f4df0c4f2475a1db9fd7e1a5cb564"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/16.png"
+hash = "b05d7adef929913dbeea1857006a78203dda4cc825736d5d8ceb2bba59c692a0"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/17.jpg"
-hash = "79471b78875628d18400437fb6029af16b43d1e56db234bd248a42db1d41828d"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/17.png"
+hash = "6d6f205c27e6a8309b08464b426e11966a2b0e648e5df6904b48ce789fc288e5"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/18.jpg"
-hash = "6f752890fa139f50905d8ecb3065df8aafa936729d24a1a131934192e425654b"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/18.png"
+hash = "81591a54d5d468f1b69336eb6589409ec2dfbd2f9734a40a42b97b0235aab863"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/19.jpg"
-hash = "f5ae463ddeb2f79cfe93b40a40317cbff892dd3754d1783a786f1114970e4a10"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/19.png"
+hash = "0e424fa2a30eb435176a66cfe9fe41710f68581360325da121cb05138b146e25"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/2.jpg"
-hash = "59837ff528226267374ee0f38bfe10312e33cb4d8548de97190d8cc4ef756d10"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/2.png"
+hash = "8f2bc797503d4fa1590dd3bbe9e80e0989a3ddb025cb1bbde53707d24a1abf7e"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/20.jpg"
-hash = "9eb3ff613ac39446d8b8580774fdcf552debf8fac2c8190a8ded5c9d9fbfb50d"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/20.png"
+hash = "9d26a7e7d174882fa8128a2a0c181c49461f80a3d52f7516358d6820dca50cdb"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/21.jpg"
-hash = "ef93f618d0e3a6e0877035c18872ca16424dd6b989672d43c9672afeff329da7"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/21.png"
+hash = "0597ae9e8e3c7f8e5b3c936ece9da3acd5f66ac11b88b76ced86544765c6c073"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/22.jpg"
-hash = "1c2ee1b18bfe8938783820a0999a6a3e276b24be22120c116a7c89408c666f9a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/22.png"
+hash = "4e8eed20e29fdde59a3e8185cdbb937e51d003e3f3243df50d448c6536006d22"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/23.jpg"
-hash = "e44b3ad40e2c9022e9525770529f0fca9efe626befa631101f87ec6a3cf31919"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/23.png"
+hash = "0263d8c2ae8fef20b7d618b6dcec50bd18944569367e8771c389d886a3beee64"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/24.jpg"
-hash = "344ca04dd3338be6e2cd99694a332c5599381ac1d6e0fcc12b71c6a38b049d31"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/24.png"
+hash = "2d015b4db1cf8a88c8da37ec9b35b5b1acd906a042bd681e5e49075431084ee1"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/25.jpg"
-hash = "32c24ba39714ec1a27f2b7e5ccb2876f71ee2edd68a6df43e279a36db82a2998"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/25.png"
+hash = "febd0686cbbf78f59434d583d4dee5676c2e93fce4282d8909ded27898284465"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/26.jpg"
-hash = "4f86d60c698110f066c1d3d7a40fb4817f0e83bf5006b2ea6f27a8204d1345df"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/26.png"
+hash = "1b85e27d3b0130a2308cabc10bee5ac9e91c3cbaf44704a5591dab96e4b2a226"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/27.jpg"
-hash = "618abbf3407f8b096c9a4caf8a8d86c5109639051444fe8a057dc756570f796a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/27.png"
+hash = "6a7d79abff9be864734ae147c1eea5c4367347dcdd5b425e2d7e38057b5270d9"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/28.jpg"
-hash = "409cd5322628b0b7b804ce1a75419ad67527a39d7db857c3c0e9b267f4f08092"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/28.png"
+hash = "a2f4cdab314e568ff368b56455d74a02abf89ccddbdfd27bef84754c61576ddb"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/29.jpg"
-hash = "f4bcb02f7c6327a89c5d7e69e1c2f6bf15303c7b145ef74ffe310856239a8066"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/29.png"
+hash = "4bbb9d5b7b6fa370b761a9b93d851d85314ba2ee498fb2e037af544940734312"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/3.jpg"
-hash = "4e7718cf5b401ab27b031b36473d374b641fc23734370c1a1af38e5a37177a09"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/3.png"
+hash = "98c8e953e0681c0776352162c8074f8b7ea81dbc4ce02d55aafa86a922a34be9"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/30.jpg"
-hash = "eb898718ea90636db77b0ef2a73b4ae36a0798d64adf2d79d063084a3edb9472"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/30.png"
+hash = "e87de93b46c50b1345dd62286d3391d46b00934cc8955448ff69d4404c520fbb"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/31.jpg"
-hash = "7e3fc7b53949dcb72f6154fbb3d1d3666bfde0beed94956ed4fa0b8c986f3353"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/31.png"
+hash = "e934c2bc4dfe94dfd32bb1addb2b892ca34b4df0af86d04eb3c4151b63d2cf19"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/32.jpg"
-hash = "cea19687c9de9ce0695c9d7b5e618285b9cfcf91b35a2a18432b1ae8000be5ee"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/32.png"
+hash = "60f124f29c700f9ca705110790bd1abca339af9fa142a99d9acb772972790a3c"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/33.jpg"
-hash = "7cec3ddf318f9f3ff4fd6aa65f1be526e5aa5e3cad1b0a76dcdd449673aa0ab5"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/33.png"
+hash = "27eca22aca94448ec81ef499d905d6cccc321e8e58257f76509ae2adedc3147b"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/34.jpg"
-hash = "bedf3aa2489ae8557eb4372f8c8c1f56817954da3d6f9a0376407ae0a6a2b7de"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/34.png"
+hash = "75aa7888bc1fde4b248034b62dcb5c9f4cdc0cd0d431def8b8e0260ee5212a4d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/35.jpg"
-hash = "e94ef0787662274d1ac9d8cb25fe537951f1b11ca31ebcf73a57ae977b4a8e9b"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/35.png"
+hash = "36bdcb5209630c8b908787bca73eedb3f9b499f6f0c23e88696597da2f4900b8"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/36.jpg"
-hash = "e9f3ba431bc81dc1d82fa3f8bebed9818f625378f8fc9fcc128ba3b3e72d2729"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/36.png"
+hash = "221eadc8473957708dd38b4ad9681a9e194d56e753e10bedf55a764b9387f5d9"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/37.jpg"
-hash = "ebeeeaf362511ea8395fcc48990ef138828ca35e7812fcb10b353443bf80e943"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/37.png"
+hash = "fdd8821cd0f057009092bfd5ba71ab6b02dbac0bb11a72d77ea167ae8ec83476"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/38.jpg"
-hash = "37d4a35aaac85886d44c6860819281ac978701f111c134933cecc607f9af5796"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/38.png"
+hash = "d887e0e1b46ddb4bb6326e200dda2c5d43d1fd00b42d045c509fa2b5a280953b"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/39.jpg"
-hash = "be0ee2a5dc2ccc2d780ebe255ca47fb690247669ff0ba0d43cede3d941c4050f"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/39.png"
+hash = "feaf7d4f1051745be0c9e99cc76a161a697cf843b7b12c1f3c190324c4068cfa"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/4.jpg"
-hash = "53d21d31f0b7a1110a0a3a7e1051a6c4fc0c043ce2ca426d34e91582b4bb7fc4"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/4.png"
+hash = "95292814b88eb45d652285b32334d6dfe437b748c8746741743efddfef390648"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/40.jpg"
-hash = "3064c4dc10547459ab12f4829f45af274e46c998e27a28304d86a942a37d02cc"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/40.png"
+hash = "8426261acfbc943772f80e29b3268b0e07fa1ff293db0f2c90917dacf2145ca1"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/41.jpg"
-hash = "654acb18df7ac5b0186edff72154da611128a929cea87097d8c617c8922ec635"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/41.png"
+hash = "fade4a091fa8c7db5ba88c893b365c7b6366427030aa7fdbadf74813908b9769"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/42.jpg"
-hash = "2598b102f850f1ac59a1158345f92804872301b3546fa69e58ea6f82c40fe030"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/42.png"
+hash = "45649bb16d15d65b5db8dfd85c19709b0174a8105d61de2a4aa264d3ccbb7ac7"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/43.jpg"
-hash = "0bf9e44f06bff44a15832dde2534a030d1c31a85493e84ba90144d8c7d3b9674"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/43.png"
+hash = "4299eaed868040846e395b99bedaea5f9d52c88eb8cd27c29ddb1385f707ac49"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/44.jpg"
-hash = "2516e2b6e92a28a809457a2933687dfcfae4dbeb421e1d77c972c3ff7a605a2b"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/44.png"
+hash = "b195fd5076a146d77255c85f95e69079bdbe3806eb38e49cc1cc4912187066ea"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/45.jpg"
-hash = "ae7233cd98fcc72cac48cc1bd19e0d3d4786b8684b670062da4da09c624f5691"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/45.png"
+hash = "7ea9b63995810b7fd963d5e7f63c196e037110ce952d54896fd21dbb41842bc3"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/46.jpg"
-hash = "1f2c4770b4fb21fdec3359bb566c40ff7004e89aa1188e69ddb6584ba6db952d"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/46.png"
+hash = "dcfa257795edfbccb865a6bb391ae216b5fa10cf05e596feb561dcda6df388c5"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/47.jpg"
-hash = "5bfc4d2af7654c0a922d69959887b4617ec8fd0d58aa6ae21ffc6122d956f295"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/47.png"
+hash = "78bb64c68f0e36ff5aa1ca1bb0e947a27a4c82238c0724c8167f7785db4a52ac"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/48.jpg"
-hash = "38cca460b747d8738609cda00911bda6462d75fae28bec11d1a6576b4f8bdac8"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/48.png"
+hash = "9c7190e1b09b1e04468c2c323d9d954cb322f69508c52fabc98b7e7b20a92ffa"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/49.jpg"
-hash = "df68a7a5672801c7eb797b2c3fa81d1b2a6715ab876d348ae57728f22d6a7acf"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/49.png"
+hash = "7e4499ea9ea6e0d1df91360f5e55eeecd45d435d37ee54d3cd415d2cfa0710c4"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/5.jpg"
-hash = "2d2dd774e31e2f5d79eda7fdbf6d78e362fa9c9f0fa50715e2f1feb11402978e"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/5.png"
+hash = "d860421dffa12619113f85d1825de51933fdea5a7d27ca2144ed96ca5870cc5f"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/50.jpg"
-hash = "fcb52e64e347723155f5504112877f5cef2ef58cd1f79c36a40de583c151c6bb"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/50.png"
+hash = "7bf1048278130c2456741fffa730eb1c7ff03a3c07b1a1bba60bd3bacf68f487"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/51.jpg"
-hash = "85669eefb2dd3c368f682591494a4bc84d2775c71286d5b19d679f1539aee040"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/51.png"
+hash = "e7f06f0012d555da68ffe7a0efd077ab196c873d98213576227382339f2a75fa"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/52.jpg"
-hash = "5987b59f4b241e9503be87f2832c6b73a06db180b67b90fe1ad1563c7841af3f"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/52.png"
+hash = "7e0e5f06196b2f2453c30bd5c770b70a3daa36d94ed349edb3ad70395107c5b7"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/53.jpg"
-hash = "81374f2e1463c16f3df0c0820607845a66ea6245f36b18b04cd90745e35e82ba"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/53.png"
+hash = "c72f6af01ea0d17d5812005eb3cb586c40485ae6761234fa4af2b4809ec047c4"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/54.jpg"
-hash = "58a452741536b3fb14191b7e37a82c4ce7403c8cada87166715095be6bdfd17b"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/54.png"
+hash = "3837510f0f2026504dee2ec97b9d9a680fed917198f0a263f02792b9f0b534fe"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/55.jpg"
-hash = "fbbf0a1dedbd13543b4221baef15734339747cec6167cea7ec027358b9b4f16a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/55.png"
+hash = "886b96ec48581e2cd45e9bf2ddc76bff7c3cb74bdcc8a63e66569aa3e75a0fdf"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/56.jpg"
-hash = "4372ab3318ed982386622582b54c7422e3a921ce6e13d8c0cbbc18d71345a1c2"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/56.png"
+hash = "24feff4f85e112b6c574cfbda0e8214128220b5d48b67dbf35a72b6f9e6aa6ab"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/57.jpg"
-hash = "15b7fb87a2e80faa6648f4eaa0f2481ce1b03047891f8030618cf37d574faa4d"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/57.png"
+hash = "9fd50845fbb0672e0031e5a895a4fe8c9b3bfb9cc0f749859f5dc4da6666c851"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/58.jpg"
-hash = "0e6a3578d1b33c69f05f66b6357d60ad9e50c04594dccf1350d43e0c8c7a54f9"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/58.png"
+hash = "4c912710d7de79a23f79c042e6b927613dc3dc75bc47285237b9016cca52151d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/59.jpg"
-hash = "6c85a745605fac01e7d56933683adf310e22e17ed4ded856d5e6481fb8582333"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/59.png"
+hash = "698a452ff60f109d145ffb6291d2e4698e32fff4d0c83c519a807f35ddf327bb"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/6.jpg"
-hash = "c9b1d8b70fdae63ca97ef772ab9b2fd5f3c0db223b4f70bb31fc7722fd584c27"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/6.png"
+hash = "75525fd5a9b743bf5a7719cf2a6552de53c805126633608b34a79a88f0f9ff88"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/60.jpg"
-hash = "0f5e250254b32a2556f888909b4ea046e6b98dbd90917d26a7cc3b3e1f549eed"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/60.png"
+hash = "6cde23a1692d943806450736fd1b20551ea2d40159e3a6b14e2140b5fc96f3f1"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/61.jpg"
-hash = "798ee34496db64d6e6bd068496b9d2e003919493660f899e0096a38407075bb1"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/61.png"
+hash = "dce478386d4cbf2d3a6a436a7d39f6c04347e219b70e8f30cf196f89ebb1648e"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/62.jpg"
-hash = "311a1582023a3617bd59289e669bccf300ab0acec157db2b31c0e30dce34c713"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/62.png"
+hash = "dec65c75a4b86b0ece3acdca803a6e150f81c881c6a6def8d59d1ad848655627"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/63.jpg"
-hash = "560460dede00d503bc4394f4c796deeadd01bc04791452872a76c029bd9b0398"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/63.png"
+hash = "e0f81983999588c991ab50cad3ee349b82f6c50561544c32da00e97c5e6de833"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/64.jpg"
-hash = "f0f2d2b9b7305f5bb23db01eeafa42d1b41ee9cfd9ead03a77538ef5856e5c00"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/64.png"
+hash = "d25c26cfe45d64fdaf256b09a785ea7e235b23dc0517c01d141e755e909e146b"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/65.jpg"
-hash = "7a59369253ffcff387a1e98ef209aa6113d088c683ae9e2475460343562faf5c"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/65.png"
+hash = "54ea8405f6c9a2c543d40104e2fe7e49ce3154cac785eea315338357f8c7c7f7"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/66.jpg"
-hash = "7821e6cbdd69a58ca946236a72a73e81ac88690c658a61f1abc606ac52c2de72"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/66.png"
+hash = "50c5451a7de25a9f6f34a92122fc22d6d274785e17579e3b0c1b8ee4426cab34"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/67.jpg"
-hash = "16377ad894b0a63d71a4faf10ab70bcb2501ca86cdf6b35972e15425135349a5"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/67.png"
+hash = "68b325cce412b03e42cc1e7b4802e951b9f81aa2ac176894680ba9b909ef5db9"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/68.jpg"
-hash = "88f9189235b886b3a8490c89d3825128167a40c35dc964bec9f15816f3984715"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/68.png"
+hash = "07f51a39b0fe091d3db5e29d3b02ffd043467ad94a5c6847594360a6b6fb26a3"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/69.jpg"
-hash = "a204de22f3022cc9721eb9b3a251954e1cc6fee1d36d3b0f5551c8d1935d8e01"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/69.png"
+hash = "a89dc5f281ed51d7d65d580f09008327dc2d7b0923013e664ffb243d3b0c9728"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/7.jpg"
-hash = "658ce05977c689a603cc3e4cd9fe2998c8275d7d8e6fc14a627e4af981baf5aa"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/7.png"
+hash = "ac0cd681c1ce967b02bc81df0b1444aeab0d5705d611e700ef864e67bbabb047"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/70.jpg"
-hash = "3c4db6bd66fd15ce5179dbc8f2f2703febcbfa6f0c2dab712c2e784b15383a49"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/70.png"
+hash = "8a2f8315e9c2a9e66409eb82d55461d9fc1a8ebdfbaf18f86026583288e3f65b"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/71.jpg"
-hash = "1ca85e9260e609bbb88f3360bf18840a8d134348ae60e3745ad0212d9e9eb28a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/71.png"
+hash = "47ba0e5413efd31b4dfccebfe5b9e2914168d5f3a66b15585f1570e9f0a25bb4"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/72.jpg"
-hash = "9bfde7e77db450299789568f51882c2c6cd7cd803ef27b3c09e91ef52e318e25"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/72.png"
+hash = "036f3224802b89ecfc5632d5c9f93529bc71cc44e6aedb216ac5b0b0af310f6d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/73.jpg"
-hash = "88ea2c71d349d4ed81fe0d8c7e7afb80a08e696865e68d9ae0bae1bb28d06ee1"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/73.png"
+hash = "6ffca270fa5aac148cb077640d1eb99379f077bad71bb504b7465c3715566aad"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/74.jpg"
-hash = "738f56a418a2104142fa61e8c822aaeca5a725799330bac5ba984a82e35d1e6c"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/74.png"
+hash = "4687bf469976e3e98fee3f3c03eb5ff1d3d57f30dd68880798779ef9884860aa"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/75.jpg"
-hash = "6608e8eef7dae68287e26ce75780d4efb7b5b3bfd55d0204be2ebd3cb6638a0d"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/75.png"
+hash = "f07aa18333a8ba44ea51be81f186e80f7794198794886bb1828e816d19970cf6"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/76.jpg"
-hash = "27ded4a5b8a06ec922083ff10397d95f410ff0f8b45cb175ea4b9cf6272bd0f3"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/76.png"
+hash = "b28c55f59999e95b98edcf4e79aede366d1c1fd416fae388cb7a98cc8a6c45b3"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/77.jpg"
-hash = "d843f5dfe5881a45df84642541f5c9f0fe96d80b45f154dd92a9772b65ee804a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/77.png"
+hash = "54ce9b7d5bcec3cb61070dd2b659842120230ff7dceef0b411e3f960b6dafbef"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/78.jpg"
-hash = "4e9ade038be9628cf99ea8d8a7a3f7b1c0ebf18a84dd48c4fc4ff2b791a6d647"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/78.png"
+hash = "f4a27c7e20fc162a8cafc6ade25fef95cf76adef3a86113b6ec92408b246d31a"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/79.jpg"
-hash = "9b2d6a5ded258c1cb1bc14fda6c79b5c33f4307c11b2ae8664a3a5dbc3fe18bc"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/79.png"
+hash = "5f70b827c9756fb36a34f228d3468720ed16f0565b727df65ba7ee26b60f9702"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/8.jpg"
-hash = "92fd56cbcf75453f0dc118677b3e381f254deb5c45e47c8de281d92d6a7df036"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/8.png"
+hash = "b6809d46612c12687098577be3f7d0d9c78ea4d80aa75258e54df096682e9552"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/80.jpg"
-hash = "18100344daac24d0831b2cdc6a7b8c24015e87abfb7d560ab79022ebadcc2f70"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/80.png"
+hash = "98a25c82960db6f6381cfe88a99e5cc8b0e8f9e259558c9912b2e972ab7dfea3"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/81.jpg"
-hash = "c40d72f7e0b593754a58bcfb56e5f5ea872acef9e3ef9da23b0197defe5a9048"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/81.png"
+hash = "cef55cc6f0fa231bcef37e61f58bbe3d2d09ca1983fd82600acd0b554a43169f"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/82.jpg"
-hash = "04440083f62ba2e81f8fd47853e8a7a165e734df4840437db7fa7fa2c3e23a40"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/82.png"
+hash = "ec424cdb8ac719544216378d93cfce357d8afb54f2e7a83a27e8c93d4e6a940c"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/83.jpg"
-hash = "40439fe41bad117c6253ee7342ec8886d8959ae123cd3e20d9e76ac41d244ce9"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/83.png"
+hash = "849fa6f766bd39aed378111622e2356f249a169a10e62e29c7ded88a291ca2b7"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/84.jpg"
-hash = "61b0fd7d3c62220086eaa8393e90cca2d8ba5339f2a49252f3d4c4c146185590"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/84.png"
+hash = "6dc222fe3f0f320f595ceb2dfd356fccb6b33a4800ac7df628da7c0b3168e021"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/85.jpg"
-hash = "c1cb15d22079ec355a8ad3777c443aa5327aae27dbdd22c8a40fcec7ae8b1d26"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/85.png"
+hash = "dd593dd41772fe636a522f1cbb5f8ea0be07652b13a576a9645b2b1ba08eab35"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/86.jpg"
-hash = "58b0b759001ec14631f7e641cc237e3cf79c05f19ef5c6def80abfef303a1cdb"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/86.png"
+hash = "31c884cc04202f5246d5a3d66b740e5fcd6c3ca393c580b4c70057f5d6f1472c"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/87.jpg"
-hash = "0332d7fd930413af339e70b31f1eef60f6ceb798eecbeeb70a78c394748bed8d"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/87.png"
+hash = "d62266255516529c174b6d976e08758384e900ac23788e7a47d033b4ac33dbbf"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/88.jpg"
-hash = "b52434256745c2b436d8694834c62bb33bc9cc81669327304b68263f01a4c463"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/88.png"
+hash = "64fb0fa4fea19dd1925c616e1ba04ce6ab990b199883d2d08b8a154d7337aade"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/89.jpg"
-hash = "7a76d01d5daf8372f2d356332df5f4329072655c8ee7ba4af5ec6de804bae3f8"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/89.png"
+hash = "768cb94346cb949463ed14c3dae100b3d6696a139d46c9d332fa84ead08ca9a2"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/9.jpg"
-hash = "f461385f423e52f8331bdd091c41c8af3be3ac06bcad7def5678bc96b86ae9ef"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/9.png"
+hash = "b1a2f6ce2b782e91a06b64f638d506d7e4c0c9c16b97b115191088865d181e6f"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/90.jpg"
-hash = "812fddc4cfae385fe4736f241ae30d45159489cd89255bc5754553baf727b6d2"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/90.png"
+hash = "b7eeff474c29444549f2d131ec8639c829242468c4fe0d4ed0e4985a93dfd254"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/91.jpg"
-hash = "bb3f32f46bfc27fd04f60db164010b5533cb6e8736959b7d05f67a92ca75d144"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/91.png"
+hash = "466c5e2184183c00c6ee06bad9093c3e47363bd4838f0178832e0047e44c9967"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/92.jpg"
-hash = "192225ee76908b396b480fb58833c17a8c4dabf9913f1196c0bd64852f6c0bab"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/92.png"
+hash = "c214b3e14614b8bf974fc77c307ea1ed9b79a1e37267f16bd22f6bece07f1a72"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/93.jpg"
-hash = "465d7489c261ba6804df48bba77b7eb5713d2926fcfaeba5ec879c05376a4f02"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/93.png"
+hash = "8e975d4dd410bfa0c8d00eda8c7705e634b941cba437554931a93696527c3d12"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/94.jpg"
-hash = "afeebb75811b73363c02cabc3fd1bc3fbde5a34350b22b217eafd0da6462ca46"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/94.png"
+hash = "24653460683b58c2a2fcd6e6bf4ea1bb528f3c48bd180317a92a08957b5a16d0"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/95.jpg"
-hash = "f097e55883c77aff9665f38a1815227689927879557e1764791ac73cad961d83"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/95.png"
+hash = "1e5341581740d70c6462f5c08ffe81b0b3717758aa7195e520a2842cec17b813"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/96.jpg"
-hash = "60e23dfd2dc32ac29d98e1973bf01ee5b03fd8e1bbd6474cd013ee0e6d591901"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_intro/96.png"
+hash = "c327ddebf2b70780f2680954cb7a8211c563bd95edafc00bdfc7aeee3e66d8c4"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/1.jpg"
-hash = "bce3e6050e59bc79b111aa4804bc739bcbdfa4d48d12eb8bf6163f4110847d99"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/1.png"
+hash = "e0a6da34c1e16aaefc75595541e38f1e774588b2832f0b722de4412832b6506f"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/10.jpg"
-hash = "46f4fa93696641524ba9139c838adc2526a9ef9fb33bd25c1533f00f8f2bb42d"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/10.png"
+hash = "5e9f2fc94a090647fa8f9f3e91ada88f3666a925bb353eb279f5f4109da54a5a"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/100.jpg"
-hash = "53d7ecc77f34d1add78afe3fd003aad7ecfa0d3d20ee4d34b362f43cd4a9d0af"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/100.png"
+hash = "8ad46af77b28f0dfca5296422724134e86e994a5b9cc0641c69c5eef83a534e9"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/101.jpg"
-hash = "e3b1fb2cadda04e9f3f26e21d3e80b8032b834cb87b7ac78691559de01570fd3"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/101.png"
+hash = "5b6983c95d0b40e94046eff8c2812c9786986d5efd7c4542c77ed50a267db87d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/102.jpg"
-hash = "4c385035f27552a5ec4ca9f3e2193cde1727ba628acff62cb49581195074d30e"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/102.png"
+hash = "f937eccf36332a43f510cdd7b7e00647af6311893816a6df394581776caa7917"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/103.jpg"
-hash = "75d7400951c1f78f1cdfca4e88fba2c6ad5d2bfcedcffc2f43e7d0a1cafed4eb"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/103.png"
+hash = "f8466fc087b632fa427a515141b1c76b14ba6e966406efcfb5fa54a65dda8f57"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/104.jpg"
-hash = "e9d7e229c2f5a13c911d77455b635efb8bfa017495aa3b3235e8c842d6f9df03"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/104.png"
+hash = "047b789a2fc280bb0c32d59e8789fa80ba9b7e35a178d459c238a8858b0863a2"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/105.jpg"
-hash = "358d3d72ce7420c15f77334d5cdf81de76da92f152cf913ee25d9b1772ba7350"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/105.png"
+hash = "62f93a337b11fe05d0fd467a5c7c6a9c6040a778a955cc5935e14d27845ec8de"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/106.jpg"
-hash = "d85af335fdb0b030ada0fdf7dbeb5465576c2a7c3e3fd4c43a6170f1c89e3f22"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/106.png"
+hash = "e8dcab393610f57616c1bf90b8969f4603d4cbaeb09c7a9e452cd09e864291cb"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/107.jpg"
-hash = "c6f46686879512397a1f02b4abd539a98e157f5980467cfcaca02d75a4c523c8"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/107.png"
+hash = "27684723e6a0a7510b9777709902a41b7a2ee5b8084adea263d0cb60f09900f4"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/108.jpg"
-hash = "db884051b78372a12a97d0d0b4d57aa4f3fd091c3e900f073f6e0b1bb1a4676a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/108.png"
+hash = "f9527f5bfdc9586eb88bca3b999dd7a2457ded6097e4f9cad8fec1b0f2a5a6a7"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/109.jpg"
-hash = "88c1649448210a85a8fbe6ccffc120ada8f8a31c9d79ae78a0544476899c5a2c"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/109.png"
+hash = "1096fb5bcb9a482209b9f2802624812ec70c3576e2623f44bd073918e2dcad3f"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/11.jpg"
-hash = "425684a8abbf230de8621ed4162925b833297656f6219e3c1ee88e15114711ef"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/11.png"
+hash = "cb0538e06fcd7f9e09e810f02f63c09f862543fd328f3787d50362f4c0b62658"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/110.jpg"
-hash = "2245194f18dde53e66ef252320866af44d488b5668f6d1514e4c6b043cc85117"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/110.png"
+hash = "4b506ec48e38799dee4c5b44839d4f436c0fe600a57f82952a44be55d11a8e8c"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/111.jpg"
-hash = "f3d6db303d3587b9559b05c893948e37b593ce36d5a8f3bd2771afb54d750522"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/111.png"
+hash = "591e0e74ac98aff09ef96e3bdef1bbb672255400e1d2f9cdf9d1f7db3d31697f"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/112.jpg"
-hash = "a1d1f93f6a779cae54d42527cd116ce2ae2fc1cf7f175bf162a28b0fd656bf9d"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/112.png"
+hash = "c9629dcf472bd550646154847fdf39e582510fafc5bb3e801ca649343bf88689"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/113.jpg"
-hash = "ac884237426545ae0b10542d54614af7f76e1e904d8cdef1a458d1b3b5246412"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/113.png"
+hash = "f29f8919ac2f937c8783ddfd0fcd9ff7bba5f02b8478f17a15d0a8d81ab90bc3"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/114.jpg"
-hash = "840023d59091e31bbae269c9939451ed9a32a5755954080a88959ca6695b1fad"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/114.png"
+hash = "1aa0fc38729df229fab6820dc8068f086b8ac92b43dd4d1b4ed0a636ffa5f952"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/12.jpg"
-hash = "15ff973df9b6f49d8518e94cd9ad0ab88cccd89c20001631461438b6b94e5d73"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/12.png"
+hash = "f0c37936ff32eacf990410bc9be3f2b843cc08e841a7a6e8dd78cb88192f1d51"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/13.jpg"
-hash = "0cea4dd6e0cf2f8fdd8e20842e86f37fe948407f1880378b31d8029bfb100cc8"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/13.png"
+hash = "a0d639b0a19fb9da74874ccbab89019a30811e8396b19a5efc5fe12661e3396d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/14.jpg"
-hash = "85fcd40b58fb5866fc609c8f129a4c1356b432a6ae1335ee445f5f706337d4e9"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/14.png"
+hash = "65690735f86a264f779a77bcf7feb824b08af11a0a829ee2cb68b8449aa3e6c4"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/15.jpg"
-hash = "51d9f1ae327d77ee479dbc613b0ced608f8f597ee2b5b761ca8721d2cd6af13d"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/15.png"
+hash = "ffde52d730f3980c33ac05df8f1918c63400b901bdabf7df0e20e996dde6169a"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/16.jpg"
-hash = "86335e1237dc4d9afef6888a1540cf277b903e0991822941c7dc83c453a85438"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/16.png"
+hash = "50925d2b4c065a8cf50719ce9a17b3ad3baaa7db5028a198094a61af177cfe4c"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/17.jpg"
-hash = "75c4c30ae6db49ac96691f944eca392a21564d1df40b1ef9ebd1d5d630371d00"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/17.png"
+hash = "0da9a1c374640ec93325a46978ebe06bd5bc02dcf5a528197263cb79b9f4ab01"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/18.jpg"
-hash = "afdce43a7a2d546795348a5a8c3a877205e5af2307ad1beeafd40b58be2b8064"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/18.png"
+hash = "04ebd25162b0e366e8c4e8fd0caf1cacb3a6897d436f91927cb4d4a5508f2fb1"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/19.jpg"
-hash = "a628c927280d1620ee131ca9fa03916868cd838a60d15213bd97d2931ae6e21c"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/19.png"
+hash = "861f24cee5df6db896db87c280c18fb2437f6f07027a39dfdd4d471e0474f60a"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/2.jpg"
-hash = "5403c0bae9cc06b6bdf4bef61c0862a30eac8400b5d2b91b092e589b2127da11"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/2.png"
+hash = "c93f809079e3e90f089ab9e8b2b9f07f1d8e57d6e0b82ba44300a94c3594d6c5"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/20.jpg"
-hash = "090b0484dcda8a48fbf3c8211f9e64cc160d89201ac19c4e83f712fa417d8a1e"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/20.png"
+hash = "cde6613dd3a82dab7840789e1c08bfef77d99f16cdb389365376edbddc5124b4"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/21.jpg"
-hash = "02eab52eb5a76ca8c3c0b665bacc76dc2d7393a35e2daa42ef773654a3e9f607"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/21.png"
+hash = "bf530c3ff9c747a20183e6b6065633f656e81e9bb8513e8b28ec65f19d3f8bca"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/22.jpg"
-hash = "b618183c4304a9a857016a89660d4b6d260a47659bc5e96cebb643285f56706f"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/22.png"
+hash = "d3602ee51e9f9599daa9426629a0fc531b4c278a8fb46bcdd9d499896e93a9b3"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/23.jpg"
-hash = "5756fb3e3c4d8cf34656cad7ffe6c174196e9481298a1a4290f988a7059d8a99"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/23.png"
+hash = "bb18cc3dd2eb0cefb3219d88200b8d981f9fbcfc068799e13bd91e1ff3223caa"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/24.jpg"
-hash = "e8058590e5145f2e42acb354a09ff8c5da8759c834cce821774e9c6cb5934071"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/24.png"
+hash = "5681ca9857caafa1fae88fe9612578246ac0146aa89dd76b018dc226e3e9e809"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/25.jpg"
-hash = "1717e0fff9c08ce5d77501f21f3f390aadf7e9a1f5e857ad0b17d46e80beab75"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/25.png"
+hash = "61dbf8150d6c13edfa3aa96829235d78708d15e763c3290b7b407bad0e77d10d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/26.jpg"
-hash = "ac95f555bed9ba4e3198962cbf5999a0dd4d43f156552c0d4f1c6bae8f1c197f"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/26.png"
+hash = "e14ed1d62147a5dddb959a633ad11443f51f780a77ac9ef100eb22ac3e813c23"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/27.jpg"
-hash = "a4d40c2fd020417a4f03af72040b5789b1bfacc110a6960a37641309a3f996ce"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/27.png"
+hash = "d34d7599c711f9a11de76f3b092de94ba33d00437b6894beb9430d069f7c9371"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/28.jpg"
-hash = "fee3a7e842f9aac279426f110c9332715cad18f965fb21afba8ee1861442f946"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/28.png"
+hash = "b9f7fbb2ce7e4012e07799dc93c96ed98e057cb0e1b2baf7cda3af434afb126f"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/29.jpg"
-hash = "b789c24e1a640e58c0caadf7fcc4aa18fbeef5c3d540a97ada8364ef916365bb"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/29.png"
+hash = "ab90c70980002a86236476b46bfd51c285c9b755bdc4dcfab0c91a8391eb9e1d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/3.jpg"
-hash = "e6295c620c881a1f5a4e88c1469ec7c649fdbc49a7c133f6838caac63dff2a5f"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/3.png"
+hash = "d4069d60a7f110fd1efbdf1ef0476ccaef36c8207e80c0b3c87800b6997fdb5e"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/30.jpg"
-hash = "f7e6f260d298a4043fa811f095087f103d4be126095a8b523be02f413ca898dd"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/30.png"
+hash = "aff9d1e3366b2040f7ee1307c87fc6b3d97e0d08fd32bdd4eda74726bdd6791e"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/31.jpg"
-hash = "7447d641301a18a6d889bdd5ad857c886b879771611763e51231f14221d7ed04"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/31.png"
+hash = "44f4b92f9d02a294c82abae5d0521d260dffedee317e72cf5da5777ff538cc5d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/32.jpg"
-hash = "ea7ec08685f2ee837165747f871f9d3ce01ccd4a5b28f829aafb51e6c4e5f038"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/32.png"
+hash = "01055929d54228b52ffc943ea7966686b25136afbeea61c3cdc3749d79727a5d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/33.jpg"
-hash = "ad3fa2028fe3eb27561ea1350855d1d6041a06cdb3f778db5699a2813ad25551"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/33.png"
+hash = "f670da054fb471b2c01bb7abf3939709aa2f75410f1c322040e3422918a82cbe"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/34.jpg"
-hash = "40bc6a09a3de23cd6e99701271012949b5cb3cec74f5076eb639c04942639075"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/34.png"
+hash = "dc5998f427ddeb3dc0135721f76cada4300bcc0ee343e1699d9914e2eeda5a29"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/35.jpg"
-hash = "6fb97964be22881a07ee91ce485e6b2b76085520a8508ffe6509baed19543a69"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/35.png"
+hash = "0c78c634fd57a451825c1b77b4bc330365902ff70020733be2e70f451bf8c84e"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/36.jpg"
-hash = "cfc2a3c290bf24ee09f8d450c2526bc75470acaa10bf2775be09aa05054790a3"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/36.png"
+hash = "4651d345f87f5505c2dde244cf82eee547abf55289198bd6be52bf1a389c06ef"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/37.jpg"
-hash = "71018c0549e68fc3feabefc180191dcf5c2f3963880da2fbc9ffd2640d558500"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/37.png"
+hash = "41dbb5b67d5aa33da5cfd82bcecbc0324637b5a2741c57609873ec4608ac9242"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/38.jpg"
-hash = "308acf57ba7bf4f6f6c05fbcc28c0b9aec9d9ddccea70842504e8ae3920e9b92"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/38.png"
+hash = "a147af5716cba0822f847c26ae29c923c40792d9eeebea752d4279239122975d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/39.jpg"
-hash = "e17b7add9b50bd9804c37df83ac6628ac41f8a118b91948f243d47de80028602"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/39.png"
+hash = "eaa45247c188829a3347e82360546e045d8478c804a42cce1865e478b1a25720"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/4.jpg"
-hash = "21df9b653bda3f91cc104af76144f8cba06fa9be6a552fd0ce540c5de822fdf2"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/4.png"
+hash = "4e2908518d0c736d8996e876e2ae33b222bb4cccd3e333f794859c7ee02c061c"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/40.jpg"
-hash = "e09cd3e7254f63af60cc25af9f6717c58e21261dcbd8b58bb2aec1038e0e4243"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/40.png"
+hash = "ccd7b36ba2f0587119fc7bee12db6696dd1e70f266344dbe4abda471d3c5c051"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/41.jpg"
-hash = "6f1d019a87c9b9d23c05348a22dd7d7d970551afc6116505b3b86610ffbb7661"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/41.png"
+hash = "2aa70139684a0b1ac2bd19e91c312347e789a90069280f59f16e6a1d093aaeb6"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/42.jpg"
-hash = "84fc8dccf0e3274d056b276256369ad108a3191086fae16f5d8c732aa085ccdc"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/42.png"
+hash = "545b3a8962777af2a1c6c85d29eccc8cd71694eb2da5fc33d56071671802cac2"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/43.jpg"
-hash = "bd68c0ee7e031ca0be23088f59be35b59f62038905849dfe334217ae9aa160a6"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/43.png"
+hash = "94b28b76417751db9424e42ca7f528e13aa680916a93d135b8c5c4108fff39bb"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/44.jpg"
-hash = "a97db04e5f39550b27779449da52debd8868abcd34f5da0f6d1f51d82bd87b21"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/44.png"
+hash = "5922f990fef34d40270ff27e1a2b0ad7c9e246bd968d572ca023cc019c9cf5dd"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/45.jpg"
-hash = "187556444cc71e011a347967e3232f984da788dc9a0b90850a72ff986d69c0c7"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/45.png"
+hash = "72942e2a404767785be1d3aa5b0679263c8517daa1134c4e2340968813fa87a0"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/46.jpg"
-hash = "ff287efd169958fad2156247a6511a8b373f933a5267adc0100bb5e01121900a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/46.png"
+hash = "f47e6624431dff9bac8de102a6a533871d5582d0f3f01f8ef18a08be47ee0c48"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/47.jpg"
-hash = "98728b0028f24a5d0199ba654512123f3e79f4f479f76b9c7c85e1960e6625af"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/47.png"
+hash = "5ea9bc60b2230b820b418b5a1e2a746a17b854b23bae464c98dd7f5ab79b166b"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/48.jpg"
-hash = "207f77beb5f1a14ee3ed805f5009374a652f66b42f8dd53ece707ca6fa268216"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/48.png"
+hash = "8e38d21f98ed6cf2186f13926b6c42708276ffc7c1176ab909a7d647e1b70dcd"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/49.jpg"
-hash = "fdb5889a6cd3df7a2a6deeffd8a436d2bac772ff70d75cbdc0cd44d523b018ad"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/49.png"
+hash = "a53b82b4f75735a5edb5e2e58243eaf2fa6bd4582efe6178054a72ff452b68d1"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/5.jpg"
-hash = "1e348cff5adf02b79b9466bc99bce78b2717c80b74d6cdb728c74f6f2165ee33"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/5.png"
+hash = "f09b1168d2f4070fabde32c9aaa9b5c9466470c9eef2d1ba1e3e951d5bc941c6"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/50.jpg"
-hash = "259398f49516839ada148ddf9a3490d1f59ed419ab45a9edf114f2ca3f20d6f1"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/50.png"
+hash = "a89a2a521e753717c80e8c46356fde484158c3f5323bbff3142684549cef7051"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/51.jpg"
-hash = "8166efd7bcea8a4f6177549b1508c942d016d5ba780613107e3ee0ae66628df8"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/51.png"
+hash = "377794312278bd8d283539c4c3794bd1f9467fb06c6e19e7ca6e0e7958b68bd5"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/52.jpg"
-hash = "d23a2d83eb0cc95820835bf8472780361104ce899ccdd9e485036dbf773664e5"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/52.png"
+hash = "b146996f9bd40742af4e3a489da7fa352ac9d94475e3eaeba0640d5afe33c921"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/53.jpg"
-hash = "688e80bfc91d18d6aa6b4500d7cce0d671f5c21a7e3409c80623afe181b9f009"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/53.png"
+hash = "c8421b00cdcfd4a00289db8debecc610f4f3d7e324a24ad8cae4fc18c8d06a56"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/54.jpg"
-hash = "50c6f295656d887438a5cb5fbf6a3f731600f4f3a097a2fa2c45573e08e31e57"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/54.png"
+hash = "0312bd32106d2b264efdc04f56f6f0fbf941ad47569fb56e756a424f0ccfeca0"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/55.jpg"
-hash = "6b50ae3da706c294a74648dae156abbe7f9a03c1c6a97931e89141b353f64e23"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/55.png"
+hash = "2e5c8168a9b2f0a1b7145786aaf0edc18ec2eaa14dc73a042360f22035959f2b"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/56.jpg"
-hash = "04e0bcad4768af73ba878e9f5b6c07bd40951a1bfea24ac1e04728a175249e7a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/56.png"
+hash = "be053e4777fd68acad6cd25048a14964023dfa3fab73d4ed87ddbe329a9d7809"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/57.jpg"
-hash = "c6b30b47221456f0907c8df4add7e2323b4c760282ab04209436f4f3aa40d807"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/57.png"
+hash = "bd75838bd2b4bd828e21ee35686d3fce02e64b214a7cd13374a6fa745a8115ed"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/58.jpg"
-hash = "fe57238d18ed43ba491c99e8b61b4d8f77eece124669dcd90acd41380d94cea6"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/58.png"
+hash = "08adfe4ab43f225e3e20ecaa583a00a3af3c62b09600d779623b22c473cdfdaa"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/59.jpg"
-hash = "57805f433a02e45631c56638a4a3f2eb4f8cd2b2ed22e7cbff8636d79144cf28"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/59.png"
+hash = "229d94b6a9c140a1c54c6f42d263baf5285f7daf5f944575efa3a7c1a6d8919d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/6.jpg"
-hash = "c07d5f2740a11351fabb978930a4a077b826e2528bd97022a73114aaa290d929"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/6.png"
+hash = "1fa83a006fdd0e5d095bef74d160713b455429decf15e2202470cc7d7956d98e"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/60.jpg"
-hash = "0c1fdff8149417e3d275119f7fdd69a318769a0f3489f461bc83b72133512669"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/60.png"
+hash = "f8314c4b1b06b867d14c28774abbee07803f4efae9cc0be5ae53c7a739bb775b"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/61.jpg"
-hash = "2ac78ca482bd45cd96f2496d3e281f1b8cdcedcb4cf51310bd02aeb900eb9d0b"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/61.png"
+hash = "f364d49169468b738c3a2e3e15fdeda569ea73e832f6bd0b950b5d06e7c1287c"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/62.jpg"
-hash = "a7b6d2fa8342fa86ad7398f76fefbc0cacce98c4647282bf49a38f9a443d42ee"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/62.png"
+hash = "f688828f2a5c2b058133afacd628b24edbbc5d90495e8cb18a9d6acbba325700"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/63.jpg"
-hash = "35523afc4c8318866d5e0ebd5f9bbc758f712249b71ba1ef061a2f549ebedba9"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/63.png"
+hash = "2c7adc4a759adcb95dfa6a72a03f0209e825c212579064c961c2ea8318c1f2c2"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/64.jpg"
-hash = "6a31fefe4430846325e66598b8e62bed20ba47506120a9ac7cf8409da2608a58"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/64.png"
+hash = "a661152bd6c077b23b4c71b495fe2238d298cdc8a2803933434de5e364b0192a"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/65.jpg"
-hash = "fcfe9243dec9095cfd0cafcf444a6988bbd51ea5c4f2d40f30d6022c02db3731"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/65.png"
+hash = "f6a50bcf84d03719deb9fcb6d842d2b1fde185f538f07b5cd0daee1765d494b1"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/66.jpg"
-hash = "2d118ee55154bc0e2bfda0f4b1d8288ceb12409e2993d5b51b50c18da5db0b8f"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/66.png"
+hash = "e1a584d7ae6fae5e3246fa9132cdf38f11fbea2c6dd592b91123178d42ef0b5a"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/67.jpg"
-hash = "bd2ef96a8f658fd6b05deb9f5c2524975c7231e8d70208347b3fae95ea4d9018"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/67.png"
+hash = "447fe731343f1c052bed1c8ea33a13c5481b1d68f0d6be0272788bb196fd4ded"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/68.jpg"
-hash = "18d893b2b5ac7a243247f30fe08971cfe80215dc12e14f27aea41b99c66e83a8"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/68.png"
+hash = "c909276d8244b8ad67aff742cfccf0a7a805308c04c5cf59915823c17b313bc5"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/69.jpg"
-hash = "20ea8d0ef694b4437baa7abb61f45d6adf01a3158282e428cdd99a216383ba53"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/69.png"
+hash = "3fc3783becc61560a052a584366f5d4cfbaa44ab32a745b13296635eb63f888d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/7.jpg"
-hash = "ab3f9634d8a2216512adb207081f5bae232e6e63199024ca58d713b8f4dbb130"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/7.png"
+hash = "189fffbce18b446c3c9fdcff048ebb0c8f1cd6526c34909570de15a0e00771b3"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/70.jpg"
-hash = "2aa0778b70c77969f2892c303496a534c0ccd0eacd73637708c08a46125f1351"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/70.png"
+hash = "6b018647e205803a12873a1d321aad28a5adb3a21291911520f3b550050f3a6f"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/71.jpg"
-hash = "bf41fb2d1d2aacdcdb4454cf3671e3f39eec42a9fb4fc9f5bec0770be7cc3b96"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/71.png"
+hash = "3baba5a74380d3ff837ee2d4a5d3daacc9a3861e688372f3d6d2e7134193e03a"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/72.jpg"
-hash = "9f5dcf2a216ddebd5aec2a40d9973824308b5e3e25fb5e7326bfc3639e35bd11"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/72.png"
+hash = "c77f324577214ce389dda3666e77d66f702c7f52f0b783c3e3e071eb6a4f9f8d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/73.jpg"
-hash = "765d72403078e55fa8a4171bc031d899c1521272883a2a435ea1bbadf2fb2030"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/73.png"
+hash = "1073a5572e480a63da2c9d00dbb2380c1c894168c980709e54e79f845c87d810"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/74.jpg"
-hash = "c0ef91aaa96fb16b27bfb92eb1ad89b20301934c454da37ccf903ea825c6dcbc"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/74.png"
+hash = "43be7b206b9a1deffc47bca803d93d06a2225360cf54447043aa79686c384970"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/75.jpg"
-hash = "b17504e776f0360164a3ed723310c472eed1c161225c5df84f7d3416c5e7f189"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/75.png"
+hash = "28c434601e5d56ef851b1ed4ebd8071fb32681d9f2aa3c41edbf88b5e7b468db"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/76.jpg"
-hash = "f3c35ce770640b4e505407d44a5ce184167a3ea0e146c7e5f59bba7880b0e23c"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/76.png"
+hash = "216dac2fe0b3fb6184b934350d6b0f75adf9c9738d98b0492efb3a9ef8bd1726"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/77.jpg"
-hash = "31b3b6822577c0730c7fe415708e36075d23f2e1a2dc8fd33c1c5787fc2cd057"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/77.png"
+hash = "d9759d3fd8108363f9efed0febdb80a6c42ec9141975f440f6cf4caa1a306f29"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/78.jpg"
-hash = "d93902c13decbc13aadc5f8767d1133ff0b4305925070e57d0c4132cb2b5764a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/78.png"
+hash = "3454e3104ee1c3cc1ccb4b26a64d94d3b5958f90676a4c983b1413f3412bf8c9"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/79.jpg"
-hash = "645b3fabaf53182b4bb74c91a3d3e75df98fa50088cf5074d62f28f115f22571"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/79.png"
+hash = "89a3b521ce0948bff82bc95d7d254600e3cb0b6a7e813b08ef31b36095bfaf24"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/8.jpg"
-hash = "6d881752cce6f60d97beed6a15be0377051c98a992f92eb7372df75d88836c06"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/8.png"
+hash = "9661ad83f18e3c12b7910c07821825a8af2f7ea031e87c892dbfb954419f0906"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/80.jpg"
-hash = "f51e75351df777bb10d40a1550086aeeb22c28fe40462e69b65e321e5dd1ac9e"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/80.png"
+hash = "75fa44d0c27d079d0a04e61408076dfb33a3082fdc046d0f9d54460c629c1db3"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/81.jpg"
-hash = "bff07cd465d99e1cfd5c6e7e0503b3a5b2aaa52cc39954f4b41ac86c61797cfe"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/81.png"
+hash = "d5ca4624993b0318140250aa751779aaa56e2c4fc3d1a074fc7ab87538c76905"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/82.jpg"
-hash = "8a62e87dfbdf0e1bdf2f6ad32544cae6c8b2b27bf858b29e57af92a57d9474ec"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/82.png"
+hash = "8767c15c6b0c551af31a13e62f1cf5dca63fa21549ccfff99272e9d285300f8b"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/83.jpg"
-hash = "e6abefb6d1837e63da585d63d1910bae6d82eb9967fd2f4cfe482134f519eca6"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/83.png"
+hash = "a83cd77ac8decab2ca4d2b6cb271d9e3105b3a190eaf641087e860bd94f7760d"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/84.jpg"
-hash = "bbb012eaf7e3ff3a573839c56dc88d7aa13d4078442a8cd72d9f25a6f941db9a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/84.png"
+hash = "d72a1ebbdd76215f63847e765477ba342c291f7eac83a6abd6949bdf94c92158"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/85.jpg"
-hash = "2b0d266ac0497570be451b035c4a69be4a3a77736ac72fc86a1cdbeed9879807"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/85.png"
+hash = "6c88d5a8412a29ef457a83d2bfe93183e50fcc4c6c88de722107625e24dc770a"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/86.jpg"
-hash = "e9ddf26a748e031c1093e6fff8cc6384f2a7ecb58ad1a1c69da90d3b8f255d6b"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/86.png"
+hash = "c52efeec51513db1b2d188ccc21c6251b2c24522b77ff082844f2b1f92f4c2fe"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/87.jpg"
-hash = "f2b837f3cbff120975c0508593259ac7c212dfc114dc41ab6be430f17c8595c3"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/87.png"
+hash = "70ee591d32b92dfdf940aa9259302a66757ac4c72c0b184b33e4096723d68299"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/88.jpg"
-hash = "4c82d6bbc4a1d38bdd2c96395cbd6d611f6117857b957f24df53a68ba1b59749"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/88.png"
+hash = "5e7df2b38afecd22d6ece95d0169450ca2001bcfe2a2460d638700f98cca0a89"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/89.jpg"
-hash = "91002bd55e3fa82f9f6bbcaaf4745d4c24365fae88562311c9b725fdfd3b206a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/89.png"
+hash = "91fccab2e7db3c20187cf53b357d915312250505f423541d3e0df0e0f6af572b"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/9.jpg"
-hash = "f3facc56391041c2cf15bae2ff595fbee96fad3e2ce6ecf0218ddb04e52c09ee"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/9.png"
+hash = "90e1619410f2c78ac13b5a397d49ac6125f86f7bc5964f6d1ec82d823b3c9bc1"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/90.jpg"
-hash = "8c6f2d0f3a3f4ba4f5888b73424947fcf3a11ed6f5124408a5633e956da06f74"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/90.png"
+hash = "1445f694e4cc794adc4be888dd213949e503a4f6dd86b139974a64b8c5229d2f"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/91.jpg"
-hash = "35664482f67d1955a407f60d0cf57f11300a9a15bbed12261da6b2ed5654be4c"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/91.png"
+hash = "7255e07043e6020d42c542b3b2cfc5b29bd0a4307b71e951726f44c6f15ac0f8"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/92.jpg"
-hash = "c1f90e35acdd2323d53866abbc6936f6ffea24e703fc488b329975aa5da836de"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/92.png"
+hash = "1e2970fba9d10b4222ce20def442f14211658d4ab8ee6b7ce78b396988bdf1d6"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/93.jpg"
-hash = "87bc484986997bcaf479b75eb11ed4252b80c11f1a59e184f8840af3e119d12f"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/93.png"
+hash = "cae37fe28d0a48faef40b5706581df01a7a14d9f9d799dbe4105ed2f97d38625"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/94.jpg"
-hash = "d4ab953284acb9338fc03ec21b481626142b6518086349718df809a2f0a42d10"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/94.png"
+hash = "1f8ae4fe23a7b264302761ac5c6fdeaeae99f8cbb84245632c799f135d220941"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/95.jpg"
-hash = "530c630c9274b92e986f3ab08983e0b8f03eb25e99542548d76ee408d292334a"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/95.png"
+hash = "cb9193a59b8266971d573dc51a2b8bdc5512d9d665e6ba84b23bba18cd6d9dca"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/96.jpg"
-hash = "9c94872c9f7c26a3643c5971c6419f6f934698026aa3ecf18ce0ed6d6df8bfce"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/96.png"
+hash = "c6e11c7e11ffef91ee9a8c34a0a4157fe39839fc1d34bc94f01ea7ce1e0889b4"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/97.jpg"
-hash = "017c8cda81de2ca6047455efb4e813c99351de12484bb020fdb32aab6704ab13"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/97.png"
+hash = "f3473ea36a99dcae3b0d807a30a52d7265df01fcdb6dbb91c3bd40330ad7a72c"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/98.jpg"
-hash = "426b733d97b6734ccd6dbffbc87d33c5a14d544f876d2bd8bce5078f26f25b54"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/98.png"
+hash = "4e33fbc0a7118632ec1c09f524480f066454ed601b35f425df905f480fdfb3ca"
 
 [[files]]
-file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/99.jpg"
-hash = "69928f5cd5a9598c1db66fff632542a1c0e5e71ee32a56fc88e6bbed95bc69ea"
+file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/assets/minecraft_cave_animation_fancymenu_21938kf312/frames_main/99.png"
+hash = "f1b61e6e0a8822ee41032b1e0cded178899e6a4b19d157de218f836f24318376"
 
 [[files]]
 file = "resourcepacks/minecraft_cave_animation_fancymenu_21938kf312/pack.mcmeta"
@@ -2099,11 +2033,7 @@ hash = "56acd5e1367b3c4e413e6ee19f8b5f31322ffd54df3d603db19f1093bc317778"
 
 [[files]]
 file = "servers.dat"
-hash = "87bbb1cc4da00471f39db84a94752addd6637f000901f91ca221b0d8bef1eef2"
-
-[[files]]
-file = "servers.dat_old"
-hash = "87bbb1cc4da00471f39db84a94752addd6637f000901f91ca221b0d8bef1eef2"
+hash = "cc618a4f7cfbdc6a9b2de65f5926806694225e715a07b2756fcd722bf3035e49"
 
 [[files]]
 file = "shaderpacks/BSL_v8.1.02.2.zip"

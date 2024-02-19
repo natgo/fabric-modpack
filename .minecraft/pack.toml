@@ -1,4 +1,4 @@
-name = "fabirc"
+name = "fabric-vanilla"
 author = "natgo"
 version = "1.20.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5e0fa6fa705f0438ed6260de621793829e4fc355c47bd0e2f134fbc65cc219b3"
+hash = "95f8a5b41893b78ee5842c3931c80cb8759dff81e5c4cdf61fb4166cd529b5b1"
 
 [versions]
-fabric = "0.14.21"
-minecraft = "1.20.1"
+fabric = "0.15.7"
+minecraft = "1.20.4"
 
 [options]
-acceptable-game-versions = ["1.19.4", "1.20", "1.20.1"]
+acceptable-game-versions = ["1.19.4", "1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4"]
