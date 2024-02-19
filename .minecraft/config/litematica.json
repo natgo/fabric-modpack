@@ -328,7 +328,7 @@
     "verifierErrorHilightMaxPositions": 1000
   },
   "Visuals": {
-    "enableRendering": true,
+    "enableRendering": false,
     "enableSchematicRendering": true,
     "enableAreaSelectionBoxesRendering": true,
     "enablePlacementBoxesRendering": true,
@@ -337,7 +337,7 @@
     "ignoreExistingFluids": false,
     "overlayReducedInnerSides": false,
     "renderAreaSelectionBoxSides": true,
-    "renderBlocksAsTranslucent": false,
+    "renderBlocksAsTranslucent": true,
     "renderCollidingSchematicBlocks": false,
     "renderErrorMarkerConnections": false,
     "renderErrorMarkerSides": true,

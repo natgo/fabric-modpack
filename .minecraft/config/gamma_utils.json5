@@ -12,6 +12,7 @@
 		"maxGamma": 500,
 		"gammaStep": 10,
 		"showMessage": true,
+		"showNightVisionIcon": false,
 		"resetOnClose": true
 	}
 }

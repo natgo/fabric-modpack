@@ -1,48 +1,48 @@
 {
   "easiercrafting.config.allowinternalbutton": {
-    "key": "easiercrafting.config.allowinternalbutton",
+    "key": "Allow MC internal recipe book",
     "toolTip": "easiercrafting.config.tt.allowinternalbutton",
     "value": true,
     "defaultValue": true
   },
   "easiercrafting.config.hidewithrei": {
-    "key": "easiercrafting.config.hidewithrei",
+    "key": "Hide GUI when REI is shown",
     "toolTip": "easiercrafting.config.tt.hidewithrei",
     "value": true,
     "defaultValue": true
   },
   "easiercrafting.config.hidebrewingstandbutton": {
-    "key": "easiercrafting.config.hidebrewingstandbutton",
+    "key": "Hide \u0027Take\u0027 button in brewing stand",
     "toolTip": "easiercrafting.config.tt.hidebrewingstandbutton",
     "value": false,
     "defaultValue": false
   },
   "easiercrafting.config.guiright": {
-    "key": "easiercrafting.config.guiright",
+    "key": "Show GUI right of inventory",
     "toolTip": "easiercrafting.config.tt.guiright",
-    "value": true,
+    "value": false,
     "defaultValue": true
   },
   "easiercrafting.config.categorize": {
-    "key": "easiercrafting.config.categorize",
+    "key": "Categorize recipes",
     "toolTip": "easiercrafting.config.tt.categorize",
     "value": true,
     "defaultValue": true
   },
   "easiercrafting.config.specialrecipes": {
-    "key": "easiercrafting.config.specialrecipes",
+    "key": "Allow special recipes",
     "toolTip": "easiercrafting.config.tt.specialrecipes",
     "value": true,
     "defaultValue": true
   },
   "easiercrafting.config.autofocus": {
-    "key": "easiercrafting.config.autofocus",
+    "key": "Auto focus search text",
     "toolTip": "easiercrafting.config.tt.autofocus",
     "value": false,
     "defaultValue": false
   },
   "easiercrafting.config.loomclickspeed": {
-    "key": "easiercrafting.config.loomclickspeed",
+    "key": "Speed to click the loom",
     "toolTip": "easiercrafting.config.tt.loomclickspeed",
     "value": 3,
     "defaultValue": 3,
@@ -50,7 +50,7 @@
     "maxValue": 20
   },
   "easiercrafting.config.autoupdate": {
-    "key": "easiercrafting.config.autoupdate",
+    "key": "Auto update recipe timer",
     "toolTip": "easiercrafting.config.tt.autoupdate",
     "value": 5,
     "defaultValue": 2,
@@ -58,7 +58,7 @@
     "maxValue": 30
   },
   "easiercrafting.config.maxenchants": {
-    "key": "easiercrafting.config.maxenchants",
+    "key": "Max. enchants",
     "toolTip": "easiercrafting.config.tt.maxenchants",
     "value": 0,
     "defaultValue": 0,
@@ -66,7 +66,7 @@
     "maxValue": 10
   },
   "easiercrafting.config.fadeout": {
-    "key": "easiercrafting.config.fadeout",
+    "key": "Hide recipes before update time",
     "toolTip": "easiercrafting.config.tt.fadeout",
     "value": 500,
     "defaultValue": 500,

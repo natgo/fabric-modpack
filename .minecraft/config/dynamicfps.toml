@@ -1,4 +1,4 @@
-reduceFPSWhenUnfocused = false
+reduceFPSWhenUnfocused = true
 unfocusedFPS = 1
 restoreFPSWhenHovered = true
 unfocusedVolumeMultiplier = 0.5
